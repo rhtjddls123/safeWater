@@ -2,7 +2,7 @@ import { List } from "antd-mobile";
 import { groupByFirstLetter } from "../util/groupByFirstLetter";
 
 interface ProductsListProps {
-  data: string[];
+  data: ProductType[];
 }
 
 const ProductsList = ({ data }: ProductsListProps) => {

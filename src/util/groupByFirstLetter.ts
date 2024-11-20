@@ -1,13 +1,13 @@
 import { getChoseong } from "es-hangul";
 
-export const groupByFirstLetter = (wordList: string[]) => {
+export const groupByFirstLetter = (datas: ProductType[]) => {
   const result: { title: string; items: string[] }[] = [];
 
   const isKorean = (char: string) => /[가-힣]/.test(char); // 한글 여부 판단
   const isEnglish = (char: string) => /[a-zA-Z]/.test(char); // 영어 여부 판단
 
-  wordList.forEach((word) => {
-    const firstChar = word[0];
+  datas.forEach((data) => {
+    const firstChar = data.name[0];
     let title = "";
 
     if (isKorean(firstChar)) {
@@ -20,9 +20,9 @@ export const groupByFirstLetter = (wordList: string[]) => {
 
     const existingGroup = result.find((group) => group.title === title);
     if (existingGroup) {
-      existingGroup.items.push(word);
+      existingGroup.items.push(data.name);
     } else {
-      result.push({ title, items: [word] });
+      result.push({ title, items: [data.name] });
     }
   });
 
