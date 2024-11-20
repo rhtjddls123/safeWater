@@ -9,7 +9,7 @@ const RootLayout = () => {
         <div className={"flex-none border-b "}>
           <NavBar backIcon={false}>SAFE WATER</NavBar>
         </div>
-        <div className={"flex flex-1 justify-center items-center overflow-auto"}>
+        <div className={"flex-1 justify-center items-center overflow-auto"}>
           <Outlet />
         </div>
         <div className={"flex-none border-t"}>
