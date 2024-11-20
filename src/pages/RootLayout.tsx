@@ -6,13 +6,13 @@ const RootLayout = () => {
   return (
     <>
       <div className={"h-screen flex flex-col"}>
-        <div className={"flex-none border-b border-adm-color-border"}>
+        <div className={"flex-none border-b "}>
           <NavBar backIcon={false}>SAFE WATER</NavBar>
         </div>
-        <div className={"flex-1 flex justify-center items-center"}>
+        <div className={"flex flex-1 justify-center items-center overflow-auto"}>
           <Outlet />
         </div>
-        <div className={"flex-none border-t border-adm-color-border"}>
+        <div className={"flex-none border-t"}>
           <NavigationBar />
         </div>
       </div>
