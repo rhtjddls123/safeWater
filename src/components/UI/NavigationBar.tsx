@@ -20,14 +20,9 @@ const NavigationBar = () => {
   ];
   return (
     <div>
-      <TabBar activeKey={location.pathname}>
+      <TabBar activeKey={location.pathname} onChange={(key) => navigate(key)}>
         {tabs.map((item) => (
-          <TabBar.Item
-            key={item.key}
-            icon={item.icon}
-            title={item.title}
-            onClick={() => navigate(item.path)}
-          />
+          <TabBar.Item key={item.key} icon={item.icon} title={item.title} />
         ))}
       </TabBar>
     </div>
