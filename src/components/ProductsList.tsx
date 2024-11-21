@@ -22,6 +22,7 @@ const ProductsList = ({ data, searchTerm }: ProductsListProps) => {
           <List header={title} key={title}>
             {items.map((item) => (
               <List.Item
+                key={item.id}
                 onClick={() => {
                   navigate(item.id);
                 }}
