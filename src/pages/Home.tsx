@@ -1,9 +1,23 @@
-import { SearchBar, SpinLoading } from "antd-mobile";
+import { InputRef, SearchBar, SpinLoading } from "antd-mobile";
 import ProductsList from "../components/ProductsList";
 import { useGetProducts } from "../store/products";
 import CustomErrorBlock from "../components/UI/CustomErrorBlock";
+import { useMemo, useRef, useState } from "react";
+import { debounce } from "lodash";
 
 const HomePage = () => {
+  const searchRef = useRef<InputRef>(null);
+  const [searchTerm, setSearchTerm] = useState("");
+
+  const debouncedUpdateQuery = useMemo(
+    () =>
+      debounce(() => {
+        if (searchRef.current?.nativeElement)
+          setSearchTerm(searchRef.current?.nativeElement?.value);
+      }, 500),
+    []
+  );
+
   const { data, isPending, isError, error } = useGetProducts();
   let content;
 
@@ -22,12 +36,16 @@ const HomePage = () => {
   return (
     <div className="h-full flex flex-col">
       <div className="flex-none p-4">
-        <SearchBar placeholder="Search for a product" />
+        <SearchBar
+          placeholder="Search for a product"
+          ref={searchRef}
+          onChange={debouncedUpdateQuery}
+        />
       </div>
 
       <div className="flex-1 overflow-auto">
         {data ? (
-          <ProductsList data={data || []} />
+          <ProductsList data={data || []} searchTerm={searchTerm} />
         ) : (
           <div className="flex justify-center items-center h-full">{content}</div>
         )}

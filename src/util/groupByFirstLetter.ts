@@ -1,7 +1,7 @@
 import { getChoseong } from "es-hangul";
 
 export const groupByFirstLetter = (datas: ProductType[]) => {
-  const result: { title: string; items: string[] }[] = [];
+  const result: { title: string; items: ProductType[] }[] = [];
 
   const isKorean = (char: string) => /[가-힣]/.test(char); // 한글 여부 판단
   const isEnglish = (char: string) => /[a-zA-Z]/.test(char); // 영어 여부 판단
@@ -20,9 +20,9 @@ export const groupByFirstLetter = (datas: ProductType[]) => {
 
     const existingGroup = result.find((group) => group.title === title);
     if (existingGroup) {
-      existingGroup.items.push(data.name);
+      existingGroup.items.push(data);
     } else {
-      result.push({ title, items: [data.name] });
+      result.push({ title, items: [data] });
     }
   });
 
@@ -35,7 +35,7 @@ export const groupByFirstLetter = (datas: ProductType[]) => {
     })
     .map((group) => ({
       ...group,
-      items: group.items.sort((a, b) => a.localeCompare(b)) // 각 items 배열 정렬
+      items: group.items.sort((a, b) => a.name.localeCompare(b.name)) // 각 items 배열 정렬
     }));
 
   return sortedResult;
