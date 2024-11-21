@@ -2,7 +2,7 @@ interface FactoryDataType {
   id: string;
   companyName: string;
   factoryLocation: string;
-  productNames: ProductType[];
+  productNames: { productId: string; name: string }[];
 }
 
 interface RawTestType {
@@ -40,4 +40,9 @@ interface SamplingTest {
 interface ProductType {
   id: string;
   name: string;
+  factories: {
+    factoryId: string;
+    companyName: string;
+    factoryLocation: string;
+  }[];
 }

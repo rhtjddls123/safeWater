@@ -6,15 +6,15 @@
       "factoryLocation": "충청북도 옥천군 청성면 청성로 76",
       "productNames": [
         {
-          "id": "prid1",
+          "productId": "prid1",
           "name": "헬시언"
         },
         {
-          "id": "prid2",
+          "productId": "prid2",
           "name": "용천옥수"
         },
         {
-          "id": "prid3",
+          "productId": "prid3",
           "name": "웰아이수"
         }
       ]
@@ -25,7 +25,7 @@
       "factoryLocation": "충청북도 청주시 상당구 미원면 성대2길 59",
       "productNames": [
         {
-          "id": "prid4",
+          "productId": "prid4",
           "name": "아이시스8.0"
         }
       ]
@@ -36,27 +36,27 @@
       "factoryLocation": "충청북도 괴산군 불정면 하산로1길 33-10",
       "productNames": [
         {
-          "id": "prid5",
+          "productId": "prid5",
           "name": "동원샘물"
         },
         {
-          "id": "prid6",
+          "productId": "prid6",
           "name": "웨이크업뷰티"
         },
         {
-          "id": "prid7",
+          "productId": "prid7",
           "name": "수풀림"
         },
         {
-          "id": "prid8",
+          "productId": "prid8",
           "name": "샘이깊은물동원샘물"
         },
         {
-          "id": "prid9",
+          "productId": "prid9",
           "name": "동원샘물 미네마인"
         },
         {
-          "id": "prid10",
+          "productId": "prid10",
           "name": "마이워터"
         }
       ]
@@ -67,63 +67,63 @@
       "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308",
       "productNames": [
         {
-          "id": "prid11",
+          "productId": "prid11",
           "name": "석수"
         },
         {
-          "id": "prid12",
+          "productId": "prid12",
           "name": "퓨리스"
         },
         {
-          "id": "prid13",
+          "productId": "prid13",
           "name": "코레버행복할수"
         },
         {
-          "id": "prid14",
+          "productId": "prid14",
           "name": "PARK HYATT SEOUL"
         },
         {
-          "id": "prid15",
+          "productId": "prid15",
           "name": "진로석수"
         },
         {
-          "id": "prid16",
+          "productId": "prid16",
           "name": "미네랄워터"
         },
         {
-          "id": "prid17",
+          "productId": "prid17",
           "name": "탐사수"
         },
         {
-          "id": "prid18",
+          "productId": "prid18",
           "name": "탐사베이직수"
         },
         {
-          "id": "prid19",
+          "productId": "prid19",
           "name": "탐사샘물"
         },
         {
-          "id": "prid20",
+          "productId": "prid20",
           "name": "THE SHILLA"
         },
         {
-          "id": "prid21",
+          "productId": "prid21",
           "name": "낙원그룹"
         },
         {
-          "id": "prid22",
+          "productId": "prid22",
           "name": "I*POP"
         },
         {
-          "id": "prid23",
+          "productId": "prid23",
           "name": "서가앤쿡프레시워터"
         },
         {
-          "id": "prid24",
+          "productId": "prid24",
           "name": "물한빙"
         },
         {
-          "id": "prid25",
+          "productId": "prid25",
           "name": "루솔"
         }
       ]
@@ -134,7 +134,7 @@
       "factoryLocation": "청창남도 청양군 정산면 한티고개길 258-14",
       "productNames": [
         {
-          "id": "prid26",
+          "productId": "prid26",
           "name": "칠갑산맑은물"
         }
       ]
@@ -145,35 +145,35 @@
       "factoryLocation": "충청남도 금산군 추부면 개덕사길 70",
       "productNames": [
         {
-          "id": "prid27",
+          "productId": "prid27",
           "name": "금산수"
         },
         {
-          "id": "prid28",
+          "productId": "prid28",
           "name": "gastro tabel(가스트로 테이블)"
         },
         {
-          "id": "prid29",
+          "productId": "prid29",
           "name": "PARADISE CITY"
         },
         {
-          "id": "prid30",
+          "productId": "prid30",
           "name": "Connect Terrace"
         },
         {
-          "id": "prid31",
+          "productId": "prid31",
           "name": "쟈뎅까페리얼워터큐브"
         },
         {
-          "id": "prid11",
+          "productId": "prid11",
           "name": "석수"
         },
         {
-          "id": "prid32",
+          "productId": "prid32",
           "name": "본도시락미네랄워터"
         },
         {
-          "id": "prid33",
+          "productId": "prid33",
           "name": "FOOD AVENUE LOTTE DEPARTMENT STORE"
         }
       ]
@@ -184,7 +184,7 @@
       "factoryLocation": "충청남도 공주시 정안면 가락골길 131-69",
       "productNames": [
         {
-          "id": "prid34",
+          "productId": "prid34",
           "name": "스파클"
         }
       ]
@@ -195,11 +195,11 @@
       "factoryLocation": "충청남도 천안시 동남구 목천읍 덕전1길 223",
       "productNames": [
         {
-          "id": "prid11",
+          "productId": "prid11",
           "name": "석수"
         },
         {
-          "id": "prid12",
+          "productId": "prid12",
           "name": "퓨리스"
         }
       ]
@@ -210,15 +210,15 @@
       "factoryLocation": "충청남도 천안시 동남구 성남면 대정1길 19-11",
       "productNames": [
         {
-          "id": "prid34",
+          "productId": "prid34",
           "name": "스파클"
         },
         {
-          "id": "prid35",
+          "productId": "prid35",
           "name": "맛있는물"
         },
         {
-          "id": "prid17",
+          "productId": "prid17",
           "name": "탐사수"
         }
       ]
@@ -229,19 +229,19 @@
       "factoryLocation": "전라남도 구례군 산동면 효동길 30-10",
       "productNames": [
         {
-          "id": "prid36",
+          "productId": "prid36",
           "name": "지리산 천년수"
         },
         {
-          "id": "prid37",
+          "productId": "prid37",
           "name": "셀밸런水"
         },
         {
-          "id": "prid38",
+          "productId": "prid38",
           "name": "지리산 산수려"
         },
         {
-          "id": "prid39",
+          "productId": "prid39",
           "name": "New서울생수"
         }
       ]
@@ -252,19 +252,19 @@
       "factoryLocation": "전라남도 담양군 용면 추월산로 735",
       "productNames": [
         {
-          "id": "prid11",
+          "productId": "prid11",
           "name": "석수"
         },
         {
-          "id": "prid12",
+          "productId": "prid12",
           "name": "퓨리스"
         },
         {
-          "id": "prid34",
+          "productId": "prid34",
           "name": "스파클"
         },
         {
-          "id": "prid40",
+          "productId": "prid40",
           "name": "순창샘물"
         }
       ]
@@ -275,15 +275,15 @@
       "factoryLocation": "경상북도 영양군 일월면 오리도곡로 435",
       "productNames": [
         {
-          "id": "prid41",
+          "productId": "prid41",
           "name": "아인수"
         },
         {
-          "id": "prid42",
+          "productId": "prid42",
           "name": "칠보석아인수"
         },
         {
-          "id": "prid43",
+          "productId": "prid43",
           "name": "PH8.4 SEVEN JEWELS"
         }
       ]
@@ -294,7 +294,7 @@
       "factoryLocation": "경상북도 상주시 헌신산단로 67",
       "productNames": [
         {
-          "id": "prid44",
+          "productId": "prid44",
           "name": "천년수"
         }
       ]
@@ -305,39 +305,39 @@
       "factoryLocation": "경상북도 영주시 풍기읍 소백로 2141-16",
       "productNames": [
         {
-          "id": "prid45",
+          "productId": "prid45",
           "name": "소백산수"
         },
         {
-          "id": "prid46",
+          "productId": "prid46",
           "name": "호텔올라"
         },
         {
-          "id": "prid47",
+          "productId": "prid47",
           "name": "하루8"
         },
         {
-          "id": "prid48",
+          "productId": "prid48",
           "name": "물은감로수(물은GAMROSU)"
         },
         {
-          "id": "prid49",
+          "productId": "prid49",
           "name": "소백"
         },
         {
-          "id": "prid5",
+          "productId": "prid5",
           "name": "동원샘물"
         },
         {
-          "id": "prid50",
+          "productId": "prid50",
           "name": "미네마인"
         },
         {
-          "id": "prid51",
+          "productId": "prid51",
           "name": "이디야워터"
         },
         {
-          "id": "prid52",
+          "productId": "prid52",
           "name": "보고잇수(bogoitsu)"
         }
       ]
@@ -348,19 +348,19 @@
       "factoryLocation": "경상북도 청도군 각북면 덕촌1길 38-7",
       "productNames": [
         {
-          "id": "prid53",
+          "productId": "prid53",
           "name": "푸르미네"
         },
         {
-          "id": "prid54",
+          "productId": "prid54",
           "name": "Icis(아이시스) 8.0"
         },
         {
-          "id": "prid55",
+          "productId": "prid55",
           "name": "Icis(아이시스)"
         },
         {
-          "id": "prid56",
+          "productId": "prid56",
           "name": "깊은산맑은물"
         }
       ]
@@ -371,31 +371,31 @@
       "factoryLocation": "경상북도 상주시 화북면 문장로 1623-32",
       "productNames": [
         {
-          "id": "prid57",
+          "productId": "prid57",
           "name": "속리산 천년수"
         },
         {
-          "id": "prid58",
+          "productId": "prid58",
           "name": "가야 g water"
         },
         {
-          "id": "prid17",
+          "productId": "prid17",
           "name": "탐사수"
         },
         {
-          "id": "prid44",
+          "productId": "prid44",
           "name": "천년수"
         },
         {
-          "id": "prid59",
+          "productId": "prid59",
           "name": "동아오츠카 마신다"
         },
         {
-          "id": "prid58",
+          "productId": "prid58",
           "name": "가야 g water"
         },
         {
-          "id": "prid60",
+          "productId": "prid60",
           "name": "가야 g water ECO"
         }
       ]
@@ -406,23 +406,23 @@
       "factoryLocation": "경상남도 하동군 청암면 청학로 2219-85",
       "productNames": [
         {
-          "id": "prid61",
+          "productId": "prid61",
           "name": "풀무원샘물 by Nature"
         },
         {
-          "id": "prid62",
+          "productId": "prid62",
           "name": "풀무원샘물"
         },
         {
-          "id": "prid63",
+          "productId": "prid63",
           "name": "풀무원 맛있는 샘물"
         },
         {
-          "id": "prid11",
+          "productId": "prid11",
           "name": "석수"
         },
         {
-          "id": "prid12",
+          "productId": "prid12",
           "name": "퓨리스"
         }
       ]
@@ -433,11 +433,11 @@
       "factoryLocation": "경상남도 고성군 구만면 구만로 1010",
       "productNames": [
         {
-          "id": "prid34",
+          "productId": "prid34",
           "name": "스파클"
         },
         {
-          "id": "prid5",
+          "productId": "prid5",
           "name": "동원샘물"
         }
       ]
@@ -448,15 +448,15 @@
       "factoryLocation": "경상남도 하동군 화개면 범왕길 254-19",
       "productNames": [
         {
-          "id": "prid64",
+          "productId": "prid64",
           "name": "오(eau)"
         },
         {
-          "id": "prid65",
+          "productId": "prid65",
           "name": "쉐프큐QNC샘물"
         },
         {
-          "id": "prid66",
+          "productId": "prid66",
           "name": "지리산산수"
         }
       ]
@@ -467,63 +467,63 @@
       "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94",
       "productNames": [
         {
-          "id": "prid67",
+          "productId": "prid67",
           "name": "샘소슬"
         },
         {
-          "id": "prid68",
+          "productId": "prid68",
           "name": "수워터"
         },
         {
-          "id": "prid69",
+          "productId": "prid69",
           "name": "아이스워터"
         },
         {
-          "id": "prid70",
+          "productId": "prid70",
           "name": "ICE WATER"
         },
         {
-          "id": "prid71",
+          "productId": "prid71",
           "name": "풀무원 맛있는샘물"
         },
         {
-          "id": "prid62",
+          "productId": "prid62",
           "name": "풀무원샘물"
         },
         {
-          "id": "prid72",
+          "productId": "prid72",
           "name": "풀무원 워터루틴"
         },
         {
-          "id": "prid52",
+          "productId": "prid52",
           "name": "보고잇수(bogoitsu)"
         },
         {
-          "id": "prid59",
+          "productId": "prid59",
           "name": "동아오츠카 마신다"
         },
         {
-          "id": "prid11",
+          "productId": "prid11",
           "name": "석수"
         },
         {
-          "id": "prid12",
+          "productId": "prid12",
           "name": "퓨리스"
         },
         {
-          "id": "prid34",
+          "productId": "prid34",
           "name": "스파클"
         },
         {
-          "id": "prid73",
+          "productId": "prid73",
           "name": "화이트"
         },
         {
-          "id": "prid44",
+          "productId": "prid44",
           "name": "천년수"
         },
         {
-          "id": "prid74",
+          "productId": "prid74",
           "name": "ZERO"
         }
       ]
@@ -534,19 +534,19 @@
       "factoryLocation": "경상남도 김해시 상동면 장척로462번길 67-21",
       "productNames": [
         {
-          "id": "prid75",
+          "productId": "prid75",
           "name": "다르다"
         },
         {
-          "id": "prid5",
+          "productId": "prid5",
           "name": "동원샘물"
         },
         {
-          "id": "prid52",
+          "productId": "prid52",
           "name": "보고잇수(bogoitsu)"
         },
         {
-          "id": "prid76",
+          "productId": "prid76",
           "name": "일화 광천수"
         }
       ]
@@ -557,35 +557,35 @@
       "factoryLocation": "경상남도 산청군 삼장면 친환경로 462-30",
       "productNames": [
         {
-          "id": "prid77",
+          "productId": "prid77",
           "name": "지리산수워터"
         },
         {
-          "id": "prid78",
+          "productId": "prid78",
           "name": "ECO JIRISAN SOO WATER"
         },
         {
-          "id": "prid79",
+          "productId": "prid79",
           "name": "지리산 산수"
         },
         {
-          "id": "prid80",
+          "productId": "prid80",
           "name": "LK동의보감한천수"
         },
         {
-          "id": "prid73",
+          "productId": "prid73",
           "name": "화이트"
         },
         {
-          "id": "prid81",
+          "productId": "prid81",
           "name": "ECO화이트"
         },
         {
-          "id": "prid76",
+          "productId": "prid76",
           "name": "일화 광천수"
         },
         {
-          "id": "prid82",
+          "productId": "prid82",
           "name": "일화 광천수 무라벨"
         }
       ]
@@ -596,39 +596,39 @@
       "factoryLocation": "경상남도 산청군 삼장면 친환경로 460-22",
       "productNames": [
         {
-          "id": "prid73",
+          "productId": "prid73",
           "name": "화이트"
         },
         {
-          "id": "prid83",
+          "productId": "prid83",
           "name": "ECO 화이트"
         },
         {
-          "id": "prid84",
+          "productId": "prid84",
           "name": "맑은샘지리산"
         },
         {
-          "id": "prid85",
+          "productId": "prid85",
           "name": "지리산을 그대로 담은 뽀로로샘물"
         },
         {
-          "id": "prid86",
+          "productId": "prid86",
           "name": "숲속의 맑은샘물"
         },
         {
-          "id": "prid87",
+          "productId": "prid87",
           "name": "지리산 청정수"
         },
         {
-          "id": "prid58",
+          "productId": "prid58",
           "name": "가야 g water"
         },
         {
-          "id": "prid60",
+          "productId": "prid60",
           "name": "가야 g water ECO"
         },
         {
-          "id": "prid88",
+          "productId": "prid88",
           "name": "가야 water"
         }
       ]
@@ -639,19 +639,19 @@
       "factoryLocation": "경상남도 합천군 묘산면 영서로 1724-12",
       "productNames": [
         {
-          "id": "prid89",
+          "productId": "prid89",
           "name": "가야산천년수"
         },
         {
-          "id": "prid44",
+          "productId": "prid44",
           "name": "천년수"
         },
         {
-          "id": "prid90",
+          "productId": "prid90",
           "name": "얼수"
         },
         {
-          "id": "prid91",
+          "productId": "prid91",
           "name": "동아오츠카마신다"
         }
       ]
@@ -662,43 +662,43 @@
       "factoryLocation": "경상남도 산청군 시천면 남명로 59-61",
       "productNames": [
         {
-          "id": "prid92",
+          "productId": "prid92",
           "name": "HEYROO미네랄워터"
         },
         {
-          "id": "prid93",
+          "productId": "prid93",
           "name": "얼쑤얼水"
         },
         {
-          "id": "prid94",
+          "productId": "prid94",
           "name": "미네랄워터ECO"
         },
         {
-          "id": "prid95",
+          "productId": "prid95",
           "name": "Homeplus Signature 맑은샘물"
         },
         {
-          "id": "prid96",
+          "productId": "prid96",
           "name": "바른샘물"
         },
         {
-          "id": "prid97",
+          "productId": "prid97",
           "name": "하루이리터"
         },
         {
-          "id": "prid98",
+          "productId": "prid98",
           "name": "ICIS(아이시스) 8.0"
         },
         {
-          "id": "prid99",
+          "productId": "prid99",
           "name": "ICIS(아이시스)"
         },
         {
-          "id": "prid100",
+          "productId": "prid100",
           "name": "내몸애70%"
         },
         {
-          "id": "prid101",
+          "productId": "prid101",
           "name": "PARADISE"
         }
       ]
@@ -709,51 +709,51 @@
       "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460",
       "productNames": [
         {
-          "id": "prid102",
+          "productId": "prid102",
           "name": "지리산물하나"
         },
         {
-          "id": "prid103",
+          "productId": "prid103",
           "name": "지리산물하나eco"
         },
         {
-          "id": "prid104",
+          "productId": "prid104",
           "name": "미네랄워터(MINERAL WATER)"
         },
         {
-          "id": "prid105",
+          "productId": "prid105",
           "name": "YOUUS지리산맑은샘물"
         },
         {
-          "id": "prid106",
+          "productId": "prid106",
           "name": "지리산수(JIRISANSOO)"
         },
         {
-          "id": "prid107",
+          "productId": "prid107",
           "name": "NATURAL MINERAL WATER"
         },
         {
-          "id": "prid108",
+          "productId": "prid108",
           "name": "우리샘물수"
         },
         {
-          "id": "prid109",
+          "productId": "prid109",
           "name": "추신水"
         },
         {
-          "id": "prid110",
+          "productId": "prid110",
           "name": "지리산암반수"
         },
         {
-          "id": "prid111",
+          "productId": "prid111",
           "name": "㈜정상북한산리조트 네추럴미네랄워터"
         },
         {
-          "id": "prid112",
+          "productId": "prid112",
           "name": "정식품 지리산 심천수(深泉水)"
         },
         {
-          "id": "prid113",
+          "productId": "prid113",
           "name": "유진샘물"
         }
       ]
@@ -764,7 +764,7 @@
       "factoryLocation": "울산광역시 울주군 상북면 석남로 660",
       "productNames": [
         {
-          "id": "prid34",
+          "productId": "prid34",
           "name": "스파클"
         }
       ]
@@ -775,11 +775,11 @@
       "factoryLocation": "울산광역시 울주군 두서면 옥동길 116",
       "productNames": [
         {
-          "id": "prid34",
+          "productId": "prid34",
           "name": "스파클"
         },
         {
-          "id": "prid17",
+          "productId": "prid17",
           "name": "탐사수"
         }
       ]
@@ -790,43 +790,43 @@
       "factoryLocation": "세종특별자치시 전의면 상대부길 33",
       "productNames": [
         {
-          "id": "prid11",
+          "productId": "prid11",
           "name": "석수"
         },
         {
-          "id": "prid12",
+          "productId": "prid12",
           "name": "퓨리스"
         },
         {
-          "id": "prid17",
+          "productId": "prid17",
           "name": "탐사수"
         },
         {
-          "id": "prid18",
+          "productId": "prid18",
           "name": "탐사베이직수"
         },
         {
-          "id": "prid19",
+          "productId": "prid19",
           "name": "탐사샘물"
         },
         {
-          "id": "prid16",
+          "productId": "prid16",
           "name": "미네랄워터"
         },
         {
-          "id": "prid114",
+          "productId": "prid114",
           "name": "알파수"
         },
         {
-          "id": "prid20",
+          "productId": "prid20",
           "name": "THE SHILLA"
         },
         {
-          "id": "prid13",
+          "productId": "prid13",
           "name": "코레버행복할수"
         },
         {
-          "id": "prid22",
+          "productId": "prid22",
           "name": "I*POP"
         }
       ]
@@ -837,43 +837,43 @@
       "factoryLocation": "경기도 포천시 이동면 금강로 6085-23",
       "productNames": [
         {
-          "id": "prid115",
+          "productId": "prid115",
           "name": "백운이동샘물"
         },
         {
-          "id": "prid116",
+          "productId": "prid116",
           "name": "백운산이동샘물"
         },
         {
-          "id": "prid117",
+          "productId": "prid117",
           "name": "굿모닝"
         },
         {
-          "id": "prid118",
+          "productId": "prid118",
           "name": "설악산수"
         },
         {
-          "id": "prid119",
+          "productId": "prid119",
           "name": "산천금강샘물"
         },
         {
-          "id": "prid120",
+          "productId": "prid120",
           "name": "알프스"
         },
         {
-          "id": "prid121",
+          "productId": "prid121",
           "name": "동막골산수"
         },
         {
-          "id": "prid122",
+          "productId": "prid122",
           "name": "연인산이동샘물"
         },
         {
-          "id": "prid123",
+          "productId": "prid123",
           "name": "맑은이슬"
         },
         {
-          "id": "prid124",
+          "productId": "prid124",
           "name": "로드비참물"
         }
       ]
@@ -884,47 +884,47 @@
       "factoryLocation": "경기도 가평군 설악면 회곡안골길 146",
       "productNames": [
         {
-          "id": "prid125",
+          "productId": "prid125",
           "name": "크리스탈"
         },
         {
-          "id": "prid126",
+          "productId": "prid126",
           "name": "스마일365+수"
         },
         {
-          "id": "prid127",
+          "productId": "prid127",
           "name": "모닝캄"
         },
         {
-          "id": "prid128",
+          "productId": "prid128",
           "name": "NEW크리스탈"
         },
         {
-          "id": "prid129",
+          "productId": "prid129",
           "name": "물은NU"
         },
         {
-          "id": "prid76",
+          "productId": "prid76",
           "name": "일화 광천수"
         },
         {
-          "id": "prid17",
+          "productId": "prid17",
           "name": "탐사수"
         },
         {
-          "id": "prid18",
+          "productId": "prid18",
           "name": "탐사베이직수"
         },
         {
-          "id": "prid130",
+          "productId": "prid130",
           "name": "퓨어랜드 PURE 秀"
         },
         {
-          "id": "prid131",
+          "productId": "prid131",
           "name": "퓨어랜드 PURE SOO"
         },
         {
-          "id": "prid132",
+          "productId": "prid132",
           "name": "마트킹 생수킹水"
         }
       ]
@@ -935,15 +935,15 @@
       "factoryLocation": "경기도 연천군 신서면 합내로 1247",
       "productNames": [
         {
-          "id": "prid11",
+          "productId": "prid11",
           "name": "석수"
         },
         {
-          "id": "prid12",
+          "productId": "prid12",
           "name": "퓨리스"
         },
         {
-          "id": "prid5",
+          "productId": "prid5",
           "name": "동원샘물"
         }
       ]
@@ -954,11 +954,11 @@
       "factoryLocation": "경기도 양주시 남면 삼육사로 197-53",
       "productNames": [
         {
-          "id": "prid55",
+          "productId": "prid55",
           "name": "Icis(아이시스)"
         },
         {
-          "id": "prid133",
+          "productId": "prid133",
           "name": "하늘샘"
         }
       ]
@@ -969,15 +969,15 @@
       "factoryLocation": "경기도 포천시 이동면 화동로 1870번길 173",
       "productNames": [
         {
-          "id": "prid62",
+          "productId": "prid62",
           "name": "풀무원샘물"
         },
         {
-          "id": "prid134",
+          "productId": "prid134",
           "name": "풀무원맛있는샘물"
         },
         {
-          "id": "prid135",
+          "productId": "prid135",
           "name": "이동크리스탈"
         }
       ]
@@ -988,55 +988,55 @@
       "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57",
       "productNames": [
         {
-          "id": "prid136",
+          "productId": "prid136",
           "name": "기쁜우리샘물"
         },
         {
-          "id": "prid137",
+          "productId": "prid137",
           "name": "또니피앙"
         },
         {
-          "id": "prid138",
+          "productId": "prid138",
           "name": "레씨엠"
         },
         {
-          "id": "prid17",
+          "productId": "prid17",
           "name": "탐사수"
         },
         {
-          "id": "prid139",
+          "productId": "prid139",
           "name": "와우워터"
         },
         {
-          "id": "prid135",
+          "productId": "prid135",
           "name": "이동크리스탈"
         },
         {
-          "id": "prid125",
+          "productId": "prid125",
           "name": "크리스탈"
         },
         {
-          "id": "prid127",
+          "productId": "prid127",
           "name": "모닝캄"
         },
         {
-          "id": "prid11",
+          "productId": "prid11",
           "name": "석수"
         },
         {
-          "id": "prid34",
+          "productId": "prid34",
           "name": "스파클"
         },
         {
-          "id": "prid62",
+          "productId": "prid62",
           "name": "풀무원샘물"
         },
         {
-          "id": "prid61",
+          "productId": "prid61",
           "name": "풀무원샘물 by Nature"
         },
         {
-          "id": "prid140",
+          "productId": "prid140",
           "name": "천년맑은산수"
         }
       ]
@@ -1047,39 +1047,39 @@
       "factoryLocation": "경기도 포천시 화현면 우시동길 16",
       "productNames": [
         {
-          "id": "prid141",
+          "productId": "prid141",
           "name": "에브리워터"
         },
         {
-          "id": "prid142",
+          "productId": "prid142",
           "name": "아보아워터"
         },
         {
-          "id": "prid5",
+          "productId": "prid5",
           "name": "동원샘물"
         },
         {
-          "id": "prid62",
+          "productId": "prid62",
           "name": "풀무원샘물"
         },
         {
-          "id": "prid76",
+          "productId": "prid76",
           "name": "일화 광천수"
         },
         {
-          "id": "prid143",
+          "productId": "prid143",
           "name": "EVERYDAY 산수"
         },
         {
-          "id": "prid74",
+          "productId": "prid74",
           "name": "ZERO"
         },
         {
-          "id": "prid144",
+          "productId": "prid144",
           "name": "마트명가 운악산 무병장水"
         },
         {
-          "id": "prid34",
+          "productId": "prid34",
           "name": "스파클"
         }
       ]
@@ -1090,11 +1090,11 @@
       "factoryLocation": "경기도 포천시 일동면 금강로 4686",
       "productNames": [
         {
-          "id": "prid34",
+          "productId": "prid34",
           "name": "스파클"
         },
         {
-          "id": "prid17",
+          "productId": "prid17",
           "name": "탐사수"
         }
       ]
@@ -1105,75 +1105,75 @@
       "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15",
       "productNames": [
         {
-          "id": "prid145",
+          "productId": "prid145",
           "name": "산수"
         },
         {
-          "id": "prid146",
+          "productId": "prid146",
           "name": "아워워터"
         },
         {
-          "id": "prid147",
+          "productId": "prid147",
           "name": "고마운샘"
         },
         {
-          "id": "prid148",
+          "productId": "prid148",
           "name": "Everyday 산수"
         },
         {
-          "id": "prid149",
+          "productId": "prid149",
           "name": "i'm eco 산수"
         },
         {
-          "id": "prid150",
+          "productId": "prid150",
           "name": "re:i'm eco"
         },
         {
-          "id": "prid151",
+          "productId": "prid151",
           "name": "깨끗한샘"
         },
         {
-          "id": "prid152",
+          "productId": "prid152",
           "name": "가벼운샘"
         },
         {
-          "id": "prid153",
+          "productId": "prid153",
           "name": "re:고마운샘"
         },
         {
-          "id": "prid154",
+          "productId": "prid154",
           "name": "re:가벼운샘"
         },
         {
-          "id": "prid155",
+          "productId": "prid155",
           "name": "CABINET DE POISSONS(캐비네 드 쁘아쏭)"
         },
         {
-          "id": "prid17",
+          "productId": "prid17",
           "name": "탐사수"
         },
         {
-          "id": "prid156",
+          "productId": "prid156",
           "name": "탐사수ECO"
         },
         {
-          "id": "prid157",
+          "productId": "prid157",
           "name": "쉐프큐 QNC 샘물"
         },
         {
-          "id": "prid58",
+          "productId": "prid58",
           "name": "가야 g water"
         },
         {
-          "id": "prid60",
+          "productId": "prid60",
           "name": "가야 g water ECO"
         },
         {
-          "id": "prid158",
+          "productId": "prid158",
           "name": "나이스워터"
         },
         {
-          "id": "prid72",
+          "productId": "prid72",
           "name": "풀무원 워터루틴"
         }
       ]
@@ -1184,23 +1184,23 @@
       "factoryLocation": "경기도 연천군 청산면 순욱길 256",
       "productNames": [
         {
-          "id": "prid5",
+          "productId": "prid5",
           "name": "동원샘물"
         },
         {
-          "id": "prid50",
+          "productId": "prid50",
           "name": "미네마인"
         },
         {
-          "id": "prid159",
+          "productId": "prid159",
           "name": "Wake up beauty(웨이크업 뷰티)"
         },
         {
-          "id": "prid160",
+          "productId": "prid160",
           "name": "아쿠아포레"
         },
         {
-          "id": "prid161",
+          "productId": "prid161",
           "name": "마이워터(MY WATER)"
         }
       ]
@@ -1211,47 +1211,47 @@
       "factoryLocation": "경기도 연천군 백학면 장백로 589",
       "productNames": [
         {
-          "id": "prid95",
+          "productId": "prid95",
           "name": "Homeplus Signature 맑은샘물"
         },
         {
-          "id": "prid104",
+          "productId": "prid104",
           "name": "미네랄워터(MINERAL WATER)"
         },
         {
-          "id": "prid162",
+          "productId": "prid162",
           "name": "미네랄워터 ECO"
         },
         {
-          "id": "prid163",
+          "productId": "prid163",
           "name": "maxx 미네랄워터 ECO"
         },
         {
-          "id": "prid164",
+          "productId": "prid164",
           "name": "아이시스(ICIS)"
         },
         {
-          "id": "prid165",
+          "productId": "prid165",
           "name": "롯데DMZ"
         },
         {
-          "id": "prid166",
+          "productId": "prid166",
           "name": "아이시스 ECO"
         },
         {
-          "id": "prid101",
+          "productId": "prid101",
           "name": "PARADISE"
         },
         {
-          "id": "prid107",
+          "productId": "prid107",
           "name": "NATURAL MINERAL WATER"
         },
         {
-          "id": "prid167",
+          "productId": "prid167",
           "name": "내츄럴 미네랄 워터 ECO"
         },
         {
-          "id": "prid168",
+          "productId": "prid168",
           "name": "유어스(youus) DMZ맑은샘물"
         }
       ]
@@ -1262,39 +1262,39 @@
       "factoryLocation": "경기도 포천시 이동면 늠바위길 207-16",
       "productNames": [
         {
-          "id": "prid135",
+          "productId": "prid135",
           "name": "이동크리스탈"
         },
         {
-          "id": "prid169",
+          "productId": "prid169",
           "name": "몽베스트"
         },
         {
-          "id": "prid97",
+          "productId": "prid97",
           "name": "하루이리터"
         },
         {
-          "id": "prid170",
+          "productId": "prid170",
           "name": "트루워터"
         },
         {
-          "id": "prid171",
+          "productId": "prid171",
           "name": "오프라이스"
         },
         {
-          "id": "prid172",
+          "productId": "prid172",
           "name": "오프라이스 원보틀 에디션(기부용)"
         },
         {
-          "id": "prid173",
+          "productId": "prid173",
           "name": "맑은샘수"
         },
         {
-          "id": "prid58",
+          "productId": "prid58",
           "name": "가야 g water"
         },
         {
-          "id": "prid60",
+          "productId": "prid60",
           "name": "가야 g water ECO"
         }
       ]
@@ -1305,27 +1305,27 @@
       "factoryLocation": "경기도 포천시 이동면 화동로 1870번길 142-24",
       "productNames": [
         {
-          "id": "prid174",
+          "productId": "prid174",
           "name": "풀무원샘물 by NATURE"
         },
         {
-          "id": "prid175",
+          "productId": "prid175",
           "name": "네슬레 퓨어 라이프"
         },
         {
-          "id": "prid62",
+          "productId": "prid62",
           "name": "풀무원샘물"
         },
         {
-          "id": "prid72",
+          "productId": "prid72",
           "name": "풀무원 워터루틴"
         },
         {
-          "id": "prid176",
+          "productId": "prid176",
           "name": "풀무원 퓨어"
         },
         {
-          "id": "prid177",
+          "productId": "prid177",
           "name": "커클랜드시그니춰 먹는샘물"
         }
       ]
@@ -1336,7 +1336,7 @@
       "factoryLocation": "경기도 포천시 영북면 방골길 924",
       "productNames": [
         {
-          "id": "prid34",
+          "productId": "prid34",
           "name": "스파클"
         }
       ]
@@ -1347,11 +1347,11 @@
       "factoryLocation": "제주특별자치도 서귀포시 표선면 녹산로 871-79",
       "productNames": [
         {
-          "id": "prid178",
+          "productId": "prid178",
           "name": "한진제주퓨어워터"
         },
         {
-          "id": "prid179",
+          "productId": "prid179",
           "name": "한진제주퓨어워터 디어베이비"
         }
       ]
@@ -1362,15 +1362,15 @@
       "factoryLocation": "제주특별자치도 제주시 조천읍 남조로 1717-35",
       "productNames": [
         {
-          "id": "prid180",
+          "productId": "prid180",
           "name": "제주삼다수"
         },
         {
-          "id": "prid181",
+          "productId": "prid181",
           "name": "한라수"
         },
         {
-          "id": "prid182",
+          "productId": "prid182",
           "name": "제주네츄럴리퓨리파이드네츄럴스프링워터"
         }
       ]
@@ -1381,39 +1381,39 @@
       "factoryLocation": "강원특별자치도 원주시 귀래면 북원로 875",
       "productNames": [
         {
-          "id": "prid183",
+          "productId": "prid183",
           "name": "코리워터"
         },
         {
-          "id": "prid184",
+          "productId": "prid184",
           "name": "로미겐워터"
         },
         {
-          "id": "prid185",
+          "productId": "prid185",
           "name": "강원설청수"
         },
         {
-          "id": "prid186",
+          "productId": "prid186",
           "name": "새힘 4031"
         },
         {
-          "id": "prid187",
+          "productId": "prid187",
           "name": "셀바인워터"
         },
         {
-          "id": "prid188",
+          "productId": "prid188",
           "name": "씨마크(SEAMARQ)"
         },
         {
-          "id": "prid189",
+          "productId": "prid189",
           "name": "SEAMARQ"
         },
         {
-          "id": "prid190",
+          "productId": "prid190",
           "name": "래지던스워터"
         },
         {
-          "id": "prid191",
+          "productId": "prid191",
           "name": "다미수"
         }
       ]
@@ -1424,19 +1424,19 @@
       "factoryLocation": "강원특별자치도 횡성군 청일면 청정로 1782",
       "productNames": [
         {
-          "id": "prid192",
+          "productId": "prid192",
           "name": "청정강원샘물"
         },
         {
-          "id": "prid193",
+          "productId": "prid193",
           "name": "강원설악샘물"
         },
         {
-          "id": "prid194",
+          "productId": "prid194",
           "name": "청정이동샘물"
         },
         {
-          "id": "prid118",
+          "productId": "prid118",
           "name": "설악산수"
         }
       ]
@@ -1447,19 +1447,19 @@
       "factoryLocation": "강원특별자치도 동해시 석두골길 151",
       "productNames": [
         {
-          "id": "prid195",
+          "productId": "prid195",
           "name": "동해약천골지장수"
         },
         {
-          "id": "prid196",
+          "productId": "prid196",
           "name": "지장청수"
         },
         {
-          "id": "prid197",
+          "productId": "prid197",
           "name": "동해지장수"
         },
         {
-          "id": "prid198",
+          "productId": "prid198",
           "name": "네추럴 미네랄 워터 큐어링(Natural Mineral Water Curing)"
         }
       ]
@@ -1470,15 +1470,15 @@
       "factoryLocation": "강원특별자치도 홍천군 화촌면 굴운로 471",
       "productNames": [
         {
-          "id": "prid199",
+          "productId": "prid199",
           "name": "어스워터"
         },
         {
-          "id": "prid200",
+          "productId": "prid200",
           "name": "만나워터"
         },
         {
-          "id": "prid201",
+          "productId": "prid201",
           "name": "약산"
         }
       ]
@@ -1489,15 +1489,15 @@
       "factoryLocation": "강원특별자치도 철원군 근남면 하문수동길 93",
       "productNames": [
         {
-          "id": "prid202",
+          "productId": "prid202",
           "name": "휘오다이아몬드"
         },
         {
-          "id": "prid203",
+          "productId": "prid203",
           "name": "휘오다이아몬드EC"
         },
         {
-          "id": "prid204",
+          "productId": "prid204",
           "name": "휘오순수"
         }
       ]
@@ -1508,23 +1508,23 @@
       "factoryLocation": "강원특별자치도 평창군 봉평면 진조길 227-35",
       "productNames": [
         {
-          "id": "prid205",
+          "productId": "prid205",
           "name": "강원평창수"
         },
         {
-          "id": "prid206",
+          "productId": "prid206",
           "name": "빼어날수"
         },
         {
-          "id": "prid207",
+          "productId": "prid207",
           "name": "640M봉평샘물"
         },
         {
-          "id": "prid208",
+          "productId": "prid208",
           "name": "봉평샘물640"
         },
         {
-          "id": "prid204",
+          "productId": "prid204",
           "name": "휘오순수"
         }
       ]
@@ -1535,31 +1535,31 @@
       "factoryLocation": "전라북도 완주군 소양면 소양신원길 126-26",
       "productNames": [
         {
-          "id": "prid209",
+          "productId": "prid209",
           "name": "하나로샘물"
         },
         {
-          "id": "prid210",
+          "productId": "prid210",
           "name": "하나로샘물 라벨프리"
         },
         {
-          "id": "prid211",
+          "productId": "prid211",
           "name": "주화산 천연수"
         },
         {
-          "id": "prid212",
+          "productId": "prid212",
           "name": "오감워터"
         },
         {
-          "id": "prid213",
+          "productId": "prid213",
           "name": "남양 천연수"
         },
         {
-          "id": "prid214",
+          "productId": "prid214",
           "name": "남양 天然水"
         },
         {
-          "id": "prid215",
+          "productId": "prid215",
           "name": "백미당 암반水"
         }
       ]
@@ -1570,27 +1570,27 @@
       "factoryLocation": "전라북도 완주군 소양면 보검길 46-39",
       "productNames": [
         {
-          "id": "prid5",
+          "productId": "prid5",
           "name": "동원샘물"
         },
         {
-          "id": "prid50",
+          "productId": "prid50",
           "name": "미네마인"
         },
         {
-          "id": "prid7",
+          "productId": "prid7",
           "name": "수풀림"
         },
         {
-          "id": "prid216",
+          "productId": "prid216",
           "name": "수풀림 무라벨"
         },
         {
-          "id": "prid217",
+          "productId": "prid217",
           "name": "동원샘물 무라벨"
         },
         {
-          "id": "prid218",
+          "productId": "prid218",
           "name": "동원샘물 프레시"
         }
       ]
@@ -1601,59 +1601,59 @@
       "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35",
       "productNames": [
         {
-          "id": "prid40",
+          "productId": "prid40",
           "name": "순창샘물"
         },
         {
-          "id": "prid219",
+          "productId": "prid219",
           "name": "올스탠다드샘물"
         },
         {
-          "id": "prid220",
+          "productId": "prid220",
           "name": "행복지수"
         },
         {
-          "id": "prid221",
+          "productId": "prid221",
           "name": "로터스워터"
         },
         {
-          "id": "prid98",
+          "productId": "prid98",
           "name": "ICIS(아이시스) 8.0"
         },
         {
-          "id": "prid99",
+          "productId": "prid99",
           "name": "ICIS(아이시스)"
         },
         {
-          "id": "prid17",
+          "productId": "prid17",
           "name": "탐사수"
         },
         {
-          "id": "prid222",
+          "productId": "prid222",
           "name": "유어스 맑은샘물"
         },
         {
-          "id": "prid52",
+          "productId": "prid52",
           "name": "보고잇수(bogoitsu)"
         },
         {
-          "id": "prid59",
+          "productId": "prid59",
           "name": "동아오츠카 마신다"
         },
         {
-          "id": "prid223",
+          "productId": "prid223",
           "name": "더블유샘물"
         },
         {
-          "id": "prid224",
+          "productId": "prid224",
           "name": "북청물장수"
         },
         {
-          "id": "prid225",
+          "productId": "prid225",
           "name": "상하샘물"
         },
         {
-          "id": "prid226",
+          "productId": "prid226",
           "name": "순수본"
         }
       ]
@@ -1664,7 +1664,7 @@
       "factoryLocation": "전북특별자치도 남원시 주천면 장백산로 139",
       "productNames": [
         {
-          "id": "prid227",
+          "productId": "prid227",
           "name": "깊을수록 ECO 무라벨"
         }
       ]
@@ -2145,911 +2145,2970 @@
   "products": [
     {
       "id": "prid1",
-      "name": "헬시언"
+      "name": "헬시언",
+      "factories": [
+        {
+          "factoryId": "srcId1",
+          "companyName": "㈜금천게르마늄",
+          "factoryLocation": "충청북도 옥천군 청성면 청성로 76"
+        }
+      ]
     },
     {
       "id": "prid2",
-      "name": "용천옥수"
+      "name": "용천옥수",
+      "factories": [
+        {
+          "factoryId": "srcId1",
+          "companyName": "㈜금천게르마늄",
+          "factoryLocation": "충청북도 옥천군 청성면 청성로 76"
+        }
+      ]
     },
     {
       "id": "prid3",
-      "name": "웰아이수"
+      "name": "웰아이수",
+      "factories": [
+        {
+          "factoryId": "srcId1",
+          "companyName": "㈜금천게르마늄",
+          "factoryLocation": "충청북도 옥천군 청성면 청성로 76"
+        }
+      ]
     },
     {
       "id": "prid4",
-      "name": "아이시스8.0"
+      "name": "아이시스8.0",
+      "factories": [
+        {
+          "factoryId": "srcId2",
+          "companyName": "씨에이치음료㈜",
+          "factoryLocation": "충청북도 청주시 상당구 미원면 성대2길 59"
+        }
+      ]
     },
     {
       "id": "prid5",
-      "name": "동원샘물"
+      "name": "동원샘물",
+      "factories": [
+        {
+          "factoryId": "srcId3",
+          "companyName": "㈜동원F&B중부공장",
+          "factoryLocation": "충청북도 괴산군 불정면 하산로1길 33-10"
+        },
+        {
+          "factoryId": "srcId14",
+          "companyName": "㈜로진",
+          "factoryLocation": "경상북도 영주시 풍기읍 소백로 2141-16"
+        },
+        {
+          "factoryId": "srcId18",
+          "companyName": "㈜하이엠샘물",
+          "factoryLocation": "경상남도 고성군 구만면 구만로 1010"
+        },
+        {
+          "factoryId": "srcId21",
+          "companyName": "㈜순정샘물",
+          "factoryLocation": "경상남도 김해시 상동면 장척로462번길 67-21"
+        },
+        {
+          "factoryId": "srcId32",
+          "companyName": "연천에프앤비",
+          "factoryLocation": "경기도 연천군 신서면 합내로 1247"
+        },
+        {
+          "factoryId": "srcId36",
+          "companyName": "포천음료㈜",
+          "factoryLocation": "경기도 포천시 화현면 우시동길 16"
+        },
+        {
+          "factoryId": "srcId39",
+          "companyName": "㈜동원에프앤비 연천공장",
+          "factoryLocation": "경기도 연천군 청산면 순욱길 256"
+        },
+        {
+          "factoryId": "srcId53",
+          "companyName": "㈜동원에프앤비",
+          "factoryLocation": "전라북도 완주군 소양면 보검길 46-39"
+        }
+      ]
     },
     {
       "id": "prid6",
-      "name": "웨이크업뷰티"
+      "name": "웨이크업뷰티",
+      "factories": [
+        {
+          "factoryId": "srcId3",
+          "companyName": "㈜동원F&B중부공장",
+          "factoryLocation": "충청북도 괴산군 불정면 하산로1길 33-10"
+        }
+      ]
     },
     {
       "id": "prid7",
-      "name": "수풀림"
+      "name": "수풀림",
+      "factories": [
+        {
+          "factoryId": "srcId3",
+          "companyName": "㈜동원F&B중부공장",
+          "factoryLocation": "충청북도 괴산군 불정면 하산로1길 33-10"
+        },
+        {
+          "factoryId": "srcId53",
+          "companyName": "㈜동원에프앤비",
+          "factoryLocation": "전라북도 완주군 소양면 보검길 46-39"
+        }
+      ]
     },
     {
       "id": "prid8",
-      "name": "샘이깊은물동원샘물"
+      "name": "샘이깊은물동원샘물",
+      "factories": [
+        {
+          "factoryId": "srcId3",
+          "companyName": "㈜동원F&B중부공장",
+          "factoryLocation": "충청북도 괴산군 불정면 하산로1길 33-10"
+        }
+      ]
     },
     {
       "id": "prid9",
-      "name": "동원샘물 미네마인"
+      "name": "동원샘물 미네마인",
+      "factories": [
+        {
+          "factoryId": "srcId3",
+          "companyName": "㈜동원F&B중부공장",
+          "factoryLocation": "충청북도 괴산군 불정면 하산로1길 33-10"
+        }
+      ]
     },
     {
       "id": "prid10",
-      "name": "마이워터"
+      "name": "마이워터",
+      "factories": [
+        {
+          "factoryId": "srcId3",
+          "companyName": "㈜동원F&B중부공장",
+          "factoryLocation": "충청북도 괴산군 불정면 하산로1길 33-10"
+        }
+      ]
     },
     {
       "id": "prid11",
-      "name": "석수"
+      "name": "석수",
+      "factories": [
+        {
+          "factoryId": "srcId4",
+          "companyName": "하이트진로음료㈜",
+          "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
+        },
+        {
+          "factoryId": "srcId6",
+          "companyName": "㈜금산인삼골",
+          "factoryLocation": "충청남도 금산군 추부면 개덕사길 70"
+        },
+        {
+          "factoryId": "srcId8",
+          "companyName": "하이트진로음료㈜ 천안공장",
+          "factoryLocation": "충청남도 천안시 동남구 목천읍 덕전1길 223"
+        },
+        {
+          "factoryId": "srcId11",
+          "companyName": "미소음료㈜",
+          "factoryLocation": "전라남도 담양군 용면 추월산로 735"
+        },
+        {
+          "factoryId": "srcId17",
+          "companyName": "지리산청학동샘물㈜",
+          "factoryLocation": "경상남도 하동군 청암면 청학로 2219-85"
+        },
+        {
+          "factoryId": "srcId20",
+          "companyName": "샘소슬㈜",
+          "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
+        },
+        {
+          "factoryId": "srcId29",
+          "companyName": "하이트진로음료㈜ 세종특별자치시공장",
+          "factoryLocation": "세종특별자치시 전의면 상대부길 33"
+        },
+        {
+          "factoryId": "srcId32",
+          "companyName": "연천에프앤비",
+          "factoryLocation": "경기도 연천군 신서면 합내로 1247"
+        },
+        {
+          "factoryId": "srcId35",
+          "companyName": "우리샘물㈜",
+          "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
+        }
+      ]
     },
     {
       "id": "prid12",
-      "name": "퓨리스"
+      "name": "퓨리스",
+      "factories": [
+        {
+          "factoryId": "srcId4",
+          "companyName": "하이트진로음료㈜",
+          "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
+        },
+        {
+          "factoryId": "srcId8",
+          "companyName": "하이트진로음료㈜ 천안공장",
+          "factoryLocation": "충청남도 천안시 동남구 목천읍 덕전1길 223"
+        },
+        {
+          "factoryId": "srcId11",
+          "companyName": "미소음료㈜",
+          "factoryLocation": "전라남도 담양군 용면 추월산로 735"
+        },
+        {
+          "factoryId": "srcId17",
+          "companyName": "지리산청학동샘물㈜",
+          "factoryLocation": "경상남도 하동군 청암면 청학로 2219-85"
+        },
+        {
+          "factoryId": "srcId20",
+          "companyName": "샘소슬㈜",
+          "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
+        },
+        {
+          "factoryId": "srcId29",
+          "companyName": "하이트진로음료㈜ 세종특별자치시공장",
+          "factoryLocation": "세종특별자치시 전의면 상대부길 33"
+        },
+        {
+          "factoryId": "srcId32",
+          "companyName": "연천에프앤비",
+          "factoryLocation": "경기도 연천군 신서면 합내로 1247"
+        }
+      ]
     },
     {
       "id": "prid13",
-      "name": "코레버행복할수"
+      "name": "코레버행복할수",
+      "factories": [
+        {
+          "factoryId": "srcId4",
+          "companyName": "하이트진로음료㈜",
+          "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
+        },
+        {
+          "factoryId": "srcId29",
+          "companyName": "하이트진로음료㈜ 세종특별자치시공장",
+          "factoryLocation": "세종특별자치시 전의면 상대부길 33"
+        }
+      ]
     },
     {
       "id": "prid14",
-      "name": "PARK HYATT SEOUL"
+      "name": "PARK HYATT SEOUL",
+      "factories": [
+        {
+          "factoryId": "srcId4",
+          "companyName": "하이트진로음료㈜",
+          "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
+        }
+      ]
     },
     {
       "id": "prid15",
-      "name": "진로석수"
+      "name": "진로석수",
+      "factories": [
+        {
+          "factoryId": "srcId4",
+          "companyName": "하이트진로음료㈜",
+          "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
+        }
+      ]
     },
     {
       "id": "prid16",
-      "name": "미네랄워터"
+      "name": "미네랄워터",
+      "factories": [
+        {
+          "factoryId": "srcId4",
+          "companyName": "하이트진로음료㈜",
+          "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
+        },
+        {
+          "factoryId": "srcId29",
+          "companyName": "하이트진로음료㈜ 세종특별자치시공장",
+          "factoryLocation": "세종특별자치시 전의면 상대부길 33"
+        }
+      ]
     },
     {
       "id": "prid17",
-      "name": "탐사수"
+      "name": "탐사수",
+      "factories": [
+        {
+          "factoryId": "srcId4",
+          "companyName": "하이트진로음료㈜",
+          "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
+        },
+        {
+          "factoryId": "srcId9",
+          "companyName": "㈜대정",
+          "factoryLocation": "충청남도 천안시 동남구 성남면 대정1길 19-11"
+        },
+        {
+          "factoryId": "srcId16",
+          "companyName": "㈜동천수",
+          "factoryLocation": "경상북도 상주시 화북면 문장로 1623-32"
+        },
+        {
+          "factoryId": "srcId28",
+          "companyName": "㈜삼정샘물",
+          "factoryLocation": "울산광역시 울주군 두서면 옥동길 116"
+        },
+        {
+          "factoryId": "srcId29",
+          "companyName": "하이트진로음료㈜ 세종특별자치시공장",
+          "factoryLocation": "세종특별자치시 전의면 상대부길 33"
+        },
+        {
+          "factoryId": "srcId31",
+          "companyName": "㈜크리스탈샘물",
+          "factoryLocation": "경기도 가평군 설악면 회곡안골길 146"
+        },
+        {
+          "factoryId": "srcId35",
+          "companyName": "우리샘물㈜",
+          "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
+        },
+        {
+          "factoryId": "srcId37",
+          "companyName": "㈜포천샘물",
+          "factoryLocation": "경기도 포천시 일동면 금강로 4686"
+        },
+        {
+          "factoryId": "srcId38",
+          "companyName": "산수음료㈜",
+          "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
+        },
+        {
+          "factoryId": "srcId54",
+          "companyName": "㈜로터스",
+          "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
+        }
+      ]
     },
     {
       "id": "prid18",
-      "name": "탐사베이직수"
+      "name": "탐사베이직수",
+      "factories": [
+        {
+          "factoryId": "srcId4",
+          "companyName": "하이트진로음료㈜",
+          "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
+        },
+        {
+          "factoryId": "srcId29",
+          "companyName": "하이트진로음료㈜ 세종특별자치시공장",
+          "factoryLocation": "세종특별자치시 전의면 상대부길 33"
+        },
+        {
+          "factoryId": "srcId31",
+          "companyName": "㈜크리스탈샘물",
+          "factoryLocation": "경기도 가평군 설악면 회곡안골길 146"
+        }
+      ]
     },
     {
       "id": "prid19",
-      "name": "탐사샘물"
+      "name": "탐사샘물",
+      "factories": [
+        {
+          "factoryId": "srcId4",
+          "companyName": "하이트진로음료㈜",
+          "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
+        },
+        {
+          "factoryId": "srcId29",
+          "companyName": "하이트진로음료㈜ 세종특별자치시공장",
+          "factoryLocation": "세종특별자치시 전의면 상대부길 33"
+        }
+      ]
     },
     {
       "id": "prid20",
-      "name": "THE SHILLA"
+      "name": "THE SHILLA",
+      "factories": [
+        {
+          "factoryId": "srcId4",
+          "companyName": "하이트진로음료㈜",
+          "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
+        },
+        {
+          "factoryId": "srcId29",
+          "companyName": "하이트진로음료㈜ 세종특별자치시공장",
+          "factoryLocation": "세종특별자치시 전의면 상대부길 33"
+        }
+      ]
     },
     {
       "id": "prid21",
-      "name": "낙원그룹"
+      "name": "낙원그룹",
+      "factories": [
+        {
+          "factoryId": "srcId4",
+          "companyName": "하이트진로음료㈜",
+          "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
+        }
+      ]
     },
     {
       "id": "prid22",
-      "name": "I*POP"
+      "name": "I*POP",
+      "factories": [
+        {
+          "factoryId": "srcId4",
+          "companyName": "하이트진로음료㈜",
+          "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
+        },
+        {
+          "factoryId": "srcId29",
+          "companyName": "하이트진로음료㈜ 세종특별자치시공장",
+          "factoryLocation": "세종특별자치시 전의면 상대부길 33"
+        }
+      ]
     },
     {
       "id": "prid23",
-      "name": "서가앤쿡프레시워터"
+      "name": "서가앤쿡프레시워터",
+      "factories": [
+        {
+          "factoryId": "srcId4",
+          "companyName": "하이트진로음료㈜",
+          "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
+        }
+      ]
     },
     {
       "id": "prid24",
-      "name": "물한빙"
+      "name": "물한빙",
+      "factories": [
+        {
+          "factoryId": "srcId4",
+          "companyName": "하이트진로음료㈜",
+          "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
+        }
+      ]
     },
     {
       "id": "prid25",
-      "name": "루솔"
+      "name": "루솔",
+      "factories": [
+        {
+          "factoryId": "srcId4",
+          "companyName": "하이트진로음료㈜",
+          "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
+        }
+      ]
     },
     {
       "id": "prid26",
-      "name": "칠갑산맑은물"
+      "name": "칠갑산맑은물",
+      "factories": [
+        {
+          "factoryId": "srcId5",
+          "companyName": "백봉음료",
+          "factoryLocation": "청창남도 청양군 정산면 한티고개길 258-14"
+        }
+      ]
     },
     {
       "id": "prid27",
-      "name": "금산수"
+      "name": "금산수",
+      "factories": [
+        {
+          "factoryId": "srcId6",
+          "companyName": "㈜금산인삼골",
+          "factoryLocation": "충청남도 금산군 추부면 개덕사길 70"
+        }
+      ]
     },
     {
       "id": "prid28",
-      "name": "gastro tabel(가스트로 테이블)"
+      "name": "gastro tabel(가스트로 테이블)",
+      "factories": [
+        {
+          "factoryId": "srcId6",
+          "companyName": "㈜금산인삼골",
+          "factoryLocation": "충청남도 금산군 추부면 개덕사길 70"
+        }
+      ]
     },
     {
       "id": "prid29",
-      "name": "PARADISE CITY"
+      "name": "PARADISE CITY",
+      "factories": [
+        {
+          "factoryId": "srcId6",
+          "companyName": "㈜금산인삼골",
+          "factoryLocation": "충청남도 금산군 추부면 개덕사길 70"
+        }
+      ]
     },
     {
       "id": "prid30",
-      "name": "Connect Terrace"
+      "name": "Connect Terrace",
+      "factories": [
+        {
+          "factoryId": "srcId6",
+          "companyName": "㈜금산인삼골",
+          "factoryLocation": "충청남도 금산군 추부면 개덕사길 70"
+        }
+      ]
     },
     {
       "id": "prid31",
-      "name": "쟈뎅까페리얼워터큐브"
+      "name": "쟈뎅까페리얼워터큐브",
+      "factories": [
+        {
+          "factoryId": "srcId6",
+          "companyName": "㈜금산인삼골",
+          "factoryLocation": "충청남도 금산군 추부면 개덕사길 70"
+        }
+      ]
     },
     {
       "id": "prid32",
-      "name": "본도시락미네랄워터"
+      "name": "본도시락미네랄워터",
+      "factories": [
+        {
+          "factoryId": "srcId6",
+          "companyName": "㈜금산인삼골",
+          "factoryLocation": "충청남도 금산군 추부면 개덕사길 70"
+        }
+      ]
     },
     {
       "id": "prid33",
-      "name": "FOOD AVENUE LOTTE DEPARTMENT STORE"
+      "name": "FOOD AVENUE LOTTE DEPARTMENT STORE",
+      "factories": [
+        {
+          "factoryId": "srcId6",
+          "companyName": "㈜금산인삼골",
+          "factoryLocation": "충청남도 금산군 추부면 개덕사길 70"
+        }
+      ]
     },
     {
       "id": "prid34",
-      "name": "스파클"
+      "name": "스파클",
+      "factories": [
+        {
+          "factoryId": "srcId7",
+          "companyName": "㈜대산에스엠",
+          "factoryLocation": "충청남도 공주시 정안면 가락골길 131-69"
+        },
+        {
+          "factoryId": "srcId9",
+          "companyName": "㈜대정",
+          "factoryLocation": "충청남도 천안시 동남구 성남면 대정1길 19-11"
+        },
+        {
+          "factoryId": "srcId11",
+          "companyName": "미소음료㈜",
+          "factoryLocation": "전라남도 담양군 용면 추월산로 735"
+        },
+        {
+          "factoryId": "srcId18",
+          "companyName": "㈜하이엠샘물",
+          "factoryLocation": "경상남도 고성군 구만면 구만로 1010"
+        },
+        {
+          "factoryId": "srcId20",
+          "companyName": "샘소슬㈜",
+          "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
+        },
+        {
+          "factoryId": "srcId27",
+          "companyName": "㈜알프스샘물",
+          "factoryLocation": "울산광역시 울주군 상북면 석남로 660"
+        },
+        {
+          "factoryId": "srcId28",
+          "companyName": "㈜삼정샘물",
+          "factoryLocation": "울산광역시 울주군 두서면 옥동길 116"
+        },
+        {
+          "factoryId": "srcId35",
+          "companyName": "우리샘물㈜",
+          "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
+        },
+        {
+          "factoryId": "srcId36",
+          "companyName": "포천음료㈜",
+          "factoryLocation": "경기도 포천시 화현면 우시동길 16"
+        },
+        {
+          "factoryId": "srcId37",
+          "companyName": "㈜포천샘물",
+          "factoryLocation": "경기도 포천시 일동면 금강로 4686"
+        },
+        {
+          "factoryId": "srcId43",
+          "companyName": "㈜포천에스엠",
+          "factoryLocation": "경기도 포천시 영북면 방골길 924"
+        }
+      ]
     },
     {
       "id": "prid35",
-      "name": "맛있는물"
+      "name": "맛있는물",
+      "factories": [
+        {
+          "factoryId": "srcId9",
+          "companyName": "㈜대정",
+          "factoryLocation": "충청남도 천안시 동남구 성남면 대정1길 19-11"
+        }
+      ]
     },
     {
       "id": "prid36",
-      "name": "지리산 천년수"
+      "name": "지리산 천년수",
+      "factories": [
+        {
+          "factoryId": "srcId10",
+          "companyName": "㈜회천",
+          "factoryLocation": "전라남도 구례군 산동면 효동길 30-10"
+        }
+      ]
     },
     {
       "id": "prid37",
-      "name": "셀밸런水"
+      "name": "셀밸런水",
+      "factories": [
+        {
+          "factoryId": "srcId10",
+          "companyName": "㈜회천",
+          "factoryLocation": "전라남도 구례군 산동면 효동길 30-10"
+        }
+      ]
     },
     {
       "id": "prid38",
-      "name": "지리산 산수려"
+      "name": "지리산 산수려",
+      "factories": [
+        {
+          "factoryId": "srcId10",
+          "companyName": "㈜회천",
+          "factoryLocation": "전라남도 구례군 산동면 효동길 30-10"
+        }
+      ]
     },
     {
       "id": "prid39",
-      "name": "New서울생수"
+      "name": "New서울생수",
+      "factories": [
+        {
+          "factoryId": "srcId10",
+          "companyName": "㈜회천",
+          "factoryLocation": "전라남도 구례군 산동면 효동길 30-10"
+        }
+      ]
     },
     {
       "id": "prid40",
-      "name": "순창샘물"
+      "name": "순창샘물",
+      "factories": [
+        {
+          "factoryId": "srcId11",
+          "companyName": "미소음료㈜",
+          "factoryLocation": "전라남도 담양군 용면 추월산로 735"
+        },
+        {
+          "factoryId": "srcId54",
+          "companyName": "㈜로터스",
+          "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
+        }
+      ]
     },
     {
       "id": "prid41",
-      "name": "아인수"
+      "name": "아인수",
+      "factories": [
+        {
+          "factoryId": "srcId12",
+          "companyName": "㈜상원",
+          "factoryLocation": "경상북도 영양군 일월면 오리도곡로 435"
+        }
+      ]
     },
     {
       "id": "prid42",
-      "name": "칠보석아인수"
+      "name": "칠보석아인수",
+      "factories": [
+        {
+          "factoryId": "srcId12",
+          "companyName": "㈜상원",
+          "factoryLocation": "경상북도 영양군 일월면 오리도곡로 435"
+        }
+      ]
     },
     {
       "id": "prid43",
-      "name": "PH8.4 SEVEN JEWELS"
+      "name": "PH8.4 SEVEN JEWELS",
+      "factories": [
+        {
+          "factoryId": "srcId12",
+          "companyName": "㈜상원",
+          "factoryLocation": "경상북도 영양군 일월면 오리도곡로 435"
+        }
+      ]
     },
     {
       "id": "prid44",
-      "name": "천년수"
+      "name": "천년수",
+      "factories": [
+        {
+          "factoryId": "srcId13",
+          "companyName": "㈜동천수 상주공장",
+          "factoryLocation": "경상북도 상주시 헌신산단로 67"
+        },
+        {
+          "factoryId": "srcId16",
+          "companyName": "㈜동천수",
+          "factoryLocation": "경상북도 상주시 화북면 문장로 1623-32"
+        },
+        {
+          "factoryId": "srcId20",
+          "companyName": "샘소슬㈜",
+          "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
+        },
+        {
+          "factoryId": "srcId24",
+          "companyName": "㈜동천수가야산샘물",
+          "factoryLocation": "경상남도 합천군 묘산면 영서로 1724-12"
+        }
+      ]
     },
     {
       "id": "prid45",
-      "name": "소백산수"
+      "name": "소백산수",
+      "factories": [
+        {
+          "factoryId": "srcId14",
+          "companyName": "㈜로진",
+          "factoryLocation": "경상북도 영주시 풍기읍 소백로 2141-16"
+        }
+      ]
     },
     {
       "id": "prid46",
-      "name": "호텔올라"
+      "name": "호텔올라",
+      "factories": [
+        {
+          "factoryId": "srcId14",
+          "companyName": "㈜로진",
+          "factoryLocation": "경상북도 영주시 풍기읍 소백로 2141-16"
+        }
+      ]
     },
     {
       "id": "prid47",
-      "name": "하루8"
+      "name": "하루8",
+      "factories": [
+        {
+          "factoryId": "srcId14",
+          "companyName": "㈜로진",
+          "factoryLocation": "경상북도 영주시 풍기읍 소백로 2141-16"
+        }
+      ]
     },
     {
       "id": "prid48",
-      "name": "물은감로수(물은GAMROSU)"
+      "name": "물은감로수(물은GAMROSU)",
+      "factories": [
+        {
+          "factoryId": "srcId14",
+          "companyName": "㈜로진",
+          "factoryLocation": "경상북도 영주시 풍기읍 소백로 2141-16"
+        }
+      ]
     },
     {
       "id": "prid49",
-      "name": "소백"
+      "name": "소백",
+      "factories": [
+        {
+          "factoryId": "srcId14",
+          "companyName": "㈜로진",
+          "factoryLocation": "경상북도 영주시 풍기읍 소백로 2141-16"
+        }
+      ]
     },
     {
       "id": "prid50",
-      "name": "미네마인"
+      "name": "미네마인",
+      "factories": [
+        {
+          "factoryId": "srcId14",
+          "companyName": "㈜로진",
+          "factoryLocation": "경상북도 영주시 풍기읍 소백로 2141-16"
+        },
+        {
+          "factoryId": "srcId39",
+          "companyName": "㈜동원에프앤비 연천공장",
+          "factoryLocation": "경기도 연천군 청산면 순욱길 256"
+        },
+        {
+          "factoryId": "srcId53",
+          "companyName": "㈜동원에프앤비",
+          "factoryLocation": "전라북도 완주군 소양면 보검길 46-39"
+        }
+      ]
     },
     {
       "id": "prid51",
-      "name": "이디야워터"
+      "name": "이디야워터",
+      "factories": [
+        {
+          "factoryId": "srcId14",
+          "companyName": "㈜로진",
+          "factoryLocation": "경상북도 영주시 풍기읍 소백로 2141-16"
+        }
+      ]
     },
     {
       "id": "prid52",
-      "name": "보고잇수(bogoitsu)"
+      "name": "보고잇수(bogoitsu)",
+      "factories": [
+        {
+          "factoryId": "srcId14",
+          "companyName": "㈜로진",
+          "factoryLocation": "경상북도 영주시 풍기읍 소백로 2141-16"
+        },
+        {
+          "factoryId": "srcId20",
+          "companyName": "샘소슬㈜",
+          "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
+        },
+        {
+          "factoryId": "srcId21",
+          "companyName": "㈜순정샘물",
+          "factoryLocation": "경상남도 김해시 상동면 장척로462번길 67-21"
+        },
+        {
+          "factoryId": "srcId54",
+          "companyName": "㈜로터스",
+          "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
+        }
+      ]
     },
     {
       "id": "prid53",
-      "name": "푸르미네"
+      "name": "푸르미네",
+      "factories": [
+        {
+          "factoryId": "srcId15",
+          "companyName": "㈜청도샘물",
+          "factoryLocation": "경상북도 청도군 각북면 덕촌1길 38-7"
+        }
+      ]
     },
     {
       "id": "prid54",
-      "name": "Icis(아이시스) 8.0"
+      "name": "Icis(아이시스) 8.0",
+      "factories": [
+        {
+          "factoryId": "srcId15",
+          "companyName": "㈜청도샘물",
+          "factoryLocation": "경상북도 청도군 각북면 덕촌1길 38-7"
+        }
+      ]
     },
     {
       "id": "prid55",
-      "name": "Icis(아이시스)"
+      "name": "Icis(아이시스)",
+      "factories": [
+        {
+          "factoryId": "srcId15",
+          "companyName": "㈜청도샘물",
+          "factoryLocation": "경상북도 청도군 각북면 덕촌1길 38-7"
+        },
+        {
+          "factoryId": "srcId33",
+          "companyName": "씨에이치음료㈜ 양주공장",
+          "factoryLocation": "경기도 양주시 남면 삼육사로 197-53"
+        }
+      ]
     },
     {
       "id": "prid56",
-      "name": "깊은산맑은물"
+      "name": "깊은산맑은물",
+      "factories": [
+        {
+          "factoryId": "srcId15",
+          "companyName": "㈜청도샘물",
+          "factoryLocation": "경상북도 청도군 각북면 덕촌1길 38-7"
+        }
+      ]
     },
     {
       "id": "prid57",
-      "name": "속리산 천년수"
+      "name": "속리산 천년수",
+      "factories": [
+        {
+          "factoryId": "srcId16",
+          "companyName": "㈜동천수",
+          "factoryLocation": "경상북도 상주시 화북면 문장로 1623-32"
+        }
+      ]
     },
     {
       "id": "prid58",
-      "name": "가야 g water"
+      "name": "가야 g water",
+      "factories": [
+        {
+          "factoryId": "srcId16",
+          "companyName": "㈜동천수",
+          "factoryLocation": "경상북도 상주시 화북면 문장로 1623-32"
+        },
+        {
+          "factoryId": "srcId16",
+          "companyName": "㈜동천수",
+          "factoryLocation": "경상북도 상주시 화북면 문장로 1623-32"
+        },
+        {
+          "factoryId": "srcId23",
+          "companyName": "㈜지리산산청샘물",
+          "factoryLocation": "경상남도 산청군 삼장면 친환경로 460-22"
+        },
+        {
+          "factoryId": "srcId38",
+          "companyName": "산수음료㈜",
+          "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
+        },
+        {
+          "factoryId": "srcId41",
+          "companyName": "한국청정음료㈜",
+          "factoryLocation": "경기도 포천시 이동면 늠바위길 207-16"
+        }
+      ]
     },
     {
       "id": "prid59",
-      "name": "동아오츠카 마신다"
+      "name": "동아오츠카 마신다",
+      "factories": [
+        {
+          "factoryId": "srcId16",
+          "companyName": "㈜동천수",
+          "factoryLocation": "경상북도 상주시 화북면 문장로 1623-32"
+        },
+        {
+          "factoryId": "srcId20",
+          "companyName": "샘소슬㈜",
+          "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
+        },
+        {
+          "factoryId": "srcId54",
+          "companyName": "㈜로터스",
+          "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
+        }
+      ]
     },
     {
       "id": "prid60",
-      "name": "가야 g water ECO"
+      "name": "가야 g water ECO",
+      "factories": [
+        {
+          "factoryId": "srcId16",
+          "companyName": "㈜동천수",
+          "factoryLocation": "경상북도 상주시 화북면 문장로 1623-32"
+        },
+        {
+          "factoryId": "srcId23",
+          "companyName": "㈜지리산산청샘물",
+          "factoryLocation": "경상남도 산청군 삼장면 친환경로 460-22"
+        },
+        {
+          "factoryId": "srcId38",
+          "companyName": "산수음료㈜",
+          "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
+        },
+        {
+          "factoryId": "srcId41",
+          "companyName": "한국청정음료㈜",
+          "factoryLocation": "경기도 포천시 이동면 늠바위길 207-16"
+        }
+      ]
     },
     {
       "id": "prid61",
-      "name": "풀무원샘물 by Nature"
+      "name": "풀무원샘물 by Nature",
+      "factories": [
+        {
+          "factoryId": "srcId17",
+          "companyName": "지리산청학동샘물㈜",
+          "factoryLocation": "경상남도 하동군 청암면 청학로 2219-85"
+        },
+        {
+          "factoryId": "srcId35",
+          "companyName": "우리샘물㈜",
+          "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
+        }
+      ]
     },
     {
       "id": "prid62",
-      "name": "풀무원샘물"
+      "name": "풀무원샘물",
+      "factories": [
+        {
+          "factoryId": "srcId17",
+          "companyName": "지리산청학동샘물㈜",
+          "factoryLocation": "경상남도 하동군 청암면 청학로 2219-85"
+        },
+        {
+          "factoryId": "srcId20",
+          "companyName": "샘소슬㈜",
+          "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
+        },
+        {
+          "factoryId": "srcId34",
+          "companyName": "㈜포천그린",
+          "factoryLocation": "경기도 포천시 이동면 화동로 1870번길 173"
+        },
+        {
+          "factoryId": "srcId35",
+          "companyName": "우리샘물㈜",
+          "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
+        },
+        {
+          "factoryId": "srcId36",
+          "companyName": "포천음료㈜",
+          "factoryLocation": "경기도 포천시 화현면 우시동길 16"
+        },
+        {
+          "factoryId": "srcId42",
+          "companyName": "풀무원샘물㈜",
+          "factoryLocation": "경기도 포천시 이동면 화동로 1870번길 142-24"
+        }
+      ]
     },
     {
       "id": "prid63",
-      "name": "풀무원 맛있는 샘물"
+      "name": "풀무원 맛있는 샘물",
+      "factories": [
+        {
+          "factoryId": "srcId17",
+          "companyName": "지리산청학동샘물㈜",
+          "factoryLocation": "경상남도 하동군 청암면 청학로 2219-85"
+        }
+      ]
     },
     {
       "id": "prid64",
-      "name": "오(eau)"
+      "name": "오(eau)",
+      "factories": [
+        {
+          "factoryId": "srcId19",
+          "companyName": "㈜호진지리산보천",
+          "factoryLocation": "경상남도 하동군 화개면 범왕길 254-19"
+        }
+      ]
     },
     {
       "id": "prid65",
-      "name": "쉐프큐QNC샘물"
+      "name": "쉐프큐QNC샘물",
+      "factories": [
+        {
+          "factoryId": "srcId19",
+          "companyName": "㈜호진지리산보천",
+          "factoryLocation": "경상남도 하동군 화개면 범왕길 254-19"
+        }
+      ]
     },
     {
       "id": "prid66",
-      "name": "지리산산수"
+      "name": "지리산산수",
+      "factories": [
+        {
+          "factoryId": "srcId19",
+          "companyName": "㈜호진지리산보천",
+          "factoryLocation": "경상남도 하동군 화개면 범왕길 254-19"
+        }
+      ]
     },
     {
       "id": "prid67",
-      "name": "샘소슬"
+      "name": "샘소슬",
+      "factories": [
+        {
+          "factoryId": "srcId20",
+          "companyName": "샘소슬㈜",
+          "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
+        }
+      ]
     },
     {
       "id": "prid68",
-      "name": "수워터"
+      "name": "수워터",
+      "factories": [
+        {
+          "factoryId": "srcId20",
+          "companyName": "샘소슬㈜",
+          "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
+        }
+      ]
     },
     {
       "id": "prid69",
-      "name": "아이스워터"
+      "name": "아이스워터",
+      "factories": [
+        {
+          "factoryId": "srcId20",
+          "companyName": "샘소슬㈜",
+          "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
+        }
+      ]
     },
     {
       "id": "prid70",
-      "name": "ICE WATER"
+      "name": "ICE WATER",
+      "factories": [
+        {
+          "factoryId": "srcId20",
+          "companyName": "샘소슬㈜",
+          "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
+        }
+      ]
     },
     {
       "id": "prid71",
-      "name": "풀무원 맛있는샘물"
+      "name": "풀무원 맛있는샘물",
+      "factories": [
+        {
+          "factoryId": "srcId20",
+          "companyName": "샘소슬㈜",
+          "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
+        }
+      ]
     },
     {
       "id": "prid72",
-      "name": "풀무원 워터루틴"
+      "name": "풀무원 워터루틴",
+      "factories": [
+        {
+          "factoryId": "srcId20",
+          "companyName": "샘소슬㈜",
+          "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
+        },
+        {
+          "factoryId": "srcId38",
+          "companyName": "산수음료㈜",
+          "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
+        },
+        {
+          "factoryId": "srcId42",
+          "companyName": "풀무원샘물㈜",
+          "factoryLocation": "경기도 포천시 이동면 화동로 1870번길 142-24"
+        }
+      ]
     },
     {
       "id": "prid73",
-      "name": "화이트"
+      "name": "화이트",
+      "factories": [
+        {
+          "factoryId": "srcId20",
+          "companyName": "샘소슬㈜",
+          "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
+        },
+        {
+          "factoryId": "srcId22",
+          "companyName": "㈜엘케이샘물",
+          "factoryLocation": "경상남도 산청군 삼장면 친환경로 462-30"
+        },
+        {
+          "factoryId": "srcId23",
+          "companyName": "㈜지리산산청샘물",
+          "factoryLocation": "경상남도 산청군 삼장면 친환경로 460-22"
+        }
+      ]
     },
     {
       "id": "prid74",
-      "name": "ZERO"
+      "name": "ZERO",
+      "factories": [
+        {
+          "factoryId": "srcId20",
+          "companyName": "샘소슬㈜",
+          "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
+        },
+        {
+          "factoryId": "srcId36",
+          "companyName": "포천음료㈜",
+          "factoryLocation": "경기도 포천시 화현면 우시동길 16"
+        }
+      ]
     },
     {
       "id": "prid75",
-      "name": "다르다"
+      "name": "다르다",
+      "factories": [
+        {
+          "factoryId": "srcId21",
+          "companyName": "㈜순정샘물",
+          "factoryLocation": "경상남도 김해시 상동면 장척로462번길 67-21"
+        }
+      ]
     },
     {
       "id": "prid76",
-      "name": "일화 광천수"
+      "name": "일화 광천수",
+      "factories": [
+        {
+          "factoryId": "srcId21",
+          "companyName": "㈜순정샘물",
+          "factoryLocation": "경상남도 김해시 상동면 장척로462번길 67-21"
+        },
+        {
+          "factoryId": "srcId22",
+          "companyName": "㈜엘케이샘물",
+          "factoryLocation": "경상남도 산청군 삼장면 친환경로 462-30"
+        },
+        {
+          "factoryId": "srcId31",
+          "companyName": "㈜크리스탈샘물",
+          "factoryLocation": "경기도 가평군 설악면 회곡안골길 146"
+        },
+        {
+          "factoryId": "srcId36",
+          "companyName": "포천음료㈜",
+          "factoryLocation": "경기도 포천시 화현면 우시동길 16"
+        }
+      ]
     },
     {
       "id": "prid77",
-      "name": "지리산수워터"
+      "name": "지리산수워터",
+      "factories": [
+        {
+          "factoryId": "srcId22",
+          "companyName": "㈜엘케이샘물",
+          "factoryLocation": "경상남도 산청군 삼장면 친환경로 462-30"
+        }
+      ]
     },
     {
       "id": "prid78",
-      "name": "ECO JIRISAN SOO WATER"
+      "name": "ECO JIRISAN SOO WATER",
+      "factories": [
+        {
+          "factoryId": "srcId22",
+          "companyName": "㈜엘케이샘물",
+          "factoryLocation": "경상남도 산청군 삼장면 친환경로 462-30"
+        }
+      ]
     },
     {
       "id": "prid79",
-      "name": "지리산 산수"
+      "name": "지리산 산수",
+      "factories": [
+        {
+          "factoryId": "srcId22",
+          "companyName": "㈜엘케이샘물",
+          "factoryLocation": "경상남도 산청군 삼장면 친환경로 462-30"
+        }
+      ]
     },
     {
       "id": "prid80",
-      "name": "LK동의보감한천수"
+      "name": "LK동의보감한천수",
+      "factories": [
+        {
+          "factoryId": "srcId22",
+          "companyName": "㈜엘케이샘물",
+          "factoryLocation": "경상남도 산청군 삼장면 친환경로 462-30"
+        }
+      ]
     },
     {
       "id": "prid81",
-      "name": "ECO화이트"
+      "name": "ECO화이트",
+      "factories": [
+        {
+          "factoryId": "srcId22",
+          "companyName": "㈜엘케이샘물",
+          "factoryLocation": "경상남도 산청군 삼장면 친환경로 462-30"
+        }
+      ]
     },
     {
       "id": "prid82",
-      "name": "일화 광천수 무라벨"
+      "name": "일화 광천수 무라벨",
+      "factories": [
+        {
+          "factoryId": "srcId22",
+          "companyName": "㈜엘케이샘물",
+          "factoryLocation": "경상남도 산청군 삼장면 친환경로 462-30"
+        }
+      ]
     },
     {
       "id": "prid83",
-      "name": "ECO 화이트"
+      "name": "ECO 화이트",
+      "factories": [
+        {
+          "factoryId": "srcId23",
+          "companyName": "㈜지리산산청샘물",
+          "factoryLocation": "경상남도 산청군 삼장면 친환경로 460-22"
+        }
+      ]
     },
     {
       "id": "prid84",
-      "name": "맑은샘지리산"
+      "name": "맑은샘지리산",
+      "factories": [
+        {
+          "factoryId": "srcId23",
+          "companyName": "㈜지리산산청샘물",
+          "factoryLocation": "경상남도 산청군 삼장면 친환경로 460-22"
+        }
+      ]
     },
     {
       "id": "prid85",
-      "name": "지리산을 그대로 담은 뽀로로샘물"
+      "name": "지리산을 그대로 담은 뽀로로샘물",
+      "factories": [
+        {
+          "factoryId": "srcId23",
+          "companyName": "㈜지리산산청샘물",
+          "factoryLocation": "경상남도 산청군 삼장면 친환경로 460-22"
+        }
+      ]
     },
     {
       "id": "prid86",
-      "name": "숲속의 맑은샘물"
+      "name": "숲속의 맑은샘물",
+      "factories": [
+        {
+          "factoryId": "srcId23",
+          "companyName": "㈜지리산산청샘물",
+          "factoryLocation": "경상남도 산청군 삼장면 친환경로 460-22"
+        }
+      ]
     },
     {
       "id": "prid87",
-      "name": "지리산 청정수"
+      "name": "지리산 청정수",
+      "factories": [
+        {
+          "factoryId": "srcId23",
+          "companyName": "㈜지리산산청샘물",
+          "factoryLocation": "경상남도 산청군 삼장면 친환경로 460-22"
+        }
+      ]
     },
     {
       "id": "prid88",
-      "name": "가야 water"
+      "name": "가야 water",
+      "factories": [
+        {
+          "factoryId": "srcId23",
+          "companyName": "㈜지리산산청샘물",
+          "factoryLocation": "경상남도 산청군 삼장면 친환경로 460-22"
+        }
+      ]
     },
     {
       "id": "prid89",
-      "name": "가야산천년수"
+      "name": "가야산천년수",
+      "factories": [
+        {
+          "factoryId": "srcId24",
+          "companyName": "㈜동천수가야산샘물",
+          "factoryLocation": "경상남도 합천군 묘산면 영서로 1724-12"
+        }
+      ]
     },
     {
       "id": "prid90",
-      "name": "얼수"
+      "name": "얼수",
+      "factories": [
+        {
+          "factoryId": "srcId24",
+          "companyName": "㈜동천수가야산샘물",
+          "factoryLocation": "경상남도 합천군 묘산면 영서로 1724-12"
+        }
+      ]
     },
     {
       "id": "prid91",
-      "name": "동아오츠카마신다"
+      "name": "동아오츠카마신다",
+      "factories": [
+        {
+          "factoryId": "srcId24",
+          "companyName": "㈜동천수가야산샘물",
+          "factoryLocation": "경상남도 합천군 묘산면 영서로 1724-12"
+        }
+      ]
     },
     {
       "id": "prid92",
-      "name": "HEYROO미네랄워터"
+      "name": "HEYROO미네랄워터",
+      "factories": [
+        {
+          "factoryId": "srcId25",
+          "companyName": "산청음료㈜",
+          "factoryLocation": "경상남도 산청군 시천면 남명로 59-61"
+        }
+      ]
     },
     {
       "id": "prid93",
-      "name": "얼쑤얼水"
+      "name": "얼쑤얼水",
+      "factories": [
+        {
+          "factoryId": "srcId25",
+          "companyName": "산청음료㈜",
+          "factoryLocation": "경상남도 산청군 시천면 남명로 59-61"
+        }
+      ]
     },
     {
       "id": "prid94",
-      "name": "미네랄워터ECO"
+      "name": "미네랄워터ECO",
+      "factories": [
+        {
+          "factoryId": "srcId25",
+          "companyName": "산청음료㈜",
+          "factoryLocation": "경상남도 산청군 시천면 남명로 59-61"
+        }
+      ]
     },
     {
       "id": "prid95",
-      "name": "Homeplus Signature 맑은샘물"
+      "name": "Homeplus Signature 맑은샘물",
+      "factories": [
+        {
+          "factoryId": "srcId25",
+          "companyName": "산청음료㈜",
+          "factoryLocation": "경상남도 산청군 시천면 남명로 59-61"
+        },
+        {
+          "factoryId": "srcId40",
+          "companyName": "㈜백학음료",
+          "factoryLocation": "경기도 연천군 백학면 장백로 589"
+        }
+      ]
     },
     {
       "id": "prid96",
-      "name": "바른샘물"
+      "name": "바른샘물",
+      "factories": [
+        {
+          "factoryId": "srcId25",
+          "companyName": "산청음료㈜",
+          "factoryLocation": "경상남도 산청군 시천면 남명로 59-61"
+        }
+      ]
     },
     {
       "id": "prid97",
-      "name": "하루이리터"
+      "name": "하루이리터",
+      "factories": [
+        {
+          "factoryId": "srcId25",
+          "companyName": "산청음료㈜",
+          "factoryLocation": "경상남도 산청군 시천면 남명로 59-61"
+        },
+        {
+          "factoryId": "srcId41",
+          "companyName": "한국청정음료㈜",
+          "factoryLocation": "경기도 포천시 이동면 늠바위길 207-16"
+        }
+      ]
     },
     {
       "id": "prid98",
-      "name": "ICIS(아이시스) 8.0"
+      "name": "ICIS(아이시스) 8.0",
+      "factories": [
+        {
+          "factoryId": "srcId25",
+          "companyName": "산청음료㈜",
+          "factoryLocation": "경상남도 산청군 시천면 남명로 59-61"
+        },
+        {
+          "factoryId": "srcId54",
+          "companyName": "㈜로터스",
+          "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
+        }
+      ]
     },
     {
       "id": "prid99",
-      "name": "ICIS(아이시스)"
+      "name": "ICIS(아이시스)",
+      "factories": [
+        {
+          "factoryId": "srcId25",
+          "companyName": "산청음료㈜",
+          "factoryLocation": "경상남도 산청군 시천면 남명로 59-61"
+        },
+        {
+          "factoryId": "srcId54",
+          "companyName": "㈜로터스",
+          "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
+        }
+      ]
     },
     {
       "id": "prid100",
-      "name": "내몸애70%"
+      "name": "내몸애70%",
+      "factories": [
+        {
+          "factoryId": "srcId25",
+          "companyName": "산청음료㈜",
+          "factoryLocation": "경상남도 산청군 시천면 남명로 59-61"
+        }
+      ]
     },
     {
       "id": "prid101",
-      "name": "PARADISE"
+      "name": "PARADISE",
+      "factories": [
+        {
+          "factoryId": "srcId25",
+          "companyName": "산청음료㈜",
+          "factoryLocation": "경상남도 산청군 시천면 남명로 59-61"
+        },
+        {
+          "factoryId": "srcId40",
+          "companyName": "㈜백학음료",
+          "factoryLocation": "경기도 연천군 백학면 장백로 589"
+        }
+      ]
     },
     {
       "id": "prid102",
-      "name": "지리산물하나"
+      "name": "지리산물하나",
+      "factories": [
+        {
+          "factoryId": "srcId26",
+          "companyName": "㈜화인바이오",
+          "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
+        }
+      ]
     },
     {
       "id": "prid103",
-      "name": "지리산물하나eco"
+      "name": "지리산물하나eco",
+      "factories": [
+        {
+          "factoryId": "srcId26",
+          "companyName": "㈜화인바이오",
+          "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
+        }
+      ]
     },
     {
       "id": "prid104",
-      "name": "미네랄워터(MINERAL WATER)"
+      "name": "미네랄워터(MINERAL WATER)",
+      "factories": [
+        {
+          "factoryId": "srcId26",
+          "companyName": "㈜화인바이오",
+          "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
+        },
+        {
+          "factoryId": "srcId40",
+          "companyName": "㈜백학음료",
+          "factoryLocation": "경기도 연천군 백학면 장백로 589"
+        }
+      ]
     },
     {
       "id": "prid105",
-      "name": "YOUUS지리산맑은샘물"
+      "name": "YOUUS지리산맑은샘물",
+      "factories": [
+        {
+          "factoryId": "srcId26",
+          "companyName": "㈜화인바이오",
+          "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
+        }
+      ]
     },
     {
       "id": "prid106",
-      "name": "지리산수(JIRISANSOO)"
+      "name": "지리산수(JIRISANSOO)",
+      "factories": [
+        {
+          "factoryId": "srcId26",
+          "companyName": "㈜화인바이오",
+          "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
+        }
+      ]
     },
     {
       "id": "prid107",
-      "name": "NATURAL MINERAL WATER"
+      "name": "NATURAL MINERAL WATER",
+      "factories": [
+        {
+          "factoryId": "srcId26",
+          "companyName": "㈜화인바이오",
+          "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
+        },
+        {
+          "factoryId": "srcId40",
+          "companyName": "㈜백학음료",
+          "factoryLocation": "경기도 연천군 백학면 장백로 589"
+        }
+      ]
     },
     {
       "id": "prid108",
-      "name": "우리샘물수"
+      "name": "우리샘물수",
+      "factories": [
+        {
+          "factoryId": "srcId26",
+          "companyName": "㈜화인바이오",
+          "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
+        }
+      ]
     },
     {
       "id": "prid109",
-      "name": "추신水"
+      "name": "추신水",
+      "factories": [
+        {
+          "factoryId": "srcId26",
+          "companyName": "㈜화인바이오",
+          "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
+        }
+      ]
     },
     {
       "id": "prid110",
-      "name": "지리산암반수"
+      "name": "지리산암반수",
+      "factories": [
+        {
+          "factoryId": "srcId26",
+          "companyName": "㈜화인바이오",
+          "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
+        }
+      ]
     },
     {
       "id": "prid111",
-      "name": "㈜정상북한산리조트 네추럴미네랄워터"
+      "name": "㈜정상북한산리조트 네추럴미네랄워터",
+      "factories": [
+        {
+          "factoryId": "srcId26",
+          "companyName": "㈜화인바이오",
+          "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
+        }
+      ]
     },
     {
       "id": "prid112",
-      "name": "정식품 지리산 심천수(深泉水)"
+      "name": "정식품 지리산 심천수(深泉水)",
+      "factories": [
+        {
+          "factoryId": "srcId26",
+          "companyName": "㈜화인바이오",
+          "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
+        }
+      ]
     },
     {
       "id": "prid113",
-      "name": "유진샘물"
+      "name": "유진샘물",
+      "factories": [
+        {
+          "factoryId": "srcId26",
+          "companyName": "㈜화인바이오",
+          "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
+        }
+      ]
     },
     {
       "id": "prid114",
-      "name": "알파수"
+      "name": "알파수",
+      "factories": [
+        {
+          "factoryId": "srcId29",
+          "companyName": "하이트진로음료㈜ 세종특별자치시공장",
+          "factoryLocation": "세종특별자치시 전의면 상대부길 33"
+        }
+      ]
     },
     {
       "id": "prid115",
-      "name": "백운이동샘물"
+      "name": "백운이동샘물",
+      "factories": [
+        {
+          "factoryId": "srcId30",
+          "companyName": "㈜이동장수샘물",
+          "factoryLocation": "경기도 포천시 이동면 금강로 6085-23"
+        }
+      ]
     },
     {
       "id": "prid116",
-      "name": "백운산이동샘물"
+      "name": "백운산이동샘물",
+      "factories": [
+        {
+          "factoryId": "srcId30",
+          "companyName": "㈜이동장수샘물",
+          "factoryLocation": "경기도 포천시 이동면 금강로 6085-23"
+        }
+      ]
     },
     {
       "id": "prid117",
-      "name": "굿모닝"
+      "name": "굿모닝",
+      "factories": [
+        {
+          "factoryId": "srcId30",
+          "companyName": "㈜이동장수샘물",
+          "factoryLocation": "경기도 포천시 이동면 금강로 6085-23"
+        }
+      ]
     },
     {
       "id": "prid118",
-      "name": "설악산수"
+      "name": "설악산수",
+      "factories": [
+        {
+          "factoryId": "srcId30",
+          "companyName": "㈜이동장수샘물",
+          "factoryLocation": "경기도 포천시 이동면 금강로 6085-23"
+        },
+        {
+          "factoryId": "srcId47",
+          "companyName": "강원샘물㈜",
+          "factoryLocation": "강원특별자치도 횡성군 청일면 청정로 1782"
+        }
+      ]
     },
     {
       "id": "prid119",
-      "name": "산천금강샘물"
+      "name": "산천금강샘물",
+      "factories": [
+        {
+          "factoryId": "srcId30",
+          "companyName": "㈜이동장수샘물",
+          "factoryLocation": "경기도 포천시 이동면 금강로 6085-23"
+        }
+      ]
     },
     {
       "id": "prid120",
-      "name": "알프스"
+      "name": "알프스",
+      "factories": [
+        {
+          "factoryId": "srcId30",
+          "companyName": "㈜이동장수샘물",
+          "factoryLocation": "경기도 포천시 이동면 금강로 6085-23"
+        }
+      ]
     },
     {
       "id": "prid121",
-      "name": "동막골산수"
+      "name": "동막골산수",
+      "factories": [
+        {
+          "factoryId": "srcId30",
+          "companyName": "㈜이동장수샘물",
+          "factoryLocation": "경기도 포천시 이동면 금강로 6085-23"
+        }
+      ]
     },
     {
       "id": "prid122",
-      "name": "연인산이동샘물"
+      "name": "연인산이동샘물",
+      "factories": [
+        {
+          "factoryId": "srcId30",
+          "companyName": "㈜이동장수샘물",
+          "factoryLocation": "경기도 포천시 이동면 금강로 6085-23"
+        }
+      ]
     },
     {
       "id": "prid123",
-      "name": "맑은이슬"
+      "name": "맑은이슬",
+      "factories": [
+        {
+          "factoryId": "srcId30",
+          "companyName": "㈜이동장수샘물",
+          "factoryLocation": "경기도 포천시 이동면 금강로 6085-23"
+        }
+      ]
     },
     {
       "id": "prid124",
-      "name": "로드비참물"
+      "name": "로드비참물",
+      "factories": [
+        {
+          "factoryId": "srcId30",
+          "companyName": "㈜이동장수샘물",
+          "factoryLocation": "경기도 포천시 이동면 금강로 6085-23"
+        }
+      ]
     },
     {
       "id": "prid125",
-      "name": "크리스탈"
+      "name": "크리스탈",
+      "factories": [
+        {
+          "factoryId": "srcId31",
+          "companyName": "㈜크리스탈샘물",
+          "factoryLocation": "경기도 가평군 설악면 회곡안골길 146"
+        },
+        {
+          "factoryId": "srcId35",
+          "companyName": "우리샘물㈜",
+          "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
+        }
+      ]
     },
     {
       "id": "prid126",
-      "name": "스마일365+수"
+      "name": "스마일365+수",
+      "factories": [
+        {
+          "factoryId": "srcId31",
+          "companyName": "㈜크리스탈샘물",
+          "factoryLocation": "경기도 가평군 설악면 회곡안골길 146"
+        }
+      ]
     },
     {
       "id": "prid127",
-      "name": "모닝캄"
+      "name": "모닝캄",
+      "factories": [
+        {
+          "factoryId": "srcId31",
+          "companyName": "㈜크리스탈샘물",
+          "factoryLocation": "경기도 가평군 설악면 회곡안골길 146"
+        },
+        {
+          "factoryId": "srcId35",
+          "companyName": "우리샘물㈜",
+          "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
+        }
+      ]
     },
     {
       "id": "prid128",
-      "name": "NEW크리스탈"
+      "name": "NEW크리스탈",
+      "factories": [
+        {
+          "factoryId": "srcId31",
+          "companyName": "㈜크리스탈샘물",
+          "factoryLocation": "경기도 가평군 설악면 회곡안골길 146"
+        }
+      ]
     },
     {
       "id": "prid129",
-      "name": "물은NU"
+      "name": "물은NU",
+      "factories": [
+        {
+          "factoryId": "srcId31",
+          "companyName": "㈜크리스탈샘물",
+          "factoryLocation": "경기도 가평군 설악면 회곡안골길 146"
+        }
+      ]
     },
     {
       "id": "prid130",
-      "name": "퓨어랜드 PURE 秀"
+      "name": "퓨어랜드 PURE 秀",
+      "factories": [
+        {
+          "factoryId": "srcId31",
+          "companyName": "㈜크리스탈샘물",
+          "factoryLocation": "경기도 가평군 설악면 회곡안골길 146"
+        }
+      ]
     },
     {
       "id": "prid131",
-      "name": "퓨어랜드 PURE SOO"
+      "name": "퓨어랜드 PURE SOO",
+      "factories": [
+        {
+          "factoryId": "srcId31",
+          "companyName": "㈜크리스탈샘물",
+          "factoryLocation": "경기도 가평군 설악면 회곡안골길 146"
+        }
+      ]
     },
     {
       "id": "prid132",
-      "name": "마트킹 생수킹水"
+      "name": "마트킹 생수킹水",
+      "factories": [
+        {
+          "factoryId": "srcId31",
+          "companyName": "㈜크리스탈샘물",
+          "factoryLocation": "경기도 가평군 설악면 회곡안골길 146"
+        }
+      ]
     },
     {
       "id": "prid133",
-      "name": "하늘샘"
+      "name": "하늘샘",
+      "factories": [
+        {
+          "factoryId": "srcId33",
+          "companyName": "씨에이치음료㈜ 양주공장",
+          "factoryLocation": "경기도 양주시 남면 삼육사로 197-53"
+        }
+      ]
     },
     {
       "id": "prid134",
-      "name": "풀무원맛있는샘물"
+      "name": "풀무원맛있는샘물",
+      "factories": [
+        {
+          "factoryId": "srcId34",
+          "companyName": "㈜포천그린",
+          "factoryLocation": "경기도 포천시 이동면 화동로 1870번길 173"
+        }
+      ]
     },
     {
       "id": "prid135",
-      "name": "이동크리스탈"
+      "name": "이동크리스탈",
+      "factories": [
+        {
+          "factoryId": "srcId34",
+          "companyName": "㈜포천그린",
+          "factoryLocation": "경기도 포천시 이동면 화동로 1870번길 173"
+        },
+        {
+          "factoryId": "srcId35",
+          "companyName": "우리샘물㈜",
+          "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
+        },
+        {
+          "factoryId": "srcId41",
+          "companyName": "한국청정음료㈜",
+          "factoryLocation": "경기도 포천시 이동면 늠바위길 207-16"
+        }
+      ]
     },
     {
       "id": "prid136",
-      "name": "기쁜우리샘물"
+      "name": "기쁜우리샘물",
+      "factories": [
+        {
+          "factoryId": "srcId35",
+          "companyName": "우리샘물㈜",
+          "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
+        }
+      ]
     },
     {
       "id": "prid137",
-      "name": "또니피앙"
+      "name": "또니피앙",
+      "factories": [
+        {
+          "factoryId": "srcId35",
+          "companyName": "우리샘물㈜",
+          "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
+        }
+      ]
     },
     {
       "id": "prid138",
-      "name": "레씨엠"
+      "name": "레씨엠",
+      "factories": [
+        {
+          "factoryId": "srcId35",
+          "companyName": "우리샘물㈜",
+          "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
+        }
+      ]
     },
     {
       "id": "prid139",
-      "name": "와우워터"
+      "name": "와우워터",
+      "factories": [
+        {
+          "factoryId": "srcId35",
+          "companyName": "우리샘물㈜",
+          "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
+        }
+      ]
     },
     {
       "id": "prid140",
-      "name": "천년맑은산수"
+      "name": "천년맑은산수",
+      "factories": [
+        {
+          "factoryId": "srcId35",
+          "companyName": "우리샘물㈜",
+          "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
+        }
+      ]
     },
     {
       "id": "prid141",
-      "name": "에브리워터"
+      "name": "에브리워터",
+      "factories": [
+        {
+          "factoryId": "srcId36",
+          "companyName": "포천음료㈜",
+          "factoryLocation": "경기도 포천시 화현면 우시동길 16"
+        }
+      ]
     },
     {
       "id": "prid142",
-      "name": "아보아워터"
+      "name": "아보아워터",
+      "factories": [
+        {
+          "factoryId": "srcId36",
+          "companyName": "포천음료㈜",
+          "factoryLocation": "경기도 포천시 화현면 우시동길 16"
+        }
+      ]
     },
     {
       "id": "prid143",
-      "name": "EVERYDAY 산수"
+      "name": "EVERYDAY 산수",
+      "factories": [
+        {
+          "factoryId": "srcId36",
+          "companyName": "포천음료㈜",
+          "factoryLocation": "경기도 포천시 화현면 우시동길 16"
+        }
+      ]
     },
     {
       "id": "prid144",
-      "name": "마트명가 운악산 무병장水"
+      "name": "마트명가 운악산 무병장水",
+      "factories": [
+        {
+          "factoryId": "srcId36",
+          "companyName": "포천음료㈜",
+          "factoryLocation": "경기도 포천시 화현면 우시동길 16"
+        }
+      ]
     },
     {
       "id": "prid145",
-      "name": "산수"
+      "name": "산수",
+      "factories": [
+        {
+          "factoryId": "srcId38",
+          "companyName": "산수음료㈜",
+          "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
+        }
+      ]
     },
     {
       "id": "prid146",
-      "name": "아워워터"
+      "name": "아워워터",
+      "factories": [
+        {
+          "factoryId": "srcId38",
+          "companyName": "산수음료㈜",
+          "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
+        }
+      ]
     },
     {
       "id": "prid147",
-      "name": "고마운샘"
+      "name": "고마운샘",
+      "factories": [
+        {
+          "factoryId": "srcId38",
+          "companyName": "산수음료㈜",
+          "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
+        }
+      ]
     },
     {
       "id": "prid148",
-      "name": "Everyday 산수"
+      "name": "Everyday 산수",
+      "factories": [
+        {
+          "factoryId": "srcId38",
+          "companyName": "산수음료㈜",
+          "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
+        }
+      ]
     },
     {
       "id": "prid149",
-      "name": "i'm eco 산수"
+      "name": "i'm eco 산수",
+      "factories": [
+        {
+          "factoryId": "srcId38",
+          "companyName": "산수음료㈜",
+          "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
+        }
+      ]
     },
     {
       "id": "prid150",
-      "name": "re:i'm eco"
+      "name": "re:i'm eco",
+      "factories": [
+        {
+          "factoryId": "srcId38",
+          "companyName": "산수음료㈜",
+          "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
+        }
+      ]
     },
     {
       "id": "prid151",
-      "name": "깨끗한샘"
+      "name": "깨끗한샘",
+      "factories": [
+        {
+          "factoryId": "srcId38",
+          "companyName": "산수음료㈜",
+          "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
+        }
+      ]
     },
     {
       "id": "prid152",
-      "name": "가벼운샘"
+      "name": "가벼운샘",
+      "factories": [
+        {
+          "factoryId": "srcId38",
+          "companyName": "산수음료㈜",
+          "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
+        }
+      ]
     },
     {
       "id": "prid153",
-      "name": "re:고마운샘"
+      "name": "re:고마운샘",
+      "factories": [
+        {
+          "factoryId": "srcId38",
+          "companyName": "산수음료㈜",
+          "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
+        }
+      ]
     },
     {
       "id": "prid154",
-      "name": "re:가벼운샘"
+      "name": "re:가벼운샘",
+      "factories": [
+        {
+          "factoryId": "srcId38",
+          "companyName": "산수음료㈜",
+          "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
+        }
+      ]
     },
     {
       "id": "prid155",
-      "name": "CABINET DE POISSONS(캐비네 드 쁘아쏭)"
+      "name": "CABINET DE POISSONS(캐비네 드 쁘아쏭)",
+      "factories": [
+        {
+          "factoryId": "srcId38",
+          "companyName": "산수음료㈜",
+          "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
+        }
+      ]
     },
     {
       "id": "prid156",
-      "name": "탐사수ECO"
+      "name": "탐사수ECO",
+      "factories": [
+        {
+          "factoryId": "srcId38",
+          "companyName": "산수음료㈜",
+          "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
+        }
+      ]
     },
     {
       "id": "prid157",
-      "name": "쉐프큐 QNC 샘물"
+      "name": "쉐프큐 QNC 샘물",
+      "factories": [
+        {
+          "factoryId": "srcId38",
+          "companyName": "산수음료㈜",
+          "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
+        }
+      ]
     },
     {
       "id": "prid158",
-      "name": "나이스워터"
+      "name": "나이스워터",
+      "factories": [
+        {
+          "factoryId": "srcId38",
+          "companyName": "산수음료㈜",
+          "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
+        }
+      ]
     },
     {
       "id": "prid159",
-      "name": "Wake up beauty(웨이크업 뷰티)"
+      "name": "Wake up beauty(웨이크업 뷰티)",
+      "factories": [
+        {
+          "factoryId": "srcId39",
+          "companyName": "㈜동원에프앤비 연천공장",
+          "factoryLocation": "경기도 연천군 청산면 순욱길 256"
+        }
+      ]
     },
     {
       "id": "prid160",
-      "name": "아쿠아포레"
+      "name": "아쿠아포레",
+      "factories": [
+        {
+          "factoryId": "srcId39",
+          "companyName": "㈜동원에프앤비 연천공장",
+          "factoryLocation": "경기도 연천군 청산면 순욱길 256"
+        }
+      ]
     },
     {
       "id": "prid161",
-      "name": "마이워터(MY WATER)"
+      "name": "마이워터(MY WATER)",
+      "factories": [
+        {
+          "factoryId": "srcId39",
+          "companyName": "㈜동원에프앤비 연천공장",
+          "factoryLocation": "경기도 연천군 청산면 순욱길 256"
+        }
+      ]
     },
     {
       "id": "prid162",
-      "name": "미네랄워터 ECO"
+      "name": "미네랄워터 ECO",
+      "factories": [
+        {
+          "factoryId": "srcId40",
+          "companyName": "㈜백학음료",
+          "factoryLocation": "경기도 연천군 백학면 장백로 589"
+        }
+      ]
     },
     {
       "id": "prid163",
-      "name": "maxx 미네랄워터 ECO"
+      "name": "maxx 미네랄워터 ECO",
+      "factories": [
+        {
+          "factoryId": "srcId40",
+          "companyName": "㈜백학음료",
+          "factoryLocation": "경기도 연천군 백학면 장백로 589"
+        }
+      ]
     },
     {
       "id": "prid164",
-      "name": "아이시스(ICIS)"
+      "name": "아이시스(ICIS)",
+      "factories": [
+        {
+          "factoryId": "srcId40",
+          "companyName": "㈜백학음료",
+          "factoryLocation": "경기도 연천군 백학면 장백로 589"
+        }
+      ]
     },
     {
       "id": "prid165",
-      "name": "롯데DMZ"
+      "name": "롯데DMZ",
+      "factories": [
+        {
+          "factoryId": "srcId40",
+          "companyName": "㈜백학음료",
+          "factoryLocation": "경기도 연천군 백학면 장백로 589"
+        }
+      ]
     },
     {
       "id": "prid166",
-      "name": "아이시스 ECO"
+      "name": "아이시스 ECO",
+      "factories": [
+        {
+          "factoryId": "srcId40",
+          "companyName": "㈜백학음료",
+          "factoryLocation": "경기도 연천군 백학면 장백로 589"
+        }
+      ]
     },
     {
       "id": "prid167",
-      "name": "내츄럴 미네랄 워터 ECO"
+      "name": "내츄럴 미네랄 워터 ECO",
+      "factories": [
+        {
+          "factoryId": "srcId40",
+          "companyName": "㈜백학음료",
+          "factoryLocation": "경기도 연천군 백학면 장백로 589"
+        }
+      ]
     },
     {
       "id": "prid168",
-      "name": "유어스(youus) DMZ맑은샘물"
+      "name": "유어스(youus) DMZ맑은샘물",
+      "factories": [
+        {
+          "factoryId": "srcId40",
+          "companyName": "㈜백학음료",
+          "factoryLocation": "경기도 연천군 백학면 장백로 589"
+        }
+      ]
     },
     {
       "id": "prid169",
-      "name": "몽베스트"
+      "name": "몽베스트",
+      "factories": [
+        {
+          "factoryId": "srcId41",
+          "companyName": "한국청정음료㈜",
+          "factoryLocation": "경기도 포천시 이동면 늠바위길 207-16"
+        }
+      ]
     },
     {
       "id": "prid170",
-      "name": "트루워터"
+      "name": "트루워터",
+      "factories": [
+        {
+          "factoryId": "srcId41",
+          "companyName": "한국청정음료㈜",
+          "factoryLocation": "경기도 포천시 이동면 늠바위길 207-16"
+        }
+      ]
     },
     {
       "id": "prid171",
-      "name": "오프라이스"
+      "name": "오프라이스",
+      "factories": [
+        {
+          "factoryId": "srcId41",
+          "companyName": "한국청정음료㈜",
+          "factoryLocation": "경기도 포천시 이동면 늠바위길 207-16"
+        }
+      ]
     },
     {
       "id": "prid172",
-      "name": "오프라이스 원보틀 에디션(기부용)"
+      "name": "오프라이스 원보틀 에디션(기부용)",
+      "factories": [
+        {
+          "factoryId": "srcId41",
+          "companyName": "한국청정음료㈜",
+          "factoryLocation": "경기도 포천시 이동면 늠바위길 207-16"
+        }
+      ]
     },
     {
       "id": "prid173",
-      "name": "맑은샘수"
+      "name": "맑은샘수",
+      "factories": [
+        {
+          "factoryId": "srcId41",
+          "companyName": "한국청정음료㈜",
+          "factoryLocation": "경기도 포천시 이동면 늠바위길 207-16"
+        }
+      ]
     },
     {
       "id": "prid174",
-      "name": "풀무원샘물 by NATURE"
+      "name": "풀무원샘물 by NATURE",
+      "factories": [
+        {
+          "factoryId": "srcId42",
+          "companyName": "풀무원샘물㈜",
+          "factoryLocation": "경기도 포천시 이동면 화동로 1870번길 142-24"
+        }
+      ]
     },
     {
       "id": "prid175",
-      "name": "네슬레 퓨어 라이프"
+      "name": "네슬레 퓨어 라이프",
+      "factories": [
+        {
+          "factoryId": "srcId42",
+          "companyName": "풀무원샘물㈜",
+          "factoryLocation": "경기도 포천시 이동면 화동로 1870번길 142-24"
+        }
+      ]
     },
     {
       "id": "prid176",
-      "name": "풀무원 퓨어"
+      "name": "풀무원 퓨어",
+      "factories": [
+        {
+          "factoryId": "srcId42",
+          "companyName": "풀무원샘물㈜",
+          "factoryLocation": "경기도 포천시 이동면 화동로 1870번길 142-24"
+        }
+      ]
     },
     {
       "id": "prid177",
-      "name": "커클랜드시그니춰 먹는샘물"
+      "name": "커클랜드시그니춰 먹는샘물",
+      "factories": [
+        {
+          "factoryId": "srcId42",
+          "companyName": "풀무원샘물㈜",
+          "factoryLocation": "경기도 포천시 이동면 화동로 1870번길 142-24"
+        }
+      ]
     },
     {
       "id": "prid178",
-      "name": "한진제주퓨어워터"
+      "name": "한진제주퓨어워터",
+      "factories": [
+        {
+          "factoryId": "srcId44",
+          "companyName": "한국공항㈜",
+          "factoryLocation": "제주특별자치도 서귀포시 표선면 녹산로 871-79"
+        }
+      ]
     },
     {
       "id": "prid179",
-      "name": "한진제주퓨어워터 디어베이비"
+      "name": "한진제주퓨어워터 디어베이비",
+      "factories": [
+        {
+          "factoryId": "srcId44",
+          "companyName": "한국공항㈜",
+          "factoryLocation": "제주특별자치도 서귀포시 표선면 녹산로 871-79"
+        }
+      ]
     },
     {
       "id": "prid180",
-      "name": "제주삼다수"
+      "name": "제주삼다수",
+      "factories": [
+        {
+          "factoryId": "srcId45",
+          "companyName": "제주특별자치도개발공사",
+          "factoryLocation": "제주특별자치도 제주시 조천읍 남조로 1717-35"
+        }
+      ]
     },
     {
       "id": "prid181",
-      "name": "한라수"
+      "name": "한라수",
+      "factories": [
+        {
+          "factoryId": "srcId45",
+          "companyName": "제주특별자치도개발공사",
+          "factoryLocation": "제주특별자치도 제주시 조천읍 남조로 1717-35"
+        }
+      ]
     },
     {
       "id": "prid182",
-      "name": "제주네츄럴리퓨리파이드네츄럴스프링워터"
+      "name": "제주네츄럴리퓨리파이드네츄럴스프링워터",
+      "factories": [
+        {
+          "factoryId": "srcId45",
+          "companyName": "제주특별자치도개발공사",
+          "factoryLocation": "제주특별자치도 제주시 조천읍 남조로 1717-35"
+        }
+      ]
     },
     {
       "id": "prid183",
-      "name": "코리워터"
+      "name": "코리워터",
+      "factories": [
+        {
+          "factoryId": "srcId46",
+          "companyName": "코리워터스",
+          "factoryLocation": "강원특별자치도 원주시 귀래면 북원로 875"
+        }
+      ]
     },
     {
       "id": "prid184",
-      "name": "로미겐워터"
+      "name": "로미겐워터",
+      "factories": [
+        {
+          "factoryId": "srcId46",
+          "companyName": "코리워터스",
+          "factoryLocation": "강원특별자치도 원주시 귀래면 북원로 875"
+        }
+      ]
     },
     {
       "id": "prid185",
-      "name": "강원설청수"
+      "name": "강원설청수",
+      "factories": [
+        {
+          "factoryId": "srcId46",
+          "companyName": "코리워터스",
+          "factoryLocation": "강원특별자치도 원주시 귀래면 북원로 875"
+        }
+      ]
     },
     {
       "id": "prid186",
-      "name": "새힘 4031"
+      "name": "새힘 4031",
+      "factories": [
+        {
+          "factoryId": "srcId46",
+          "companyName": "코리워터스",
+          "factoryLocation": "강원특별자치도 원주시 귀래면 북원로 875"
+        }
+      ]
     },
     {
       "id": "prid187",
-      "name": "셀바인워터"
+      "name": "셀바인워터",
+      "factories": [
+        {
+          "factoryId": "srcId46",
+          "companyName": "코리워터스",
+          "factoryLocation": "강원특별자치도 원주시 귀래면 북원로 875"
+        }
+      ]
     },
     {
       "id": "prid188",
-      "name": "씨마크(SEAMARQ)"
+      "name": "씨마크(SEAMARQ)",
+      "factories": [
+        {
+          "factoryId": "srcId46",
+          "companyName": "코리워터스",
+          "factoryLocation": "강원특별자치도 원주시 귀래면 북원로 875"
+        }
+      ]
     },
     {
       "id": "prid189",
-      "name": "SEAMARQ"
+      "name": "SEAMARQ",
+      "factories": [
+        {
+          "factoryId": "srcId46",
+          "companyName": "코리워터스",
+          "factoryLocation": "강원특별자치도 원주시 귀래면 북원로 875"
+        }
+      ]
     },
     {
       "id": "prid190",
-      "name": "래지던스워터"
+      "name": "래지던스워터",
+      "factories": [
+        {
+          "factoryId": "srcId46",
+          "companyName": "코리워터스",
+          "factoryLocation": "강원특별자치도 원주시 귀래면 북원로 875"
+        }
+      ]
     },
     {
       "id": "prid191",
-      "name": "다미수"
+      "name": "다미수",
+      "factories": [
+        {
+          "factoryId": "srcId46",
+          "companyName": "코리워터스",
+          "factoryLocation": "강원특별자치도 원주시 귀래면 북원로 875"
+        }
+      ]
     },
     {
       "id": "prid192",
-      "name": "청정강원샘물"
+      "name": "청정강원샘물",
+      "factories": [
+        {
+          "factoryId": "srcId47",
+          "companyName": "강원샘물㈜",
+          "factoryLocation": "강원특별자치도 횡성군 청일면 청정로 1782"
+        }
+      ]
     },
     {
       "id": "prid193",
-      "name": "강원설악샘물"
+      "name": "강원설악샘물",
+      "factories": [
+        {
+          "factoryId": "srcId47",
+          "companyName": "강원샘물㈜",
+          "factoryLocation": "강원특별자치도 횡성군 청일면 청정로 1782"
+        }
+      ]
     },
     {
       "id": "prid194",
-      "name": "청정이동샘물"
+      "name": "청정이동샘물",
+      "factories": [
+        {
+          "factoryId": "srcId47",
+          "companyName": "강원샘물㈜",
+          "factoryLocation": "강원특별자치도 횡성군 청일면 청정로 1782"
+        }
+      ]
     },
     {
       "id": "prid195",
-      "name": "동해약천골지장수"
+      "name": "동해약천골지장수",
+      "factories": [
+        {
+          "factoryId": "srcId48",
+          "companyName": "㈜동해샘물",
+          "factoryLocation": "강원특별자치도 동해시 석두골길 151"
+        }
+      ]
     },
     {
       "id": "prid196",
-      "name": "지장청수"
+      "name": "지장청수",
+      "factories": [
+        {
+          "factoryId": "srcId48",
+          "companyName": "㈜동해샘물",
+          "factoryLocation": "강원특별자치도 동해시 석두골길 151"
+        }
+      ]
     },
     {
       "id": "prid197",
-      "name": "동해지장수"
+      "name": "동해지장수",
+      "factories": [
+        {
+          "factoryId": "srcId48",
+          "companyName": "㈜동해샘물",
+          "factoryLocation": "강원특별자치도 동해시 석두골길 151"
+        }
+      ]
     },
     {
       "id": "prid198",
-      "name": "네추럴 미네랄 워터 큐어링(Natural Mineral Water Curing)"
+      "name": "네추럴 미네랄 워터 큐어링(Natural Mineral Water Curing)",
+      "factories": [
+        {
+          "factoryId": "srcId48",
+          "companyName": "㈜동해샘물",
+          "factoryLocation": "강원특별자치도 동해시 석두골길 151"
+        }
+      ]
     },
     {
       "id": "prid199",
-      "name": "어스워터"
+      "name": "어스워터",
+      "factories": [
+        {
+          "factoryId": "srcId49",
+          "companyName": "㈜태백산수음료",
+          "factoryLocation": "강원특별자치도 홍천군 화촌면 굴운로 471"
+        }
+      ]
     },
     {
       "id": "prid200",
-      "name": "만나워터"
+      "name": "만나워터",
+      "factories": [
+        {
+          "factoryId": "srcId49",
+          "companyName": "㈜태백산수음료",
+          "factoryLocation": "강원특별자치도 홍천군 화촌면 굴운로 471"
+        }
+      ]
     },
     {
       "id": "prid201",
-      "name": "약산"
+      "name": "약산",
+      "factories": [
+        {
+          "factoryId": "srcId49",
+          "companyName": "㈜태백산수음료",
+          "factoryLocation": "강원특별자치도 홍천군 화촌면 굴운로 471"
+        }
+      ]
     },
     {
       "id": "prid202",
-      "name": "휘오다이아몬드"
+      "name": "휘오다이아몬드",
+      "factories": [
+        {
+          "factoryId": "srcId50",
+          "companyName": "해태에이치티비㈜ 철원공장",
+          "factoryLocation": "강원특별자치도 철원군 근남면 하문수동길 93"
+        }
+      ]
     },
     {
       "id": "prid203",
-      "name": "휘오다이아몬드EC"
+      "name": "휘오다이아몬드EC",
+      "factories": [
+        {
+          "factoryId": "srcId50",
+          "companyName": "해태에이치티비㈜ 철원공장",
+          "factoryLocation": "강원특별자치도 철원군 근남면 하문수동길 93"
+        }
+      ]
     },
     {
       "id": "prid204",
-      "name": "휘오순수"
+      "name": "휘오순수",
+      "factories": [
+        {
+          "factoryId": "srcId50",
+          "companyName": "해태에이치티비㈜ 철원공장",
+          "factoryLocation": "강원특별자치도 철원군 근남면 하문수동길 93"
+        },
+        {
+          "factoryId": "srcId51",
+          "companyName": "해태에이치티비㈜ 평창공장",
+          "factoryLocation": "강원특별자치도 평창군 봉평면 진조길 227-35"
+        }
+      ]
     },
     {
       "id": "prid205",
-      "name": "강원평창수"
+      "name": "강원평창수",
+      "factories": [
+        {
+          "factoryId": "srcId51",
+          "companyName": "해태에이치티비㈜ 평창공장",
+          "factoryLocation": "강원특별자치도 평창군 봉평면 진조길 227-35"
+        }
+      ]
     },
     {
       "id": "prid206",
-      "name": "빼어날수"
+      "name": "빼어날수",
+      "factories": [
+        {
+          "factoryId": "srcId51",
+          "companyName": "해태에이치티비㈜ 평창공장",
+          "factoryLocation": "강원특별자치도 평창군 봉평면 진조길 227-35"
+        }
+      ]
     },
     {
       "id": "prid207",
-      "name": "640M봉평샘물"
+      "name": "640M봉평샘물",
+      "factories": [
+        {
+          "factoryId": "srcId51",
+          "companyName": "해태에이치티비㈜ 평창공장",
+          "factoryLocation": "강원특별자치도 평창군 봉평면 진조길 227-35"
+        }
+      ]
     },
     {
       "id": "prid208",
-      "name": "봉평샘물640"
+      "name": "봉평샘물640",
+      "factories": [
+        {
+          "factoryId": "srcId51",
+          "companyName": "해태에이치티비㈜ 평창공장",
+          "factoryLocation": "강원특별자치도 평창군 봉평면 진조길 227-35"
+        }
+      ]
     },
     {
       "id": "prid209",
-      "name": "하나로샘물"
+      "name": "하나로샘물",
+      "factories": [
+        {
+          "factoryId": "srcId52",
+          "companyName": "맑은물㈜",
+          "factoryLocation": "전라북도 완주군 소양면 소양신원길 126-26"
+        }
+      ]
     },
     {
       "id": "prid210",
-      "name": "하나로샘물 라벨프리"
+      "name": "하나로샘물 라벨프리",
+      "factories": [
+        {
+          "factoryId": "srcId52",
+          "companyName": "맑은물㈜",
+          "factoryLocation": "전라북도 완주군 소양면 소양신원길 126-26"
+        }
+      ]
     },
     {
       "id": "prid211",
-      "name": "주화산 천연수"
+      "name": "주화산 천연수",
+      "factories": [
+        {
+          "factoryId": "srcId52",
+          "companyName": "맑은물㈜",
+          "factoryLocation": "전라북도 완주군 소양면 소양신원길 126-26"
+        }
+      ]
     },
     {
       "id": "prid212",
-      "name": "오감워터"
+      "name": "오감워터",
+      "factories": [
+        {
+          "factoryId": "srcId52",
+          "companyName": "맑은물㈜",
+          "factoryLocation": "전라북도 완주군 소양면 소양신원길 126-26"
+        }
+      ]
     },
     {
       "id": "prid213",
-      "name": "남양 천연수"
+      "name": "남양 천연수",
+      "factories": [
+        {
+          "factoryId": "srcId52",
+          "companyName": "맑은물㈜",
+          "factoryLocation": "전라북도 완주군 소양면 소양신원길 126-26"
+        }
+      ]
     },
     {
       "id": "prid214",
-      "name": "남양 天然水"
+      "name": "남양 天然水",
+      "factories": [
+        {
+          "factoryId": "srcId52",
+          "companyName": "맑은물㈜",
+          "factoryLocation": "전라북도 완주군 소양면 소양신원길 126-26"
+        }
+      ]
     },
     {
       "id": "prid215",
-      "name": "백미당 암반水"
+      "name": "백미당 암반水",
+      "factories": [
+        {
+          "factoryId": "srcId52",
+          "companyName": "맑은물㈜",
+          "factoryLocation": "전라북도 완주군 소양면 소양신원길 126-26"
+        }
+      ]
     },
     {
       "id": "prid216",
-      "name": "수풀림 무라벨"
+      "name": "수풀림 무라벨",
+      "factories": [
+        {
+          "factoryId": "srcId53",
+          "companyName": "㈜동원에프앤비",
+          "factoryLocation": "전라북도 완주군 소양면 보검길 46-39"
+        }
+      ]
     },
     {
       "id": "prid217",
-      "name": "동원샘물 무라벨"
+      "name": "동원샘물 무라벨",
+      "factories": [
+        {
+          "factoryId": "srcId53",
+          "companyName": "㈜동원에프앤비",
+          "factoryLocation": "전라북도 완주군 소양면 보검길 46-39"
+        }
+      ]
     },
     {
       "id": "prid218",
-      "name": "동원샘물 프레시"
+      "name": "동원샘물 프레시",
+      "factories": [
+        {
+          "factoryId": "srcId53",
+          "companyName": "㈜동원에프앤비",
+          "factoryLocation": "전라북도 완주군 소양면 보검길 46-39"
+        }
+      ]
     },
     {
       "id": "prid219",
-      "name": "올스탠다드샘물"
+      "name": "올스탠다드샘물",
+      "factories": [
+        {
+          "factoryId": "srcId54",
+          "companyName": "㈜로터스",
+          "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
+        }
+      ]
     },
     {
       "id": "prid220",
-      "name": "행복지수"
+      "name": "행복지수",
+      "factories": [
+        {
+          "factoryId": "srcId54",
+          "companyName": "㈜로터스",
+          "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
+        }
+      ]
     },
     {
       "id": "prid221",
-      "name": "로터스워터"
+      "name": "로터스워터",
+      "factories": [
+        {
+          "factoryId": "srcId54",
+          "companyName": "㈜로터스",
+          "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
+        }
+      ]
     },
     {
       "id": "prid222",
-      "name": "유어스 맑은샘물"
+      "name": "유어스 맑은샘물",
+      "factories": [
+        {
+          "factoryId": "srcId54",
+          "companyName": "㈜로터스",
+          "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
+        }
+      ]
     },
     {
       "id": "prid223",
-      "name": "더블유샘물"
+      "name": "더블유샘물",
+      "factories": [
+        {
+          "factoryId": "srcId54",
+          "companyName": "㈜로터스",
+          "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
+        }
+      ]
     },
     {
       "id": "prid224",
-      "name": "북청물장수"
+      "name": "북청물장수",
+      "factories": [
+        {
+          "factoryId": "srcId54",
+          "companyName": "㈜로터스",
+          "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
+        }
+      ]
     },
     {
       "id": "prid225",
-      "name": "상하샘물"
+      "name": "상하샘물",
+      "factories": [
+        {
+          "factoryId": "srcId54",
+          "companyName": "㈜로터스",
+          "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
+        }
+      ]
     },
     {
       "id": "prid226",
-      "name": "순수본"
+      "name": "순수본",
+      "factories": [
+        {
+          "factoryId": "srcId54",
+          "companyName": "㈜로터스",
+          "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
+        }
+      ]
     },
     {
       "id": "prid227",
-      "name": "깊을수록 ECO 무라벨"
+      "name": "깊을수록 ECO 무라벨",
+      "factories": [
+        {
+          "factoryId": "srcId55",
+          "companyName": "㈜더조은워터",
+          "factoryLocation": "전북특별자치도 남원시 주천면 장백산로 139"
+        }
+      ]
     }
   ]
 }
