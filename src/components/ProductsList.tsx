@@ -3,7 +3,7 @@ import { groupByFirstLetter } from "../util/groupByFirstLetter";
 import { useNavigate } from "react-router-dom";
 
 interface ProductsListProps {
-  data: ProductType[];
+  data: ProductsType[];
   searchTerm: string;
 }
 
