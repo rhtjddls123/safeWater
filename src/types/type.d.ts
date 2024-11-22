@@ -37,12 +37,16 @@ interface SamplingTest {
   }[];
 }
 
-interface ProductType {
+interface ProductsType {
   id: string;
   name: string;
-  factories: {
-    factoryId: string;
-    companyName: string;
-    factoryLocation: string;
-  }[];
+  factories: FactoriesType[];
 }
+
+interface FactoriesType {
+  factoryId: string;
+  companyName: string;
+  factoryLocation: string;
+}
+
+type params = "productId" | "factoryId";
