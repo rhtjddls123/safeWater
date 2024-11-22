@@ -1,4 +1,4 @@
-import { AutoCenter, Dropdown, Grid, Image, Radio, Space } from "antd-mobile";
+import { AutoCenter, Dropdown, Grid, Image, List, Radio } from "antd-mobile";
 import { useState } from "react";
 
 interface ProductDetailProps {
@@ -29,13 +29,16 @@ const ProductDetail = ({ data }: ProductDetailProps) => {
                   value={selectedFactory}
                   onChange={(val) => setSelectedFactory(val as string)}
                 >
-                  <Space direction="vertical" block>
+                  <List header="업체명" className=" max-h-[40vh] overflow-auto">
                     {data.factories.map((factory) => (
-                      <Radio value={factory.companyName} key={factory.factoryId}>
-                        {factory.companyName}
-                      </Radio>
+                      <List.Item key={factory.factoryId}>
+                        <Radio value={factory.companyName}>
+                          <p>{factory.companyName}</p>
+                          <p className=" text-xs">{factory.factoryLocation}</p>
+                        </Radio>
+                      </List.Item>
                     ))}
-                  </Space>
+                  </List>
                 </Radio.Group>
               </div>
             </Dropdown.Item>
