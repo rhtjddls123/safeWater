@@ -1,5 +1,5 @@
 import { useQuery } from "@tanstack/react-query";
-import { getProduct, getProducts } from "../util/http";
+import { getFactoryProducts, getProduct, getProducts } from "../util/http";
 
 export const useGetProducts = () => {
   return useQuery<ProductsType[], Error>({
@@ -12,5 +12,12 @@ export const useGetProduct = (id: string) => {
   return useQuery<ProductsType | undefined, Error>({
     queryKey: ["products", { id }],
     queryFn: ({ signal }) => getProduct({ signal, id })
+  });
+};
+
+export const useGetFactoryProducts = (id: string) => {
+  return useQuery<FactoryDataType | null, Error>({
+    queryKey: ["factory", "products", { id }],
+    queryFn: ({ signal }) => getFactoryProducts({ signal, id })
   });
 };

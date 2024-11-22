@@ -391,10 +391,6 @@
           "name": "동아오츠카 마신다"
         },
         {
-          "productId": "prid58",
-          "name": "가야 g water"
-        },
-        {
           "productId": "prid60",
           "name": "가야 g water ECO"
         }
@@ -2056,7 +2052,7 @@
       "factories": [
         {
           "factoryId": "srcId1",
-          "companyName": "㈜금천게르마늄",
+          "companyName": "(주)금천게르마늄",
           "factoryLocation": "충청북도 옥천군 청성면 청성로 76"
         }
       ]
@@ -2067,7 +2063,7 @@
       "factories": [
         {
           "factoryId": "srcId1",
-          "companyName": "㈜금천게르마늄",
+          "companyName": "(주)금천게르마늄",
           "factoryLocation": "충청북도 옥천군 청성면 청성로 76"
         }
       ]
@@ -2078,7 +2074,7 @@
       "factories": [
         {
           "factoryId": "srcId1",
-          "companyName": "㈜금천게르마늄",
+          "companyName": "(주)금천게르마늄",
           "factoryLocation": "충청북도 옥천군 청성면 청성로 76"
         }
       ]
@@ -2089,7 +2085,7 @@
       "factories": [
         {
           "factoryId": "srcId2",
-          "companyName": "씨에이치음료㈜",
+          "companyName": "씨에이치음료(주)",
           "factoryLocation": "충청북도 청주시 상당구 미원면 성대2길 59"
         }
       ]
@@ -2100,22 +2096,22 @@
       "factories": [
         {
           "factoryId": "srcId3",
-          "companyName": "㈜동원F&B중부공장",
+          "companyName": "(주)동원F&B중부공장",
           "factoryLocation": "충청북도 괴산군 불정면 하산로1길 33-10"
         },
         {
           "factoryId": "srcId14",
-          "companyName": "㈜로진",
+          "companyName": "(주)로진",
           "factoryLocation": "경상북도 영주시 풍기읍 소백로 2141-16"
         },
         {
           "factoryId": "srcId18",
-          "companyName": "㈜하이엠샘물",
+          "companyName": "(주)하이엠샘물",
           "factoryLocation": "경상남도 고성군 구만면 구만로 1010"
         },
         {
           "factoryId": "srcId21",
-          "companyName": "㈜순정샘물",
+          "companyName": "(주)순정샘물",
           "factoryLocation": "경상남도 김해시 상동면 장척로462번길 67-21"
         },
         {
@@ -2125,17 +2121,17 @@
         },
         {
           "factoryId": "srcId36",
-          "companyName": "포천음료㈜",
+          "companyName": "포천음료(주)",
           "factoryLocation": "경기도 포천시 화현면 우시동길 16"
         },
         {
           "factoryId": "srcId39",
-          "companyName": "㈜동원에프앤비 연천공장",
+          "companyName": "(주)동원에프앤비연천공장",
           "factoryLocation": "경기도 연천군 청산면 순욱길 256"
         },
         {
           "factoryId": "srcId53",
-          "companyName": "㈜동원에프앤비",
+          "companyName": "(주)동원에프앤비",
           "factoryLocation": "전라북도 완주군 소양면 보검길 46-39"
         }
       ]
@@ -2146,7 +2142,7 @@
       "factories": [
         {
           "factoryId": "srcId3",
-          "companyName": "㈜동원F&B중부공장",
+          "companyName": "(주)동원F&B중부공장",
           "factoryLocation": "충청북도 괴산군 불정면 하산로1길 33-10"
         }
       ]
@@ -2157,12 +2153,12 @@
       "factories": [
         {
           "factoryId": "srcId3",
-          "companyName": "㈜동원F&B중부공장",
+          "companyName": "(주)동원F&B중부공장",
           "factoryLocation": "충청북도 괴산군 불정면 하산로1길 33-10"
         },
         {
           "factoryId": "srcId53",
-          "companyName": "㈜동원에프앤비",
+          "companyName": "(주)동원에프앤비",
           "factoryLocation": "전라북도 완주군 소양면 보검길 46-39"
         }
       ]
@@ -2173,7 +2169,7 @@
       "factories": [
         {
           "factoryId": "srcId3",
-          "companyName": "㈜동원F&B중부공장",
+          "companyName": "(주)동원F&B중부공장",
           "factoryLocation": "충청북도 괴산군 불정면 하산로1길 33-10"
         }
       ]
@@ -2184,7 +2180,7 @@
       "factories": [
         {
           "factoryId": "srcId3",
-          "companyName": "㈜동원F&B중부공장",
+          "companyName": "(주)동원F&B중부공장",
           "factoryLocation": "충청북도 괴산군 불정면 하산로1길 33-10"
         }
       ]
@@ -2195,7 +2191,7 @@
       "factories": [
         {
           "factoryId": "srcId3",
-          "companyName": "㈜동원F&B중부공장",
+          "companyName": "(주)동원F&B중부공장",
           "factoryLocation": "충청북도 괴산군 불정면 하산로1길 33-10"
         }
       ]
@@ -2206,37 +2202,37 @@
       "factories": [
         {
           "factoryId": "srcId4",
-          "companyName": "하이트진로음료㈜",
+          "companyName": "하이트진로음료(주)",
           "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
         },
         {
           "factoryId": "srcId6",
-          "companyName": "㈜금산인삼골",
+          "companyName": "(주)금산인삼골",
           "factoryLocation": "충청남도 금산군 추부면 개덕사길 70"
         },
         {
           "factoryId": "srcId8",
-          "companyName": "하이트진로음료㈜ 천안공장",
+          "companyName": "하이트진로음료(주)천안공장",
           "factoryLocation": "충청남도 천안시 동남구 목천읍 덕전1길 223"
         },
         {
           "factoryId": "srcId11",
-          "companyName": "미소음료㈜",
+          "companyName": "미소음료(주)",
           "factoryLocation": "전라남도 담양군 용면 추월산로 735"
         },
         {
           "factoryId": "srcId17",
-          "companyName": "지리산청학동샘물㈜",
+          "companyName": "지리산청학동샘물(주)",
           "factoryLocation": "경상남도 하동군 청암면 청학로 2219-85"
         },
         {
           "factoryId": "srcId20",
-          "companyName": "샘소슬㈜",
+          "companyName": "샘소슬(주)",
           "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
         },
         {
           "factoryId": "srcId29",
-          "companyName": "하이트진로음료㈜ 세종특별자치시공장",
+          "companyName": "하이트진로음료(주)세종특별자치시공장",
           "factoryLocation": "세종특별자치시 전의면 상대부길 33"
         },
         {
@@ -2246,7 +2242,7 @@
         },
         {
           "factoryId": "srcId35",
-          "companyName": "우리샘물㈜",
+          "companyName": "우리샘물(주)",
           "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
         }
       ]
@@ -2257,32 +2253,32 @@
       "factories": [
         {
           "factoryId": "srcId4",
-          "companyName": "하이트진로음료㈜",
+          "companyName": "하이트진로음료(주)",
           "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
         },
         {
           "factoryId": "srcId8",
-          "companyName": "하이트진로음료㈜ 천안공장",
+          "companyName": "하이트진로음료(주)천안공장",
           "factoryLocation": "충청남도 천안시 동남구 목천읍 덕전1길 223"
         },
         {
           "factoryId": "srcId11",
-          "companyName": "미소음료㈜",
+          "companyName": "미소음료(주)",
           "factoryLocation": "전라남도 담양군 용면 추월산로 735"
         },
         {
           "factoryId": "srcId17",
-          "companyName": "지리산청학동샘물㈜",
+          "companyName": "지리산청학동샘물(주)",
           "factoryLocation": "경상남도 하동군 청암면 청학로 2219-85"
         },
         {
           "factoryId": "srcId20",
-          "companyName": "샘소슬㈜",
+          "companyName": "샘소슬(주)",
           "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
         },
         {
           "factoryId": "srcId29",
-          "companyName": "하이트진로음료㈜ 세종특별자치시공장",
+          "companyName": "하이트진로음료(주)세종특별자치시공장",
           "factoryLocation": "세종특별자치시 전의면 상대부길 33"
         },
         {
@@ -2298,12 +2294,12 @@
       "factories": [
         {
           "factoryId": "srcId4",
-          "companyName": "하이트진로음료㈜",
+          "companyName": "하이트진로음료(주)",
           "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
         },
         {
           "factoryId": "srcId29",
-          "companyName": "하이트진로음료㈜ 세종특별자치시공장",
+          "companyName": "하이트진로음료(주)세종특별자치시공장",
           "factoryLocation": "세종특별자치시 전의면 상대부길 33"
         }
       ]
@@ -2314,7 +2310,7 @@
       "factories": [
         {
           "factoryId": "srcId4",
-          "companyName": "하이트진로음료㈜",
+          "companyName": "하이트진로음료(주)",
           "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
         }
       ]
@@ -2325,7 +2321,7 @@
       "factories": [
         {
           "factoryId": "srcId4",
-          "companyName": "하이트진로음료㈜",
+          "companyName": "하이트진로음료(주)",
           "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
         }
       ]
@@ -2336,12 +2332,12 @@
       "factories": [
         {
           "factoryId": "srcId4",
-          "companyName": "하이트진로음료㈜",
+          "companyName": "하이트진로음료(주)",
           "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
         },
         {
           "factoryId": "srcId29",
-          "companyName": "하이트진로음료㈜ 세종특별자치시공장",
+          "companyName": "하이트진로음료(주)세종특별자치시공장",
           "factoryLocation": "세종특별자치시 전의면 상대부길 33"
         }
       ]
@@ -2352,52 +2348,52 @@
       "factories": [
         {
           "factoryId": "srcId4",
-          "companyName": "하이트진로음료㈜",
+          "companyName": "하이트진로음료(주)",
           "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
         },
         {
           "factoryId": "srcId9",
-          "companyName": "㈜대정",
+          "companyName": "(주)대정",
           "factoryLocation": "충청남도 천안시 동남구 성남면 대정1길 19-11"
         },
         {
           "factoryId": "srcId16",
-          "companyName": "㈜동천수",
+          "companyName": "(주)동천수",
           "factoryLocation": "경상북도 상주시 화북면 문장로 1623-32"
         },
         {
           "factoryId": "srcId28",
-          "companyName": "㈜삼정샘물",
+          "companyName": "(주)삼정샘물",
           "factoryLocation": "울산광역시 울주군 두서면 옥동길 116"
         },
         {
           "factoryId": "srcId29",
-          "companyName": "하이트진로음료㈜ 세종특별자치시공장",
+          "companyName": "하이트진로음료(주)세종특별자치시공장",
           "factoryLocation": "세종특별자치시 전의면 상대부길 33"
         },
         {
           "factoryId": "srcId31",
-          "companyName": "㈜크리스탈샘물",
+          "companyName": "(주)크리스탈샘물",
           "factoryLocation": "경기도 가평군 설악면 회곡안골길 146"
         },
         {
           "factoryId": "srcId35",
-          "companyName": "우리샘물㈜",
+          "companyName": "우리샘물(주)",
           "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
         },
         {
           "factoryId": "srcId37",
-          "companyName": "㈜포천샘물",
+          "companyName": "(주)포천샘물",
           "factoryLocation": "경기도 포천시 일동면 금강로 4686"
         },
         {
           "factoryId": "srcId38",
-          "companyName": "산수음료㈜",
+          "companyName": "산수음료(주)",
           "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
         },
         {
           "factoryId": "srcId54",
-          "companyName": "㈜로터스",
+          "companyName": "(주)로터스",
           "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
         }
       ]
@@ -2408,17 +2404,17 @@
       "factories": [
         {
           "factoryId": "srcId4",
-          "companyName": "하이트진로음료㈜",
+          "companyName": "하이트진로음료(주)",
           "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
         },
         {
           "factoryId": "srcId29",
-          "companyName": "하이트진로음료㈜ 세종특별자치시공장",
+          "companyName": "하이트진로음료(주)세종특별자치시공장",
           "factoryLocation": "세종특별자치시 전의면 상대부길 33"
         },
         {
           "factoryId": "srcId31",
-          "companyName": "㈜크리스탈샘물",
+          "companyName": "(주)크리스탈샘물",
           "factoryLocation": "경기도 가평군 설악면 회곡안골길 146"
         }
       ]
@@ -2429,12 +2425,12 @@
       "factories": [
         {
           "factoryId": "srcId4",
-          "companyName": "하이트진로음료㈜",
+          "companyName": "하이트진로음료(주)",
           "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
         },
         {
           "factoryId": "srcId29",
-          "companyName": "하이트진로음료㈜ 세종특별자치시공장",
+          "companyName": "하이트진로음료(주)세종특별자치시공장",
           "factoryLocation": "세종특별자치시 전의면 상대부길 33"
         }
       ]
@@ -2445,12 +2441,12 @@
       "factories": [
         {
           "factoryId": "srcId4",
-          "companyName": "하이트진로음료㈜",
+          "companyName": "하이트진로음료(주)",
           "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
         },
         {
           "factoryId": "srcId29",
-          "companyName": "하이트진로음료㈜ 세종특별자치시공장",
+          "companyName": "하이트진로음료(주)세종특별자치시공장",
           "factoryLocation": "세종특별자치시 전의면 상대부길 33"
         }
       ]
@@ -2461,7 +2457,7 @@
       "factories": [
         {
           "factoryId": "srcId4",
-          "companyName": "하이트진로음료㈜",
+          "companyName": "하이트진로음료(주)",
           "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
         }
       ]
@@ -2472,12 +2468,12 @@
       "factories": [
         {
           "factoryId": "srcId4",
-          "companyName": "하이트진로음료㈜",
+          "companyName": "하이트진로음료(주)",
           "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
         },
         {
           "factoryId": "srcId29",
-          "companyName": "하이트진로음료㈜ 세종특별자치시공장",
+          "companyName": "하이트진로음료(주)세종특별자치시공장",
           "factoryLocation": "세종특별자치시 전의면 상대부길 33"
         }
       ]
@@ -2488,7 +2484,7 @@
       "factories": [
         {
           "factoryId": "srcId4",
-          "companyName": "하이트진로음료㈜",
+          "companyName": "하이트진로음료(주)",
           "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
         }
       ]
@@ -2499,7 +2495,7 @@
       "factories": [
         {
           "factoryId": "srcId4",
-          "companyName": "하이트진로음료㈜",
+          "companyName": "하이트진로음료(주)",
           "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
         }
       ]
@@ -2510,7 +2506,7 @@
       "factories": [
         {
           "factoryId": "srcId4",
-          "companyName": "하이트진로음료㈜",
+          "companyName": "하이트진로음료(주)",
           "factoryLocation": "충북 청주시 상당구 가덕면 금거내암로 308"
         }
       ]
@@ -2532,7 +2528,7 @@
       "factories": [
         {
           "factoryId": "srcId6",
-          "companyName": "㈜금산인삼골",
+          "companyName": "(주)금산인삼골",
           "factoryLocation": "충청남도 금산군 추부면 개덕사길 70"
         }
       ]
@@ -2543,7 +2539,7 @@
       "factories": [
         {
           "factoryId": "srcId6",
-          "companyName": "㈜금산인삼골",
+          "companyName": "(주)금산인삼골",
           "factoryLocation": "충청남도 금산군 추부면 개덕사길 70"
         }
       ]
@@ -2554,7 +2550,7 @@
       "factories": [
         {
           "factoryId": "srcId6",
-          "companyName": "㈜금산인삼골",
+          "companyName": "(주)금산인삼골",
           "factoryLocation": "충청남도 금산군 추부면 개덕사길 70"
         }
       ]
@@ -2565,7 +2561,7 @@
       "factories": [
         {
           "factoryId": "srcId6",
-          "companyName": "㈜금산인삼골",
+          "companyName": "(주)금산인삼골",
           "factoryLocation": "충청남도 금산군 추부면 개덕사길 70"
         }
       ]
@@ -2576,7 +2572,7 @@
       "factories": [
         {
           "factoryId": "srcId6",
-          "companyName": "㈜금산인삼골",
+          "companyName": "(주)금산인삼골",
           "factoryLocation": "충청남도 금산군 추부면 개덕사길 70"
         }
       ]
@@ -2587,7 +2583,7 @@
       "factories": [
         {
           "factoryId": "srcId6",
-          "companyName": "㈜금산인삼골",
+          "companyName": "(주)금산인삼골",
           "factoryLocation": "충청남도 금산군 추부면 개덕사길 70"
         }
       ]
@@ -2598,7 +2594,7 @@
       "factories": [
         {
           "factoryId": "srcId6",
-          "companyName": "㈜금산인삼골",
+          "companyName": "(주)금산인삼골",
           "factoryLocation": "충청남도 금산군 추부면 개덕사길 70"
         }
       ]
@@ -2609,57 +2605,57 @@
       "factories": [
         {
           "factoryId": "srcId7",
-          "companyName": "㈜대산에스엠",
+          "companyName": "(주)대산에스엠",
           "factoryLocation": "충청남도 공주시 정안면 가락골길 131-69"
         },
         {
           "factoryId": "srcId9",
-          "companyName": "㈜대정",
+          "companyName": "(주)대정",
           "factoryLocation": "충청남도 천안시 동남구 성남면 대정1길 19-11"
         },
         {
           "factoryId": "srcId11",
-          "companyName": "미소음료㈜",
+          "companyName": "미소음료(주)",
           "factoryLocation": "전라남도 담양군 용면 추월산로 735"
         },
         {
           "factoryId": "srcId18",
-          "companyName": "㈜하이엠샘물",
+          "companyName": "(주)하이엠샘물",
           "factoryLocation": "경상남도 고성군 구만면 구만로 1010"
         },
         {
           "factoryId": "srcId20",
-          "companyName": "샘소슬㈜",
+          "companyName": "샘소슬(주)",
           "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
         },
         {
           "factoryId": "srcId27",
-          "companyName": "㈜알프스샘물",
+          "companyName": "(주)알프스샘물",
           "factoryLocation": "울산광역시 울주군 상북면 석남로 660"
         },
         {
           "factoryId": "srcId28",
-          "companyName": "㈜삼정샘물",
+          "companyName": "(주)삼정샘물",
           "factoryLocation": "울산광역시 울주군 두서면 옥동길 116"
         },
         {
           "factoryId": "srcId35",
-          "companyName": "우리샘물㈜",
+          "companyName": "우리샘물(주)",
           "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
         },
         {
           "factoryId": "srcId36",
-          "companyName": "포천음료㈜",
+          "companyName": "포천음료(주)",
           "factoryLocation": "경기도 포천시 화현면 우시동길 16"
         },
         {
           "factoryId": "srcId37",
-          "companyName": "㈜포천샘물",
+          "companyName": "(주)포천샘물",
           "factoryLocation": "경기도 포천시 일동면 금강로 4686"
         },
         {
           "factoryId": "srcId43",
-          "companyName": "㈜포천에스엠",
+          "companyName": "(주)포천에스엠",
           "factoryLocation": "경기도 포천시 영북면 방골길 924"
         }
       ]
@@ -2670,7 +2666,7 @@
       "factories": [
         {
           "factoryId": "srcId9",
-          "companyName": "㈜대정",
+          "companyName": "(주)대정",
           "factoryLocation": "충청남도 천안시 동남구 성남면 대정1길 19-11"
         }
       ]
@@ -2681,7 +2677,7 @@
       "factories": [
         {
           "factoryId": "srcId10",
-          "companyName": "㈜회천",
+          "companyName": "(주)회천",
           "factoryLocation": "전라남도 구례군 산동면 효동길 30-10"
         }
       ]
@@ -2692,7 +2688,7 @@
       "factories": [
         {
           "factoryId": "srcId10",
-          "companyName": "㈜회천",
+          "companyName": "(주)회천",
           "factoryLocation": "전라남도 구례군 산동면 효동길 30-10"
         }
       ]
@@ -2703,7 +2699,7 @@
       "factories": [
         {
           "factoryId": "srcId10",
-          "companyName": "㈜회천",
+          "companyName": "(주)회천",
           "factoryLocation": "전라남도 구례군 산동면 효동길 30-10"
         }
       ]
@@ -2714,7 +2710,7 @@
       "factories": [
         {
           "factoryId": "srcId10",
-          "companyName": "㈜회천",
+          "companyName": "(주)회천",
           "factoryLocation": "전라남도 구례군 산동면 효동길 30-10"
         }
       ]
@@ -2725,12 +2721,12 @@
       "factories": [
         {
           "factoryId": "srcId11",
-          "companyName": "미소음료㈜",
+          "companyName": "미소음료(주)",
           "factoryLocation": "전라남도 담양군 용면 추월산로 735"
         },
         {
           "factoryId": "srcId54",
-          "companyName": "㈜로터스",
+          "companyName": "(주)로터스",
           "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
         }
       ]
@@ -2741,7 +2737,7 @@
       "factories": [
         {
           "factoryId": "srcId12",
-          "companyName": "㈜상원",
+          "companyName": "(주)상원",
           "factoryLocation": "경상북도 영양군 일월면 오리도곡로 435"
         }
       ]
@@ -2752,7 +2748,7 @@
       "factories": [
         {
           "factoryId": "srcId12",
-          "companyName": "㈜상원",
+          "companyName": "(주)상원",
           "factoryLocation": "경상북도 영양군 일월면 오리도곡로 435"
         }
       ]
@@ -2763,7 +2759,7 @@
       "factories": [
         {
           "factoryId": "srcId12",
-          "companyName": "㈜상원",
+          "companyName": "(주)상원",
           "factoryLocation": "경상북도 영양군 일월면 오리도곡로 435"
         }
       ]
@@ -2774,22 +2770,22 @@
       "factories": [
         {
           "factoryId": "srcId13",
-          "companyName": "㈜동천수 상주공장",
+          "companyName": "(주)동천수상주공장",
           "factoryLocation": "경상북도 상주시 헌신산단로 67"
         },
         {
           "factoryId": "srcId16",
-          "companyName": "㈜동천수",
+          "companyName": "(주)동천수",
           "factoryLocation": "경상북도 상주시 화북면 문장로 1623-32"
         },
         {
           "factoryId": "srcId20",
-          "companyName": "샘소슬㈜",
+          "companyName": "샘소슬(주)",
           "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
         },
         {
           "factoryId": "srcId24",
-          "companyName": "㈜동천수가야산샘물",
+          "companyName": "(주)동천수가야산샘물",
           "factoryLocation": "경상남도 합천군 묘산면 영서로 1724-12"
         }
       ]
@@ -2800,7 +2796,7 @@
       "factories": [
         {
           "factoryId": "srcId14",
-          "companyName": "㈜로진",
+          "companyName": "(주)로진",
           "factoryLocation": "경상북도 영주시 풍기읍 소백로 2141-16"
         }
       ]
@@ -2811,7 +2807,7 @@
       "factories": [
         {
           "factoryId": "srcId14",
-          "companyName": "㈜로진",
+          "companyName": "(주)로진",
           "factoryLocation": "경상북도 영주시 풍기읍 소백로 2141-16"
         }
       ]
@@ -2822,7 +2818,7 @@
       "factories": [
         {
           "factoryId": "srcId14",
-          "companyName": "㈜로진",
+          "companyName": "(주)로진",
           "factoryLocation": "경상북도 영주시 풍기읍 소백로 2141-16"
         }
       ]
@@ -2833,7 +2829,7 @@
       "factories": [
         {
           "factoryId": "srcId14",
-          "companyName": "㈜로진",
+          "companyName": "(주)로진",
           "factoryLocation": "경상북도 영주시 풍기읍 소백로 2141-16"
         }
       ]
@@ -2844,7 +2840,7 @@
       "factories": [
         {
           "factoryId": "srcId14",
-          "companyName": "㈜로진",
+          "companyName": "(주)로진",
           "factoryLocation": "경상북도 영주시 풍기읍 소백로 2141-16"
         }
       ]
@@ -2855,17 +2851,17 @@
       "factories": [
         {
           "factoryId": "srcId14",
-          "companyName": "㈜로진",
+          "companyName": "(주)로진",
           "factoryLocation": "경상북도 영주시 풍기읍 소백로 2141-16"
         },
         {
           "factoryId": "srcId39",
-          "companyName": "㈜동원에프앤비 연천공장",
+          "companyName": "(주)동원에프앤비연천공장",
           "factoryLocation": "경기도 연천군 청산면 순욱길 256"
         },
         {
           "factoryId": "srcId53",
-          "companyName": "㈜동원에프앤비",
+          "companyName": "(주)동원에프앤비",
           "factoryLocation": "전라북도 완주군 소양면 보검길 46-39"
         }
       ]
@@ -2876,7 +2872,7 @@
       "factories": [
         {
           "factoryId": "srcId14",
-          "companyName": "㈜로진",
+          "companyName": "(주)로진",
           "factoryLocation": "경상북도 영주시 풍기읍 소백로 2141-16"
         }
       ]
@@ -2887,22 +2883,22 @@
       "factories": [
         {
           "factoryId": "srcId14",
-          "companyName": "㈜로진",
+          "companyName": "(주)로진",
           "factoryLocation": "경상북도 영주시 풍기읍 소백로 2141-16"
         },
         {
           "factoryId": "srcId20",
-          "companyName": "샘소슬㈜",
+          "companyName": "샘소슬(주)",
           "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
         },
         {
           "factoryId": "srcId21",
-          "companyName": "㈜순정샘물",
+          "companyName": "(주)순정샘물",
           "factoryLocation": "경상남도 김해시 상동면 장척로462번길 67-21"
         },
         {
           "factoryId": "srcId54",
-          "companyName": "㈜로터스",
+          "companyName": "(주)로터스",
           "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
         }
       ]
@@ -2913,7 +2909,7 @@
       "factories": [
         {
           "factoryId": "srcId15",
-          "companyName": "㈜청도샘물",
+          "companyName": "(주)청도샘물",
           "factoryLocation": "경상북도 청도군 각북면 덕촌1길 38-7"
         }
       ]
@@ -2924,7 +2920,7 @@
       "factories": [
         {
           "factoryId": "srcId15",
-          "companyName": "㈜청도샘물",
+          "companyName": "(주)청도샘물",
           "factoryLocation": "경상북도 청도군 각북면 덕촌1길 38-7"
         }
       ]
@@ -2935,12 +2931,12 @@
       "factories": [
         {
           "factoryId": "srcId15",
-          "companyName": "㈜청도샘물",
+          "companyName": "(주)청도샘물",
           "factoryLocation": "경상북도 청도군 각북면 덕촌1길 38-7"
         },
         {
           "factoryId": "srcId33",
-          "companyName": "씨에이치음료㈜ 양주공장",
+          "companyName": "씨에이치음료(주)양주공장",
           "factoryLocation": "경기도 양주시 남면 삼육사로 197-53"
         }
       ]
@@ -2951,7 +2947,7 @@
       "factories": [
         {
           "factoryId": "srcId15",
-          "companyName": "㈜청도샘물",
+          "companyName": "(주)청도샘물",
           "factoryLocation": "경상북도 청도군 각북면 덕촌1길 38-7"
         }
       ]
@@ -2962,7 +2958,7 @@
       "factories": [
         {
           "factoryId": "srcId16",
-          "companyName": "㈜동천수",
+          "companyName": "(주)동천수",
           "factoryLocation": "경상북도 상주시 화북면 문장로 1623-32"
         }
       ]
@@ -2973,27 +2969,22 @@
       "factories": [
         {
           "factoryId": "srcId16",
-          "companyName": "㈜동천수",
-          "factoryLocation": "경상북도 상주시 화북면 문장로 1623-32"
-        },
-        {
-          "factoryId": "srcId16",
-          "companyName": "㈜동천수",
+          "companyName": "(주)동천수",
           "factoryLocation": "경상북도 상주시 화북면 문장로 1623-32"
         },
         {
           "factoryId": "srcId23",
-          "companyName": "㈜지리산산청샘물",
+          "companyName": "(주)지리산산청샘물",
           "factoryLocation": "경상남도 산청군 삼장면 친환경로 460-22"
         },
         {
           "factoryId": "srcId38",
-          "companyName": "산수음료㈜",
+          "companyName": "산수음료(주)",
           "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
         },
         {
           "factoryId": "srcId41",
-          "companyName": "한국청정음료㈜",
+          "companyName": "한국청정음료(주)",
           "factoryLocation": "경기도 포천시 이동면 늠바위길 207-16"
         }
       ]
@@ -3004,17 +2995,17 @@
       "factories": [
         {
           "factoryId": "srcId16",
-          "companyName": "㈜동천수",
+          "companyName": "(주)동천수",
           "factoryLocation": "경상북도 상주시 화북면 문장로 1623-32"
         },
         {
           "factoryId": "srcId20",
-          "companyName": "샘소슬㈜",
+          "companyName": "샘소슬(주)",
           "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
         },
         {
           "factoryId": "srcId54",
-          "companyName": "㈜로터스",
+          "companyName": "(주)로터스",
           "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
         }
       ]
@@ -3025,22 +3016,22 @@
       "factories": [
         {
           "factoryId": "srcId16",
-          "companyName": "㈜동천수",
+          "companyName": "(주)동천수",
           "factoryLocation": "경상북도 상주시 화북면 문장로 1623-32"
         },
         {
           "factoryId": "srcId23",
-          "companyName": "㈜지리산산청샘물",
+          "companyName": "(주)지리산산청샘물",
           "factoryLocation": "경상남도 산청군 삼장면 친환경로 460-22"
         },
         {
           "factoryId": "srcId38",
-          "companyName": "산수음료㈜",
+          "companyName": "산수음료(주)",
           "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
         },
         {
           "factoryId": "srcId41",
-          "companyName": "한국청정음료㈜",
+          "companyName": "한국청정음료(주)",
           "factoryLocation": "경기도 포천시 이동면 늠바위길 207-16"
         }
       ]
@@ -3051,12 +3042,12 @@
       "factories": [
         {
           "factoryId": "srcId17",
-          "companyName": "지리산청학동샘물㈜",
+          "companyName": "지리산청학동샘물(주)",
           "factoryLocation": "경상남도 하동군 청암면 청학로 2219-85"
         },
         {
           "factoryId": "srcId35",
-          "companyName": "우리샘물㈜",
+          "companyName": "우리샘물(주)",
           "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
         }
       ]
@@ -3067,32 +3058,32 @@
       "factories": [
         {
           "factoryId": "srcId17",
-          "companyName": "지리산청학동샘물㈜",
+          "companyName": "지리산청학동샘물(주)",
           "factoryLocation": "경상남도 하동군 청암면 청학로 2219-85"
         },
         {
           "factoryId": "srcId20",
-          "companyName": "샘소슬㈜",
+          "companyName": "샘소슬(주)",
           "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
         },
         {
           "factoryId": "srcId34",
-          "companyName": "㈜포천그린",
+          "companyName": "(주)포천그린",
           "factoryLocation": "경기도 포천시 이동면 화동로 1870번길 173"
         },
         {
           "factoryId": "srcId35",
-          "companyName": "우리샘물㈜",
+          "companyName": "우리샘물(주)",
           "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
         },
         {
           "factoryId": "srcId36",
-          "companyName": "포천음료㈜",
+          "companyName": "포천음료(주)",
           "factoryLocation": "경기도 포천시 화현면 우시동길 16"
         },
         {
           "factoryId": "srcId42",
-          "companyName": "풀무원샘물㈜",
+          "companyName": "풀무원샘물(주)",
           "factoryLocation": "경기도 포천시 이동면 화동로 1870번길 142-24"
         }
       ]
@@ -3103,7 +3094,7 @@
       "factories": [
         {
           "factoryId": "srcId17",
-          "companyName": "지리산청학동샘물㈜",
+          "companyName": "지리산청학동샘물(주)",
           "factoryLocation": "경상남도 하동군 청암면 청학로 2219-85"
         }
       ]
@@ -3114,7 +3105,7 @@
       "factories": [
         {
           "factoryId": "srcId19",
-          "companyName": "㈜호진지리산보천",
+          "companyName": "(주)호진지리산보천",
           "factoryLocation": "경상남도 하동군 화개면 범왕길 254-19"
         }
       ]
@@ -3125,7 +3116,7 @@
       "factories": [
         {
           "factoryId": "srcId19",
-          "companyName": "㈜호진지리산보천",
+          "companyName": "(주)호진지리산보천",
           "factoryLocation": "경상남도 하동군 화개면 범왕길 254-19"
         }
       ]
@@ -3136,7 +3127,7 @@
       "factories": [
         {
           "factoryId": "srcId19",
-          "companyName": "㈜호진지리산보천",
+          "companyName": "(주)호진지리산보천",
           "factoryLocation": "경상남도 하동군 화개면 범왕길 254-19"
         }
       ]
@@ -3147,7 +3138,7 @@
       "factories": [
         {
           "factoryId": "srcId20",
-          "companyName": "샘소슬㈜",
+          "companyName": "샘소슬(주)",
           "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
         }
       ]
@@ -3158,7 +3149,7 @@
       "factories": [
         {
           "factoryId": "srcId20",
-          "companyName": "샘소슬㈜",
+          "companyName": "샘소슬(주)",
           "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
         }
       ]
@@ -3169,7 +3160,7 @@
       "factories": [
         {
           "factoryId": "srcId20",
-          "companyName": "샘소슬㈜",
+          "companyName": "샘소슬(주)",
           "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
         }
       ]
@@ -3180,7 +3171,7 @@
       "factories": [
         {
           "factoryId": "srcId20",
-          "companyName": "샘소슬㈜",
+          "companyName": "샘소슬(주)",
           "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
         }
       ]
@@ -3191,7 +3182,7 @@
       "factories": [
         {
           "factoryId": "srcId20",
-          "companyName": "샘소슬㈜",
+          "companyName": "샘소슬(주)",
           "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
         }
       ]
@@ -3202,17 +3193,17 @@
       "factories": [
         {
           "factoryId": "srcId20",
-          "companyName": "샘소슬㈜",
+          "companyName": "샘소슬(주)",
           "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
         },
         {
           "factoryId": "srcId38",
-          "companyName": "산수음료㈜",
+          "companyName": "산수음료(주)",
           "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
         },
         {
           "factoryId": "srcId42",
-          "companyName": "풀무원샘물㈜",
+          "companyName": "풀무원샘물(주)",
           "factoryLocation": "경기도 포천시 이동면 화동로 1870번길 142-24"
         }
       ]
@@ -3223,17 +3214,17 @@
       "factories": [
         {
           "factoryId": "srcId20",
-          "companyName": "샘소슬㈜",
+          "companyName": "샘소슬(주)",
           "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
         },
         {
           "factoryId": "srcId22",
-          "companyName": "㈜엘케이샘물",
+          "companyName": "(주)엘케이샘물",
           "factoryLocation": "경상남도 산청군 삼장면 친환경로 462-30"
         },
         {
           "factoryId": "srcId23",
-          "companyName": "㈜지리산산청샘물",
+          "companyName": "(주)지리산산청샘물",
           "factoryLocation": "경상남도 산청군 삼장면 친환경로 460-22"
         }
       ]
@@ -3244,12 +3235,12 @@
       "factories": [
         {
           "factoryId": "srcId20",
-          "companyName": "샘소슬㈜",
+          "companyName": "샘소슬(주)",
           "factoryLocation": "경상남도 밀양시 삼랑진읍 행곡1길 15-94"
         },
         {
           "factoryId": "srcId36",
-          "companyName": "포천음료㈜",
+          "companyName": "포천음료(주)",
           "factoryLocation": "경기도 포천시 화현면 우시동길 16"
         }
       ]
@@ -3260,7 +3251,7 @@
       "factories": [
         {
           "factoryId": "srcId21",
-          "companyName": "㈜순정샘물",
+          "companyName": "(주)순정샘물",
           "factoryLocation": "경상남도 김해시 상동면 장척로462번길 67-21"
         }
       ]
@@ -3271,22 +3262,22 @@
       "factories": [
         {
           "factoryId": "srcId21",
-          "companyName": "㈜순정샘물",
+          "companyName": "(주)순정샘물",
           "factoryLocation": "경상남도 김해시 상동면 장척로462번길 67-21"
         },
         {
           "factoryId": "srcId22",
-          "companyName": "㈜엘케이샘물",
+          "companyName": "(주)엘케이샘물",
           "factoryLocation": "경상남도 산청군 삼장면 친환경로 462-30"
         },
         {
           "factoryId": "srcId31",
-          "companyName": "㈜크리스탈샘물",
+          "companyName": "(주)크리스탈샘물",
           "factoryLocation": "경기도 가평군 설악면 회곡안골길 146"
         },
         {
           "factoryId": "srcId36",
-          "companyName": "포천음료㈜",
+          "companyName": "포천음료(주)",
           "factoryLocation": "경기도 포천시 화현면 우시동길 16"
         }
       ]
@@ -3297,7 +3288,7 @@
       "factories": [
         {
           "factoryId": "srcId22",
-          "companyName": "㈜엘케이샘물",
+          "companyName": "(주)엘케이샘물",
           "factoryLocation": "경상남도 산청군 삼장면 친환경로 462-30"
         }
       ]
@@ -3308,7 +3299,7 @@
       "factories": [
         {
           "factoryId": "srcId22",
-          "companyName": "㈜엘케이샘물",
+          "companyName": "(주)엘케이샘물",
           "factoryLocation": "경상남도 산청군 삼장면 친환경로 462-30"
         }
       ]
@@ -3319,7 +3310,7 @@
       "factories": [
         {
           "factoryId": "srcId22",
-          "companyName": "㈜엘케이샘물",
+          "companyName": "(주)엘케이샘물",
           "factoryLocation": "경상남도 산청군 삼장면 친환경로 462-30"
         }
       ]
@@ -3330,7 +3321,7 @@
       "factories": [
         {
           "factoryId": "srcId22",
-          "companyName": "㈜엘케이샘물",
+          "companyName": "(주)엘케이샘물",
           "factoryLocation": "경상남도 산청군 삼장면 친환경로 462-30"
         }
       ]
@@ -3341,7 +3332,7 @@
       "factories": [
         {
           "factoryId": "srcId22",
-          "companyName": "㈜엘케이샘물",
+          "companyName": "(주)엘케이샘물",
           "factoryLocation": "경상남도 산청군 삼장면 친환경로 462-30"
         }
       ]
@@ -3352,7 +3343,7 @@
       "factories": [
         {
           "factoryId": "srcId22",
-          "companyName": "㈜엘케이샘물",
+          "companyName": "(주)엘케이샘물",
           "factoryLocation": "경상남도 산청군 삼장면 친환경로 462-30"
         }
       ]
@@ -3363,7 +3354,7 @@
       "factories": [
         {
           "factoryId": "srcId23",
-          "companyName": "㈜지리산산청샘물",
+          "companyName": "(주)지리산산청샘물",
           "factoryLocation": "경상남도 산청군 삼장면 친환경로 460-22"
         }
       ]
@@ -3374,7 +3365,7 @@
       "factories": [
         {
           "factoryId": "srcId23",
-          "companyName": "㈜지리산산청샘물",
+          "companyName": "(주)지리산산청샘물",
           "factoryLocation": "경상남도 산청군 삼장면 친환경로 460-22"
         }
       ]
@@ -3385,7 +3376,7 @@
       "factories": [
         {
           "factoryId": "srcId23",
-          "companyName": "㈜지리산산청샘물",
+          "companyName": "(주)지리산산청샘물",
           "factoryLocation": "경상남도 산청군 삼장면 친환경로 460-22"
         }
       ]
@@ -3396,7 +3387,7 @@
       "factories": [
         {
           "factoryId": "srcId23",
-          "companyName": "㈜지리산산청샘물",
+          "companyName": "(주)지리산산청샘물",
           "factoryLocation": "경상남도 산청군 삼장면 친환경로 460-22"
         }
       ]
@@ -3407,7 +3398,7 @@
       "factories": [
         {
           "factoryId": "srcId23",
-          "companyName": "㈜지리산산청샘물",
+          "companyName": "(주)지리산산청샘물",
           "factoryLocation": "경상남도 산청군 삼장면 친환경로 460-22"
         }
       ]
@@ -3418,7 +3409,7 @@
       "factories": [
         {
           "factoryId": "srcId23",
-          "companyName": "㈜지리산산청샘물",
+          "companyName": "(주)지리산산청샘물",
           "factoryLocation": "경상남도 산청군 삼장면 친환경로 460-22"
         }
       ]
@@ -3429,7 +3420,7 @@
       "factories": [
         {
           "factoryId": "srcId24",
-          "companyName": "㈜동천수가야산샘물",
+          "companyName": "(주)동천수가야산샘물",
           "factoryLocation": "경상남도 합천군 묘산면 영서로 1724-12"
         }
       ]
@@ -3440,7 +3431,7 @@
       "factories": [
         {
           "factoryId": "srcId24",
-          "companyName": "㈜동천수가야산샘물",
+          "companyName": "(주)동천수가야산샘물",
           "factoryLocation": "경상남도 합천군 묘산면 영서로 1724-12"
         }
       ]
@@ -3451,7 +3442,7 @@
       "factories": [
         {
           "factoryId": "srcId24",
-          "companyName": "㈜동천수가야산샘물",
+          "companyName": "(주)동천수가야산샘물",
           "factoryLocation": "경상남도 합천군 묘산면 영서로 1724-12"
         }
       ]
@@ -3462,7 +3453,7 @@
       "factories": [
         {
           "factoryId": "srcId25",
-          "companyName": "산청음료㈜",
+          "companyName": "산청음료(주)",
           "factoryLocation": "경상남도 산청군 시천면 남명로 59-61"
         }
       ]
@@ -3473,7 +3464,7 @@
       "factories": [
         {
           "factoryId": "srcId25",
-          "companyName": "산청음료㈜",
+          "companyName": "산청음료(주)",
           "factoryLocation": "경상남도 산청군 시천면 남명로 59-61"
         }
       ]
@@ -3484,7 +3475,7 @@
       "factories": [
         {
           "factoryId": "srcId25",
-          "companyName": "산청음료㈜",
+          "companyName": "산청음료(주)",
           "factoryLocation": "경상남도 산청군 시천면 남명로 59-61"
         }
       ]
@@ -3495,12 +3486,12 @@
       "factories": [
         {
           "factoryId": "srcId25",
-          "companyName": "산청음료㈜",
+          "companyName": "산청음료(주)",
           "factoryLocation": "경상남도 산청군 시천면 남명로 59-61"
         },
         {
           "factoryId": "srcId40",
-          "companyName": "㈜백학음료",
+          "companyName": "(주)백학음료",
           "factoryLocation": "경기도 연천군 백학면 장백로 589"
         }
       ]
@@ -3511,7 +3502,7 @@
       "factories": [
         {
           "factoryId": "srcId25",
-          "companyName": "산청음료㈜",
+          "companyName": "산청음료(주)",
           "factoryLocation": "경상남도 산청군 시천면 남명로 59-61"
         }
       ]
@@ -3522,12 +3513,12 @@
       "factories": [
         {
           "factoryId": "srcId25",
-          "companyName": "산청음료㈜",
+          "companyName": "산청음료(주)",
           "factoryLocation": "경상남도 산청군 시천면 남명로 59-61"
         },
         {
           "factoryId": "srcId41",
-          "companyName": "한국청정음료㈜",
+          "companyName": "한국청정음료(주)",
           "factoryLocation": "경기도 포천시 이동면 늠바위길 207-16"
         }
       ]
@@ -3538,12 +3529,12 @@
       "factories": [
         {
           "factoryId": "srcId25",
-          "companyName": "산청음료㈜",
+          "companyName": "산청음료(주)",
           "factoryLocation": "경상남도 산청군 시천면 남명로 59-61"
         },
         {
           "factoryId": "srcId54",
-          "companyName": "㈜로터스",
+          "companyName": "(주)로터스",
           "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
         }
       ]
@@ -3554,12 +3545,12 @@
       "factories": [
         {
           "factoryId": "srcId25",
-          "companyName": "산청음료㈜",
+          "companyName": "산청음료(주)",
           "factoryLocation": "경상남도 산청군 시천면 남명로 59-61"
         },
         {
           "factoryId": "srcId54",
-          "companyName": "㈜로터스",
+          "companyName": "(주)로터스",
           "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
         }
       ]
@@ -3570,7 +3561,7 @@
       "factories": [
         {
           "factoryId": "srcId25",
-          "companyName": "산청음료㈜",
+          "companyName": "산청음료(주)",
           "factoryLocation": "경상남도 산청군 시천면 남명로 59-61"
         }
       ]
@@ -3581,12 +3572,12 @@
       "factories": [
         {
           "factoryId": "srcId25",
-          "companyName": "산청음료㈜",
+          "companyName": "산청음료(주)",
           "factoryLocation": "경상남도 산청군 시천면 남명로 59-61"
         },
         {
           "factoryId": "srcId40",
-          "companyName": "㈜백학음료",
+          "companyName": "(주)백학음료",
           "factoryLocation": "경기도 연천군 백학면 장백로 589"
         }
       ]
@@ -3597,7 +3588,7 @@
       "factories": [
         {
           "factoryId": "srcId26",
-          "companyName": "㈜화인바이오",
+          "companyName": "(주)화인바이오",
           "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
         }
       ]
@@ -3608,7 +3599,7 @@
       "factories": [
         {
           "factoryId": "srcId26",
-          "companyName": "㈜화인바이오",
+          "companyName": "(주)화인바이오",
           "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
         }
       ]
@@ -3619,12 +3610,12 @@
       "factories": [
         {
           "factoryId": "srcId26",
-          "companyName": "㈜화인바이오",
+          "companyName": "(주)화인바이오",
           "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
         },
         {
           "factoryId": "srcId40",
-          "companyName": "㈜백학음료",
+          "companyName": "(주)백학음료",
           "factoryLocation": "경기도 연천군 백학면 장백로 589"
         }
       ]
@@ -3635,7 +3626,7 @@
       "factories": [
         {
           "factoryId": "srcId26",
-          "companyName": "㈜화인바이오",
+          "companyName": "(주)화인바이오",
           "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
         }
       ]
@@ -3646,7 +3637,7 @@
       "factories": [
         {
           "factoryId": "srcId26",
-          "companyName": "㈜화인바이오",
+          "companyName": "(주)화인바이오",
           "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
         }
       ]
@@ -3657,12 +3648,12 @@
       "factories": [
         {
           "factoryId": "srcId26",
-          "companyName": "㈜화인바이오",
+          "companyName": "(주)화인바이오",
           "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
         },
         {
           "factoryId": "srcId40",
-          "companyName": "㈜백학음료",
+          "companyName": "(주)백학음료",
           "factoryLocation": "경기도 연천군 백학면 장백로 589"
         }
       ]
@@ -3673,7 +3664,7 @@
       "factories": [
         {
           "factoryId": "srcId26",
-          "companyName": "㈜화인바이오",
+          "companyName": "(주)화인바이오",
           "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
         }
       ]
@@ -3684,7 +3675,7 @@
       "factories": [
         {
           "factoryId": "srcId26",
-          "companyName": "㈜화인바이오",
+          "companyName": "(주)화인바이오",
           "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
         }
       ]
@@ -3695,7 +3686,7 @@
       "factories": [
         {
           "factoryId": "srcId26",
-          "companyName": "㈜화인바이오",
+          "companyName": "(주)화인바이오",
           "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
         }
       ]
@@ -3706,7 +3697,7 @@
       "factories": [
         {
           "factoryId": "srcId26",
-          "companyName": "㈜화인바이오",
+          "companyName": "(주)화인바이오",
           "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
         }
       ]
@@ -3717,7 +3708,7 @@
       "factories": [
         {
           "factoryId": "srcId26",
-          "companyName": "㈜화인바이오",
+          "companyName": "(주)화인바이오",
           "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
         }
       ]
@@ -3728,7 +3719,7 @@
       "factories": [
         {
           "factoryId": "srcId26",
-          "companyName": "㈜화인바이오",
+          "companyName": "(주)화인바이오",
           "factoryLocation": "경상남도 산청군 시천면 삼신봉로 460"
         }
       ]
@@ -3739,7 +3730,7 @@
       "factories": [
         {
           "factoryId": "srcId29",
-          "companyName": "하이트진로음료㈜ 세종특별자치시공장",
+          "companyName": "하이트진로음료(주)세종특별자치시공장",
           "factoryLocation": "세종특별자치시 전의면 상대부길 33"
         }
       ]
@@ -3750,7 +3741,7 @@
       "factories": [
         {
           "factoryId": "srcId30",
-          "companyName": "㈜이동장수샘물",
+          "companyName": "(주)이동장수샘물",
           "factoryLocation": "경기도 포천시 이동면 금강로 6085-23"
         }
       ]
@@ -3761,7 +3752,7 @@
       "factories": [
         {
           "factoryId": "srcId30",
-          "companyName": "㈜이동장수샘물",
+          "companyName": "(주)이동장수샘물",
           "factoryLocation": "경기도 포천시 이동면 금강로 6085-23"
         }
       ]
@@ -3772,7 +3763,7 @@
       "factories": [
         {
           "factoryId": "srcId30",
-          "companyName": "㈜이동장수샘물",
+          "companyName": "(주)이동장수샘물",
           "factoryLocation": "경기도 포천시 이동면 금강로 6085-23"
         }
       ]
@@ -3783,12 +3774,12 @@
       "factories": [
         {
           "factoryId": "srcId30",
-          "companyName": "㈜이동장수샘물",
+          "companyName": "(주)이동장수샘물",
           "factoryLocation": "경기도 포천시 이동면 금강로 6085-23"
         },
         {
           "factoryId": "srcId47",
-          "companyName": "강원샘물㈜",
+          "companyName": "강원샘물(주)",
           "factoryLocation": "강원특별자치도 횡성군 청일면 청정로 1782"
         }
       ]
@@ -3799,7 +3790,7 @@
       "factories": [
         {
           "factoryId": "srcId30",
-          "companyName": "㈜이동장수샘물",
+          "companyName": "(주)이동장수샘물",
           "factoryLocation": "경기도 포천시 이동면 금강로 6085-23"
         }
       ]
@@ -3810,7 +3801,7 @@
       "factories": [
         {
           "factoryId": "srcId30",
-          "companyName": "㈜이동장수샘물",
+          "companyName": "(주)이동장수샘물",
           "factoryLocation": "경기도 포천시 이동면 금강로 6085-23"
         }
       ]
@@ -3821,7 +3812,7 @@
       "factories": [
         {
           "factoryId": "srcId30",
-          "companyName": "㈜이동장수샘물",
+          "companyName": "(주)이동장수샘물",
           "factoryLocation": "경기도 포천시 이동면 금강로 6085-23"
         }
       ]
@@ -3832,7 +3823,7 @@
       "factories": [
         {
           "factoryId": "srcId30",
-          "companyName": "㈜이동장수샘물",
+          "companyName": "(주)이동장수샘물",
           "factoryLocation": "경기도 포천시 이동면 금강로 6085-23"
         }
       ]
@@ -3843,7 +3834,7 @@
       "factories": [
         {
           "factoryId": "srcId30",
-          "companyName": "㈜이동장수샘물",
+          "companyName": "(주)이동장수샘물",
           "factoryLocation": "경기도 포천시 이동면 금강로 6085-23"
         }
       ]
@@ -3854,7 +3845,7 @@
       "factories": [
         {
           "factoryId": "srcId30",
-          "companyName": "㈜이동장수샘물",
+          "companyName": "(주)이동장수샘물",
           "factoryLocation": "경기도 포천시 이동면 금강로 6085-23"
         }
       ]
@@ -3865,12 +3856,12 @@
       "factories": [
         {
           "factoryId": "srcId31",
-          "companyName": "㈜크리스탈샘물",
+          "companyName": "(주)크리스탈샘물",
           "factoryLocation": "경기도 가평군 설악면 회곡안골길 146"
         },
         {
           "factoryId": "srcId35",
-          "companyName": "우리샘물㈜",
+          "companyName": "우리샘물(주)",
           "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
         }
       ]
@@ -3881,7 +3872,7 @@
       "factories": [
         {
           "factoryId": "srcId31",
-          "companyName": "㈜크리스탈샘물",
+          "companyName": "(주)크리스탈샘물",
           "factoryLocation": "경기도 가평군 설악면 회곡안골길 146"
         }
       ]
@@ -3892,12 +3883,12 @@
       "factories": [
         {
           "factoryId": "srcId31",
-          "companyName": "㈜크리스탈샘물",
+          "companyName": "(주)크리스탈샘물",
           "factoryLocation": "경기도 가평군 설악면 회곡안골길 146"
         },
         {
           "factoryId": "srcId35",
-          "companyName": "우리샘물㈜",
+          "companyName": "우리샘물(주)",
           "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
         }
       ]
@@ -3908,7 +3899,7 @@
       "factories": [
         {
           "factoryId": "srcId31",
-          "companyName": "㈜크리스탈샘물",
+          "companyName": "(주)크리스탈샘물",
           "factoryLocation": "경기도 가평군 설악면 회곡안골길 146"
         }
       ]
@@ -3919,7 +3910,7 @@
       "factories": [
         {
           "factoryId": "srcId31",
-          "companyName": "㈜크리스탈샘물",
+          "companyName": "(주)크리스탈샘물",
           "factoryLocation": "경기도 가평군 설악면 회곡안골길 146"
         }
       ]
@@ -3930,7 +3921,7 @@
       "factories": [
         {
           "factoryId": "srcId31",
-          "companyName": "㈜크리스탈샘물",
+          "companyName": "(주)크리스탈샘물",
           "factoryLocation": "경기도 가평군 설악면 회곡안골길 146"
         }
       ]
@@ -3941,7 +3932,7 @@
       "factories": [
         {
           "factoryId": "srcId31",
-          "companyName": "㈜크리스탈샘물",
+          "companyName": "(주)크리스탈샘물",
           "factoryLocation": "경기도 가평군 설악면 회곡안골길 146"
         }
       ]
@@ -3952,7 +3943,7 @@
       "factories": [
         {
           "factoryId": "srcId31",
-          "companyName": "㈜크리스탈샘물",
+          "companyName": "(주)크리스탈샘물",
           "factoryLocation": "경기도 가평군 설악면 회곡안골길 146"
         }
       ]
@@ -3963,7 +3954,7 @@
       "factories": [
         {
           "factoryId": "srcId33",
-          "companyName": "씨에이치음료㈜ 양주공장",
+          "companyName": "씨에이치음료(주)양주공장",
           "factoryLocation": "경기도 양주시 남면 삼육사로 197-53"
         }
       ]
@@ -3974,7 +3965,7 @@
       "factories": [
         {
           "factoryId": "srcId34",
-          "companyName": "㈜포천그린",
+          "companyName": "(주)포천그린",
           "factoryLocation": "경기도 포천시 이동면 화동로 1870번길 173"
         }
       ]
@@ -3985,17 +3976,17 @@
       "factories": [
         {
           "factoryId": "srcId34",
-          "companyName": "㈜포천그린",
+          "companyName": "(주)포천그린",
           "factoryLocation": "경기도 포천시 이동면 화동로 1870번길 173"
         },
         {
           "factoryId": "srcId35",
-          "companyName": "우리샘물㈜",
+          "companyName": "우리샘물(주)",
           "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
         },
         {
           "factoryId": "srcId41",
-          "companyName": "한국청정음료㈜",
+          "companyName": "한국청정음료(주)",
           "factoryLocation": "경기도 포천시 이동면 늠바위길 207-16"
         }
       ]
@@ -4006,7 +3997,7 @@
       "factories": [
         {
           "factoryId": "srcId35",
-          "companyName": "우리샘물㈜",
+          "companyName": "우리샘물(주)",
           "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
         }
       ]
@@ -4017,7 +4008,7 @@
       "factories": [
         {
           "factoryId": "srcId35",
-          "companyName": "우리샘물㈜",
+          "companyName": "우리샘물(주)",
           "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
         }
       ]
@@ -4028,7 +4019,7 @@
       "factories": [
         {
           "factoryId": "srcId35",
-          "companyName": "우리샘물㈜",
+          "companyName": "우리샘물(주)",
           "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
         }
       ]
@@ -4039,7 +4030,7 @@
       "factories": [
         {
           "factoryId": "srcId35",
-          "companyName": "우리샘물㈜",
+          "companyName": "우리샘물(주)",
           "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
         }
       ]
@@ -4050,7 +4041,7 @@
       "factories": [
         {
           "factoryId": "srcId35",
-          "companyName": "우리샘물㈜",
+          "companyName": "우리샘물(주)",
           "factoryLocation": "경기도 가평군 조종면 연인산로 474번길 140-57"
         }
       ]
@@ -4061,7 +4052,7 @@
       "factories": [
         {
           "factoryId": "srcId36",
-          "companyName": "포천음료㈜",
+          "companyName": "포천음료(주)",
           "factoryLocation": "경기도 포천시 화현면 우시동길 16"
         }
       ]
@@ -4072,7 +4063,7 @@
       "factories": [
         {
           "factoryId": "srcId36",
-          "companyName": "포천음료㈜",
+          "companyName": "포천음료(주)",
           "factoryLocation": "경기도 포천시 화현면 우시동길 16"
         }
       ]
@@ -4083,7 +4074,7 @@
       "factories": [
         {
           "factoryId": "srcId36",
-          "companyName": "포천음료㈜",
+          "companyName": "포천음료(주)",
           "factoryLocation": "경기도 포천시 화현면 우시동길 16"
         }
       ]
@@ -4094,7 +4085,7 @@
       "factories": [
         {
           "factoryId": "srcId36",
-          "companyName": "포천음료㈜",
+          "companyName": "포천음료(주)",
           "factoryLocation": "경기도 포천시 화현면 우시동길 16"
         }
       ]
@@ -4105,7 +4096,7 @@
       "factories": [
         {
           "factoryId": "srcId38",
-          "companyName": "산수음료㈜",
+          "companyName": "산수음료(주)",
           "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
         }
       ]
@@ -4116,7 +4107,7 @@
       "factories": [
         {
           "factoryId": "srcId38",
-          "companyName": "산수음료㈜",
+          "companyName": "산수음료(주)",
           "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
         }
       ]
@@ -4127,7 +4118,7 @@
       "factories": [
         {
           "factoryId": "srcId38",
-          "companyName": "산수음료㈜",
+          "companyName": "산수음료(주)",
           "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
         }
       ]
@@ -4138,7 +4129,7 @@
       "factories": [
         {
           "factoryId": "srcId38",
-          "companyName": "산수음료㈜",
+          "companyName": "산수음료(주)",
           "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
         }
       ]
@@ -4149,7 +4140,7 @@
       "factories": [
         {
           "factoryId": "srcId38",
-          "companyName": "산수음료㈜",
+          "companyName": "산수음료(주)",
           "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
         }
       ]
@@ -4160,7 +4151,7 @@
       "factories": [
         {
           "factoryId": "srcId38",
-          "companyName": "산수음료㈜",
+          "companyName": "산수음료(주)",
           "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
         }
       ]
@@ -4171,7 +4162,7 @@
       "factories": [
         {
           "factoryId": "srcId38",
-          "companyName": "산수음료㈜",
+          "companyName": "산수음료(주)",
           "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
         }
       ]
@@ -4182,7 +4173,7 @@
       "factories": [
         {
           "factoryId": "srcId38",
-          "companyName": "산수음료㈜",
+          "companyName": "산수음료(주)",
           "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
         }
       ]
@@ -4193,7 +4184,7 @@
       "factories": [
         {
           "factoryId": "srcId38",
-          "companyName": "산수음료㈜",
+          "companyName": "산수음료(주)",
           "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
         }
       ]
@@ -4204,7 +4195,7 @@
       "factories": [
         {
           "factoryId": "srcId38",
-          "companyName": "산수음료㈜",
+          "companyName": "산수음료(주)",
           "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
         }
       ]
@@ -4215,7 +4206,7 @@
       "factories": [
         {
           "factoryId": "srcId38",
-          "companyName": "산수음료㈜",
+          "companyName": "산수음료(주)",
           "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
         }
       ]
@@ -4226,7 +4217,7 @@
       "factories": [
         {
           "factoryId": "srcId38",
-          "companyName": "산수음료㈜",
+          "companyName": "산수음료(주)",
           "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
         }
       ]
@@ -4237,7 +4228,7 @@
       "factories": [
         {
           "factoryId": "srcId38",
-          "companyName": "산수음료㈜",
+          "companyName": "산수음료(주)",
           "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
         }
       ]
@@ -4248,7 +4239,7 @@
       "factories": [
         {
           "factoryId": "srcId38",
-          "companyName": "산수음료㈜",
+          "companyName": "산수음료(주)",
           "factoryLocation": "경기도 남양주시 수동면 비룡로 900번길 40-15"
         }
       ]
@@ -4259,7 +4250,7 @@
       "factories": [
         {
           "factoryId": "srcId39",
-          "companyName": "㈜동원에프앤비 연천공장",
+          "companyName": "(주)동원에프앤비연천공장",
           "factoryLocation": "경기도 연천군 청산면 순욱길 256"
         }
       ]
@@ -4270,7 +4261,7 @@
       "factories": [
         {
           "factoryId": "srcId39",
-          "companyName": "㈜동원에프앤비 연천공장",
+          "companyName": "(주)동원에프앤비연천공장",
           "factoryLocation": "경기도 연천군 청산면 순욱길 256"
         }
       ]
@@ -4281,7 +4272,7 @@
       "factories": [
         {
           "factoryId": "srcId39",
-          "companyName": "㈜동원에프앤비 연천공장",
+          "companyName": "(주)동원에프앤비연천공장",
           "factoryLocation": "경기도 연천군 청산면 순욱길 256"
         }
       ]
@@ -4292,7 +4283,7 @@
       "factories": [
         {
           "factoryId": "srcId40",
-          "companyName": "㈜백학음료",
+          "companyName": "(주)백학음료",
           "factoryLocation": "경기도 연천군 백학면 장백로 589"
         }
       ]
@@ -4303,7 +4294,7 @@
       "factories": [
         {
           "factoryId": "srcId40",
-          "companyName": "㈜백학음료",
+          "companyName": "(주)백학음료",
           "factoryLocation": "경기도 연천군 백학면 장백로 589"
         }
       ]
@@ -4314,7 +4305,7 @@
       "factories": [
         {
           "factoryId": "srcId40",
-          "companyName": "㈜백학음료",
+          "companyName": "(주)백학음료",
           "factoryLocation": "경기도 연천군 백학면 장백로 589"
         }
       ]
@@ -4325,7 +4316,7 @@
       "factories": [
         {
           "factoryId": "srcId40",
-          "companyName": "㈜백학음료",
+          "companyName": "(주)백학음료",
           "factoryLocation": "경기도 연천군 백학면 장백로 589"
         }
       ]
@@ -4336,7 +4327,7 @@
       "factories": [
         {
           "factoryId": "srcId40",
-          "companyName": "㈜백학음료",
+          "companyName": "(주)백학음료",
           "factoryLocation": "경기도 연천군 백학면 장백로 589"
         }
       ]
@@ -4347,7 +4338,7 @@
       "factories": [
         {
           "factoryId": "srcId40",
-          "companyName": "㈜백학음료",
+          "companyName": "(주)백학음료",
           "factoryLocation": "경기도 연천군 백학면 장백로 589"
         }
       ]
@@ -4358,7 +4349,7 @@
       "factories": [
         {
           "factoryId": "srcId40",
-          "companyName": "㈜백학음료",
+          "companyName": "(주)백학음료",
           "factoryLocation": "경기도 연천군 백학면 장백로 589"
         }
       ]
@@ -4369,7 +4360,7 @@
       "factories": [
         {
           "factoryId": "srcId41",
-          "companyName": "한국청정음료㈜",
+          "companyName": "한국청정음료(주)",
           "factoryLocation": "경기도 포천시 이동면 늠바위길 207-16"
         }
       ]
@@ -4380,7 +4371,7 @@
       "factories": [
         {
           "factoryId": "srcId41",
-          "companyName": "한국청정음료㈜",
+          "companyName": "한국청정음료(주)",
           "factoryLocation": "경기도 포천시 이동면 늠바위길 207-16"
         }
       ]
@@ -4391,7 +4382,7 @@
       "factories": [
         {
           "factoryId": "srcId41",
-          "companyName": "한국청정음료㈜",
+          "companyName": "한국청정음료(주)",
           "factoryLocation": "경기도 포천시 이동면 늠바위길 207-16"
         }
       ]
@@ -4402,7 +4393,7 @@
       "factories": [
         {
           "factoryId": "srcId41",
-          "companyName": "한국청정음료㈜",
+          "companyName": "한국청정음료(주)",
           "factoryLocation": "경기도 포천시 이동면 늠바위길 207-16"
         }
       ]
@@ -4413,7 +4404,7 @@
       "factories": [
         {
           "factoryId": "srcId41",
-          "companyName": "한국청정음료㈜",
+          "companyName": "한국청정음료(주)",
           "factoryLocation": "경기도 포천시 이동면 늠바위길 207-16"
         }
       ]
@@ -4424,7 +4415,7 @@
       "factories": [
         {
           "factoryId": "srcId42",
-          "companyName": "풀무원샘물㈜",
+          "companyName": "풀무원샘물(주)",
           "factoryLocation": "경기도 포천시 이동면 화동로 1870번길 142-24"
         }
       ]
@@ -4435,7 +4426,7 @@
       "factories": [
         {
           "factoryId": "srcId42",
-          "companyName": "풀무원샘물㈜",
+          "companyName": "풀무원샘물(주)",
           "factoryLocation": "경기도 포천시 이동면 화동로 1870번길 142-24"
         }
       ]
@@ -4446,7 +4437,7 @@
       "factories": [
         {
           "factoryId": "srcId42",
-          "companyName": "풀무원샘물㈜",
+          "companyName": "풀무원샘물(주)",
           "factoryLocation": "경기도 포천시 이동면 화동로 1870번길 142-24"
         }
       ]
@@ -4457,7 +4448,7 @@
       "factories": [
         {
           "factoryId": "srcId42",
-          "companyName": "풀무원샘물㈜",
+          "companyName": "풀무원샘물(주)",
           "factoryLocation": "경기도 포천시 이동면 화동로 1870번길 142-24"
         }
       ]
@@ -4468,7 +4459,7 @@
       "factories": [
         {
           "factoryId": "srcId44",
-          "companyName": "한국공항㈜",
+          "companyName": "한국공항(주)",
           "factoryLocation": "제주특별자치도 서귀포시 표선면 녹산로 871-79"
         }
       ]
@@ -4479,7 +4470,7 @@
       "factories": [
         {
           "factoryId": "srcId44",
-          "companyName": "한국공항㈜",
+          "companyName": "한국공항(주)",
           "factoryLocation": "제주특별자치도 서귀포시 표선면 녹산로 871-79"
         }
       ]
@@ -4622,7 +4613,7 @@
       "factories": [
         {
           "factoryId": "srcId47",
-          "companyName": "강원샘물㈜",
+          "companyName": "강원샘물(주)",
           "factoryLocation": "강원특별자치도 횡성군 청일면 청정로 1782"
         }
       ]
@@ -4633,7 +4624,7 @@
       "factories": [
         {
           "factoryId": "srcId47",
-          "companyName": "강원샘물㈜",
+          "companyName": "강원샘물(주)",
           "factoryLocation": "강원특별자치도 횡성군 청일면 청정로 1782"
         }
       ]
@@ -4644,7 +4635,7 @@
       "factories": [
         {
           "factoryId": "srcId47",
-          "companyName": "강원샘물㈜",
+          "companyName": "강원샘물(주)",
           "factoryLocation": "강원특별자치도 횡성군 청일면 청정로 1782"
         }
       ]
@@ -4655,7 +4646,7 @@
       "factories": [
         {
           "factoryId": "srcId48",
-          "companyName": "㈜동해샘물",
+          "companyName": "(주)동해샘물",
           "factoryLocation": "강원특별자치도 동해시 석두골길 151"
         }
       ]
@@ -4666,7 +4657,7 @@
       "factories": [
         {
           "factoryId": "srcId48",
-          "companyName": "㈜동해샘물",
+          "companyName": "(주)동해샘물",
           "factoryLocation": "강원특별자치도 동해시 석두골길 151"
         }
       ]
@@ -4677,7 +4668,7 @@
       "factories": [
         {
           "factoryId": "srcId48",
-          "companyName": "㈜동해샘물",
+          "companyName": "(주)동해샘물",
           "factoryLocation": "강원특별자치도 동해시 석두골길 151"
         }
       ]
@@ -4688,7 +4679,7 @@
       "factories": [
         {
           "factoryId": "srcId48",
-          "companyName": "㈜동해샘물",
+          "companyName": "(주)동해샘물",
           "factoryLocation": "강원특별자치도 동해시 석두골길 151"
         }
       ]
@@ -4699,7 +4690,7 @@
       "factories": [
         {
           "factoryId": "srcId49",
-          "companyName": "㈜태백산수음료",
+          "companyName": "(주)태백산수음료",
           "factoryLocation": "강원특별자치도 홍천군 화촌면 굴운로 471"
         }
       ]
@@ -4710,7 +4701,7 @@
       "factories": [
         {
           "factoryId": "srcId49",
-          "companyName": "㈜태백산수음료",
+          "companyName": "(주)태백산수음료",
           "factoryLocation": "강원특별자치도 홍천군 화촌면 굴운로 471"
         }
       ]
@@ -4721,7 +4712,7 @@
       "factories": [
         {
           "factoryId": "srcId49",
-          "companyName": "㈜태백산수음료",
+          "companyName": "(주)태백산수음료",
           "factoryLocation": "강원특별자치도 홍천군 화촌면 굴운로 471"
         }
       ]
@@ -4732,7 +4723,7 @@
       "factories": [
         {
           "factoryId": "srcId50",
-          "companyName": "해태에이치티비㈜ 철원공장",
+          "companyName": "해태에이치티비(주)철원공장",
           "factoryLocation": "강원특별자치도 철원군 근남면 하문수동길 93"
         }
       ]
@@ -4743,7 +4734,7 @@
       "factories": [
         {
           "factoryId": "srcId50",
-          "companyName": "해태에이치티비㈜ 철원공장",
+          "companyName": "해태에이치티비(주)철원공장",
           "factoryLocation": "강원특별자치도 철원군 근남면 하문수동길 93"
         }
       ]
@@ -4754,12 +4745,12 @@
       "factories": [
         {
           "factoryId": "srcId50",
-          "companyName": "해태에이치티비㈜ 철원공장",
+          "companyName": "해태에이치티비(주)철원공장",
           "factoryLocation": "강원특별자치도 철원군 근남면 하문수동길 93"
         },
         {
           "factoryId": "srcId51",
-          "companyName": "해태에이치티비㈜ 평창공장",
+          "companyName": "해태에이치티비(주)평창공장",
           "factoryLocation": "강원특별자치도 평창군 봉평면 진조길 227-35"
         }
       ]
@@ -4770,7 +4761,7 @@
       "factories": [
         {
           "factoryId": "srcId51",
-          "companyName": "해태에이치티비㈜ 평창공장",
+          "companyName": "해태에이치티비(주)평창공장",
           "factoryLocation": "강원특별자치도 평창군 봉평면 진조길 227-35"
         }
       ]
@@ -4781,7 +4772,7 @@
       "factories": [
         {
           "factoryId": "srcId51",
-          "companyName": "해태에이치티비㈜ 평창공장",
+          "companyName": "해태에이치티비(주)평창공장",
           "factoryLocation": "강원특별자치도 평창군 봉평면 진조길 227-35"
         }
       ]
@@ -4792,7 +4783,7 @@
       "factories": [
         {
           "factoryId": "srcId51",
-          "companyName": "해태에이치티비㈜ 평창공장",
+          "companyName": "해태에이치티비(주)평창공장",
           "factoryLocation": "강원특별자치도 평창군 봉평면 진조길 227-35"
         }
       ]
@@ -4803,7 +4794,7 @@
       "factories": [
         {
           "factoryId": "srcId51",
-          "companyName": "해태에이치티비㈜ 평창공장",
+          "companyName": "해태에이치티비(주)평창공장",
           "factoryLocation": "강원특별자치도 평창군 봉평면 진조길 227-35"
         }
       ]
@@ -4814,7 +4805,7 @@
       "factories": [
         {
           "factoryId": "srcId52",
-          "companyName": "맑은물㈜",
+          "companyName": "맑은물(주)",
           "factoryLocation": "전라북도 완주군 소양면 소양신원길 126-26"
         }
       ]
@@ -4825,7 +4816,7 @@
       "factories": [
         {
           "factoryId": "srcId52",
-          "companyName": "맑은물㈜",
+          "companyName": "맑은물(주)",
           "factoryLocation": "전라북도 완주군 소양면 소양신원길 126-26"
         }
       ]
@@ -4836,7 +4827,7 @@
       "factories": [
         {
           "factoryId": "srcId52",
-          "companyName": "맑은물㈜",
+          "companyName": "맑은물(주)",
           "factoryLocation": "전라북도 완주군 소양면 소양신원길 126-26"
         }
       ]
@@ -4847,7 +4838,7 @@
       "factories": [
         {
           "factoryId": "srcId52",
-          "companyName": "맑은물㈜",
+          "companyName": "맑은물(주)",
           "factoryLocation": "전라북도 완주군 소양면 소양신원길 126-26"
         }
       ]
@@ -4858,7 +4849,7 @@
       "factories": [
         {
           "factoryId": "srcId52",
-          "companyName": "맑은물㈜",
+          "companyName": "맑은물(주)",
           "factoryLocation": "전라북도 완주군 소양면 소양신원길 126-26"
         }
       ]
@@ -4869,7 +4860,7 @@
       "factories": [
         {
           "factoryId": "srcId52",
-          "companyName": "맑은물㈜",
+          "companyName": "맑은물(주)",
           "factoryLocation": "전라북도 완주군 소양면 소양신원길 126-26"
         }
       ]
@@ -4880,7 +4871,7 @@
       "factories": [
         {
           "factoryId": "srcId52",
-          "companyName": "맑은물㈜",
+          "companyName": "맑은물(주)",
           "factoryLocation": "전라북도 완주군 소양면 소양신원길 126-26"
         }
       ]
@@ -4891,7 +4882,7 @@
       "factories": [
         {
           "factoryId": "srcId53",
-          "companyName": "㈜동원에프앤비",
+          "companyName": "(주)동원에프앤비",
           "factoryLocation": "전라북도 완주군 소양면 보검길 46-39"
         }
       ]
@@ -4902,7 +4893,7 @@
       "factories": [
         {
           "factoryId": "srcId53",
-          "companyName": "㈜동원에프앤비",
+          "companyName": "(주)동원에프앤비",
           "factoryLocation": "전라북도 완주군 소양면 보검길 46-39"
         }
       ]
@@ -4913,7 +4904,7 @@
       "factories": [
         {
           "factoryId": "srcId53",
-          "companyName": "㈜동원에프앤비",
+          "companyName": "(주)동원에프앤비",
           "factoryLocation": "전라북도 완주군 소양면 보검길 46-39"
         }
       ]
@@ -4924,7 +4915,7 @@
       "factories": [
         {
           "factoryId": "srcId54",
-          "companyName": "㈜로터스",
+          "companyName": "(주)로터스",
           "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
         }
       ]
@@ -4935,7 +4926,7 @@
       "factories": [
         {
           "factoryId": "srcId54",
-          "companyName": "㈜로터스",
+          "companyName": "(주)로터스",
           "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
         }
       ]
@@ -4946,7 +4937,7 @@
       "factories": [
         {
           "factoryId": "srcId54",
-          "companyName": "㈜로터스",
+          "companyName": "(주)로터스",
           "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
         }
       ]
@@ -4957,7 +4948,7 @@
       "factories": [
         {
           "factoryId": "srcId54",
-          "companyName": "㈜로터스",
+          "companyName": "(주)로터스",
           "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
         }
       ]
@@ -4968,7 +4959,7 @@
       "factories": [
         {
           "factoryId": "srcId54",
-          "companyName": "㈜로터스",
+          "companyName": "(주)로터스",
           "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
         }
       ]
@@ -4979,7 +4970,7 @@
       "factories": [
         {
           "factoryId": "srcId54",
-          "companyName": "㈜로터스",
+          "companyName": "(주)로터스",
           "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
         }
       ]
@@ -4990,7 +4981,7 @@
       "factories": [
         {
           "factoryId": "srcId54",
-          "companyName": "㈜로터스",
+          "companyName": "(주)로터스",
           "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
         }
       ]
@@ -5001,7 +4992,7 @@
       "factories": [
         {
           "factoryId": "srcId54",
-          "companyName": "㈜로터스",
+          "companyName": "(주)로터스",
           "factoryLocation": "전라북도 순창군 쌍치면 둔전1길 35"
         }
       ]
@@ -5012,7 +5003,7 @@
       "factories": [
         {
           "factoryId": "srcId55",
-          "companyName": "㈜더조은워터",
+          "companyName": "(주)더조은워터",
           "factoryLocation": "전북특별자치도 남원시 주천면 장백산로 139"
         }
       ]

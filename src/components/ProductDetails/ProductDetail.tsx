@@ -3,9 +3,10 @@ import { useState } from "react";
 
 interface ProductDetailProps {
   data: ProductsType;
+  selectFactory: (factory: FactoriesType) => void;
 }
 
-const ProductDetail = ({ data }: ProductDetailProps) => {
+const ProductDetail = ({ data, selectFactory }: ProductDetailProps) => {
   const [selectedFactory, setSelectedFactory] = useState<string>();
 
   return (
@@ -27,12 +28,14 @@ const ProductDetail = ({ data }: ProductDetailProps) => {
               <div style={{ padding: 12 }}>
                 <Radio.Group
                   value={selectedFactory}
-                  onChange={(val) => setSelectedFactory(val as string)}
+                  onChange={(val) => {
+                    setSelectedFactory(val as string);
+                  }}
                 >
                   <List header="업체명" className=" max-h-[40vh] overflow-auto">
                     {data.factories.map((factory) => (
                       <List.Item key={factory.factoryId}>
-                        <Radio value={factory.companyName}>
+                        <Radio value={factory.companyName} onClick={() => selectFactory(factory)}>
                           <p>{factory.companyName}</p>
                           <p className=" text-xs">{factory.factoryLocation}</p>
                         </Radio>
