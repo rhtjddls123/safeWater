@@ -1,8 +1,8 @@
 import { Grid, SpinLoading } from "antd-mobile";
-import ProductDetail from "../components/ProductDetail";
 import { useGetProduct } from "../store/products";
 import CustomErrorBlock from "../components/UI/CustomErrorBlock";
 import { useParams } from "react-router-dom";
+import ProductDetail from "../components/ProductDetails/ProductDetail";
 
 const ProductDetailsPage = () => {
   const param = useParams<params>();
