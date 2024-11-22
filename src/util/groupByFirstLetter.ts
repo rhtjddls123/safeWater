@@ -1,7 +1,7 @@
 import { getChoseong } from "es-hangul";
 
-export const groupByFirstLetter = (datas: ProductType[]) => {
-  const result: { title: string; items: ProductType[] }[] = [];
+export const groupByFirstLetter = (datas: ProductsType[]) => {
+  const result: { title: string; items: ProductsType[] }[] = [];
 
   const isKorean = (char: string) => /[가-힣]/.test(char); // 한글 여부 판단
   const isEnglish = (char: string) => /[a-zA-Z]/.test(char); // 영어 여부 판단
