@@ -1,21 +1,18 @@
 import { AutoCenter, Dropdown, Grid, Image, Radio, Space } from "antd-mobile";
 import { useState } from "react";
-import { useGetProduct } from "../store/products";
-import { useParams } from "react-router-dom";
 
-const ProductDetail = () => {
-  const param = useParams<params>();
-  const id = param.productId;
+interface ProductDetailProps {
+  data: ProductsType;
+}
 
+const ProductDetail = ({ data }: ProductDetailProps) => {
   const [selectedFactory, setSelectedFactory] = useState<string>();
-  const { data } = useGetProduct(id || "");
-  const factories = data?.factories || [];
 
   return (
     <Grid columns={1} gap={8}>
       <Grid.Item>
         <AutoCenter>
-          <h1 className=" text-xl font-bold">{data?.name}</h1>
+          <h1 className=" text-xl font-bold">{data.name}</h1>
         </AutoCenter>
       </Grid.Item>
       <Grid.Item>
@@ -33,7 +30,7 @@ const ProductDetail = () => {
                   onChange={(val) => setSelectedFactory(val as string)}
                 >
                   <Space direction="vertical" block>
-                    {factories.map((factory) => (
+                    {data.factories.map((factory) => (
                       <Radio value={factory.companyName} key={factory.factoryId}>
                         {factory.companyName}
                       </Radio>
