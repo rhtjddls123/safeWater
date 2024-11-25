@@ -182,7 +182,7 @@ const fetchRawTestData = async () => {
     "almnmStbltAt"
   ];
 
-  const url = "http://apis.data.go.kr/1480523/Dwqualityservice/getDrinkWaterORGWATR";
+  const url = "https://apis.data.go.kr/1480523/Dwqualityservice/getDrinkWaterORGWATR";
   const queryParams = {
     serviceKey: import.meta.env.VITE_API_KEY,
     numOfRows: "20000",
