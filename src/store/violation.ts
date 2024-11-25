@@ -4,7 +4,7 @@ import { getCurrentViolationDetail, getCurrentViolations, getViolations } from "
 export const useGetViolations = (name: string) => {
   return useQuery<RawTestType[] | null, Error>({
     queryKey: ["factory", "products", { name }],
-    queryFn: ({ signal }) => getViolations({ signal, name })
+    queryFn: () => getViolations({ name })
   });
 };
 

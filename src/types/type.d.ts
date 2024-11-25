@@ -63,3 +63,16 @@ interface CurrentViolationDetailType {
   violationDetails: string;
   actionDate: string;
 }
+
+interface CrawlingManufacturerDataType {
+  순번: string;
+  시도: string;
+  업체명: string;
+  대표자: string;
+  공장소재지: string;
+  제품명: string;
+  제조업허가일자: string;
+  일일취수허용량: string;
+  취수공정: string;
+  기준일자: string;
+}
