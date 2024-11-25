@@ -15,7 +15,7 @@ const CurrentViolationList = ({ data }: CurrentViolationListProps) => {
           <List key={violation + violation.number}>
             <List.Item
               onClick={() => {
-                navigate("");
+                navigate(violation.number, { state: violation.item.link });
               }}
             >
               <div>{violation.companyName}</div>

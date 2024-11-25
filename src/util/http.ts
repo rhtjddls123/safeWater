@@ -106,3 +106,33 @@ export async function getCurrentViolations({ signal }: { signal: AbortSignal }) 
     throw new Error("Error fetching the data");
   }
 }
+
+export async function getCurrentViolationDetail({
+  signal,
+  link
+}: {
+  signal: AbortSignal;
+  link: string;
+}) {
+  try {
+    const { data } = await axios.get(`/api${link}`, { signal });
+    const $ = cheerio.load(data);
+
+    const itemInfo: CurrentViolationDetailType = {
+      item: $(".view_info01_1 dl dd").eq(0).text().trim(), // 품목
+      companyName: $(".view_info02_1 dl dd").eq(0).text().trim(), // 업체명
+      companyAddress: $(".view_info02_1 dl dd").eq(1).text().trim(), // 업체소재지
+      productName: $(".view_info02_2 dl dd").eq(0).text().trim(), // 제품명
+      businessType: $(".view_info02_2 dl dd").eq(1).text().trim(), // 업종명
+      publicationDeadline: $(".view_info02_1 dl dd").eq(2).text().trim(), // 공표마감일자
+      actionName: $(".view_info02_2 dl dd").eq(2).text().trim(), // 처분명
+      actionPeriod: $(".view_info02_2 dl dd").eq(3).text().trim(), // 처분기간
+      violationDetails: $(".view_con p").eq(1).text().trim(), // 위반내용
+      actionDate: $(".view_info01_1 dl dd").eq(1).text().trim() // 처분일자
+    };
+
+    return itemInfo;
+  } catch {
+    throw new Error("Error fetching the data");
+  }
+}

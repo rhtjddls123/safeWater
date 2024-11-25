@@ -6,6 +6,7 @@ import ViolationsPage from "./pages/Violations";
 import ErrorPage from "./pages/Error";
 import { queryClient } from "./util/http";
 import ProductDetailsPage from "./pages/ProductDetails";
+import ViolationDetailsPage from "./pages/ViolationDetails";
 
 const router = createBrowserRouter([
   {
@@ -26,7 +27,8 @@ const router = createBrowserRouter([
       {
         path: "/violations",
         element: <ViolationsPage />
-      }
+      },
+      { path: "/violations/:violationId", element: <ViolationDetailsPage /> }
     ]
   }
 ]);

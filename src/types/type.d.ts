@@ -50,3 +50,16 @@ interface CrawlingDataType {
   publicationDeadline: string;
   viewCount: string;
 }
+
+interface CurrentViolationDetailType {
+  item: string;
+  companyName: string;
+  companyAddress: string;
+  productName: string;
+  businessType: string;
+  publicationDeadline: string;
+  actionName: string;
+  actionPeriod: string;
+  violationDetails: string;
+  actionDate: string;
+}
