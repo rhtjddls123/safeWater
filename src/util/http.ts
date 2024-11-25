@@ -86,7 +86,10 @@ export async function getCurrentViolations({ signal }: { signal: AbortSignal }) 
       const cols = $(element).find("td");
       const data: CrawlingDataType = {
         number: $(cols[0]).text().trim(),
-        item: $(cols[1]).text().trim(),
+        item: {
+          name: $(cols[1]).find("a").text().trim(),
+          link: $(cols[1]).find("a").attr("href")
+        },
         companyName: $(cols[2]).text().trim(),
         productName: $(cols[3]).text().trim(),
         actionName: $(cols[4]).text().trim(),

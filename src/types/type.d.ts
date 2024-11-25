@@ -38,11 +38,11 @@ interface FactoriesType {
   factoryLocation: string;
 }
 
-type params = "productId" | "factoryId";
+type params = "productId" | "violationId";
 
 interface CrawlingDataType {
   number: string;
-  item: string;
+  item: { name: string; link?: string };
   companyName: string;
   productName: string;
   actionName: string;
