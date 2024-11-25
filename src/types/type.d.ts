@@ -39,3 +39,14 @@ interface FactoriesType {
 }
 
 type params = "productId" | "factoryId";
+
+interface CrawlingDataType {
+  number: string;
+  item: string;
+  companyName: string;
+  productName: string;
+  actionName: string;
+  actionDate: string;
+  publicationDeadline: string;
+  viewCount: string;
+}

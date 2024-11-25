@@ -1,4 +1,6 @@
 import { QueryClient } from "@tanstack/react-query";
+import axios from "axios";
+import * as cheerio from "cheerio";
 import moment from "moment";
 
 export const queryClient = new QueryClient();
@@ -68,4 +70,36 @@ export async function getViolations({ signal, name }: { signal: AbortSignal; nam
       return dateB.diff(dateA);
     });
   return violation || null;
+}
+
+export async function getCurrentViolations({ signal }: { signal: AbortSignal }) {
+  const url = "/api/home/web/index.do?menuId=10227";
+
+  try {
+    const { data } = await axios.get(url, { signal });
+    const $ = cheerio.load(data);
+    const rows = $("tbody tr");
+
+    const result: CrawlingDataType[] = [];
+
+    rows.each((_, element) => {
+      const cols = $(element).find("td");
+      const data: CrawlingDataType = {
+        number: $(cols[0]).text().trim(),
+        item: $(cols[1]).text().trim(),
+        companyName: $(cols[2]).text().trim(),
+        productName: $(cols[3]).text().trim(),
+        actionName: $(cols[4]).text().trim(),
+        actionDate: $(cols[5]).text().trim(),
+        publicationDeadline: $(cols[6]).text().trim(),
+        viewCount: $(cols[7]).text().trim()
+      };
+
+      result.push(data);
+    });
+
+    return result;
+  } catch {
+    throw new Error("Error fetching the data");
+  }
 }

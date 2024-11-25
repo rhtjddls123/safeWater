@@ -7,7 +7,7 @@ const RootLayout = () => {
     <>
       <div className={"h-screen flex flex-col"}>
         <div className={"flex-none border-b "}>
-          <NavBar backIcon={false}></NavBar>
+          <NavBar backIcon={false}>SAFE WATER</NavBar>
         </div>
         <div className={"flex-1 justify-center items-center overflow-auto"}>
           <Outlet />
