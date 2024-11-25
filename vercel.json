@@ -1,3 +1,19 @@
 {
-  "routes": [{ "handle": "filesystem" }, { "src": "/.*", "dest": "/index.html" }]
+  "routes": [
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "/.*",
+      "dest": "/index.html"
+    },
+    {
+      "src": "/waternow/(.*)",
+      "dest": "https://www.waternow.go.kr/$1"
+    },
+    {
+      "src": "/api/(.*)",
+      "dest": "https://me.go.kr/$1"
+    }
+  ]
 }
