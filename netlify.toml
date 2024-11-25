@@ -1,9 +1,4 @@
 [[redirects]]
-from = "/*"
-to = "/index.html"
-status = 200
-
-[[redirects]]
   from = "/waternow/*"
   to = "https://www.waternow.go.kr/:splat"
   status = 200
@@ -14,3 +9,8 @@ status = 200
   to = "https://me.go.kr/:splat"
   status = 200
   force = true
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
