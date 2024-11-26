@@ -3,16 +3,28 @@
   "short_name": "safeWater",
   "icons": [
     {
-      "src": "safeWater_192.png",
+      "src": "safeWater_any_192.png",
       "type": "image/png",
       "sizes": "192x192",
-      "purpose": "any maskable"
+      "purpose": "maskable"
     },
     {
-      "src": "safeWater_512.png",
+      "src": "safeWater_any_192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "safeWater_any_512.png",
       "type": "image/png",
       "sizes": "512x512",
-      "purpose": "any maskable"
+      "purpose": "maskable"
+    },
+    {
+      "src": "safeWater_any_512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
     }
   ],
   "start_url": ".",
